@@ -1,0 +1,71 @@
+name: Update Blocklists
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run Adblock List Manager
+        run: python3 run.py
+
+      - name: Deploy to lists branch
+        run: |
+          # Copy output to temp so we can mangle branches
+          mkdir -p /tmp/lists-deploy
+          if [ -d lists ] && [ "$(ls -A lists)" ]; then
+            cp -r lists/* /tmp/lists-deploy/
+          fi
+
+          # Configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Switch to lists branch (create orphan if it doesn't exist)
+          if git ls-remote --exit-code origin lists > /dev/null 2>&1; then
+            git fetch origin lists
+            git checkout lists
+          else
+            git checkout --orphan lists
+            git rm -rf . > /dev/null 2>&1 || true
+          fi
+
+          # Clean everything except .git
+          find . -not -path './.git/*' -not -name '.git' -delete
+
+          # Copy the processed lists in
+          if [ -d /tmp/lists-deploy ] && [ "$(ls -A /tmp/lists-deploy)" ]; then
+            cp -r /tmp/lists-deploy/* .
+          fi
+
+          # Commit and push
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update blocklists — ${TIMESTAMP}"
+            git push origin lists
+          fi

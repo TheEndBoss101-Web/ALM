@@ -1,0 +1,18 @@
+# Generated / cached — never commit to master
+sources/
+lists/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~

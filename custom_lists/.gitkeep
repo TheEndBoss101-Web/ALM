@@ -1,0 +1,7 @@
+# Drop your custom list files here and reference them in config.yaml
+#
+# Example:
+#   custom_lists:
+#     my_list: my_domains.txt
+#
+# Then put my_domains.txt in this directory.

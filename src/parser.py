@@ -58,7 +58,14 @@ ABP_ELEM_HIDING = re.compile(
 # Hosts format: IP whitespace domain
 HOSTS_LINE = re.compile(r'^(\S+)\s+(\S+)')
 
-# Plain URL
+# Plain URL — must NOT contain ABP-style $options in the path part
+# Lines like http://ads.com$third-party are ABP rules, not plain URLs.
+# But $ in query strings (price=$10) is valid — only check before ? or #.
+def _has_abp_url_options(url):
+    """True if the URL has $\w in the path part (before any ? or #)."""
+    path_part = url.split('?')[0].split('#')[0]
+    return bool(re.search(r'\$\w', path_part))
+
 PLAIN_URL = re.compile(r'^(https?://\S+)$', re.IGNORECASE)
 
 # Simple domain (no protocol, no wildcard, no path)
@@ -246,9 +253,11 @@ def classify_line(line):
                 'raw': f'{ip_part} {domain_clean}'
             }
 
-    # --- 11. Plain URL ---
+    # --- 11. Plain URL — reject if it has ABP $options like $third-party ---
     if PLAIN_URL.match(stripped):
-        return URL, {'url': stripped}
+        # http://ads.com$third-party is an ABP rule, not a URL
+        if not _has_abp_url_options(stripped):
+            return URL, {'url': stripped}
 
     # --- 12. Wildcard domain ---
     m = WILDCARD_DOMAIN.match(stripped)

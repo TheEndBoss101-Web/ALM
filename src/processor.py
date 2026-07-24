@@ -10,6 +10,7 @@ synthetic render of what was extracted.
 import os
 from urllib.parse import urlparse
 from . import parser
+from .whitelist import load_whitelist, apply_whitelist
 
 
 def _dedup(lines):
@@ -139,6 +140,12 @@ def process_list(content, name):
         _dedup(domains_for_abp), _dedup(ips_for_abp), _dedup(urls_for_abp)
     )
     categories['abp'] = _dedup(abp_lines)
+
+    # --- Apply whitelist pruning ---
+    wl_patterns = load_whitelist()
+    if wl_patterns:
+        for cat in categories:
+            categories[cat] = apply_whitelist(categories[cat], wl_patterns)
 
     # --- Write to disk ---
     out_dir = os.path.join('lists', name)

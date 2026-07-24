@@ -7,6 +7,7 @@ and writes to lists/<combined_name>/.
 """
 
 import os
+from .whitelist import load_whitelist, apply_whitelist
 
 CATEGORIES = ['ipv4', 'ipv6', 'ips', 'domains', 'hosts', 'urls', 'abp']
 
@@ -71,6 +72,12 @@ def combine_lists(combined_name, source_names, lists_dir=None):
     # Dedup ALL categories (combined lists dedup everything, including ABP)
     for cat in CATEGORIES:
         merged[cat] = _dedup(merged[cat])
+
+    # --- Apply whitelist pruning (post-combine) ---
+    wl_patterns = load_whitelist()
+    if wl_patterns:
+        for cat in CATEGORIES:
+            merged[cat] = apply_whitelist(merged[cat], wl_patterns)
 
     # Write output
     out_dir = os.path.join(lists_dir, combined_name)

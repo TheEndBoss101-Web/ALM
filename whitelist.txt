@@ -1,0 +1,40 @@
+# Adblock List Manager — whitelist patterns
+#
+# Lines starting with # are comments. Blank lines are ignored.
+# Each non-comment line is a substring match pattern.
+# If any output line (in any category) CONTAINS the pattern, it's removed.
+#
+# Be careful with short patterns — .com would nuke everything with .com in it.
+# Prefer specific patterns like full URLs or domain names.
+
+# GitHub issue references — not blocking rules
+github.com/AdguardTeam/AdguardFilters/issues
+github.com/AdguardTeam/FiltersRegistry/issues
+
+# ABP option artifacts that aren't real URLs
+$third-party
+$script
+$image
+$stylesheet
+$xmlhttprequest
+$object
+$subdocument
+$popup
+$domain=
+$important
+$match-case
+$collapse
+$ping
+$other
+$webrtc
+$document
+$genericblock
+$generichide
+$specifichide
+$elemhide
+$csp=
+$rewrite=
+$redirect=
+$redirect-rule=
+$removeparam=
+$header=

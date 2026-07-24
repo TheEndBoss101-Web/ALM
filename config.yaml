@@ -34,10 +34,14 @@ lists:
   abusech: https://urlhaus.abuse.ch/downloads/text/
   emergingthreats-compromisedips: https://rules.emergingthreats.net/blockrules/compromised-ips.txt
   phishingarmy-extended: https://phishing.army/download/phishing_army_blocklist_extended.txt
-
+  
 # Combined lists — merge already-processed lists into one
 # Sources are concatenated in order, then deduplicated.
 combine:
+  #firebog-green:
+  #firebog-blue:
+  #firebog-strike:
+  #firebog-recomended:
   mega:
     - oisd-big
     - HaGeZi-pro

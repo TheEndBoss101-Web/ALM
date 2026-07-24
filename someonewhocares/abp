@@ -1,13 +1,4 @@
-||localhost^$all
-||localhost.localdomain^$all
-||broadcasthost^$all
 ||local^$all
-||ip6-localhost^$all
-||ip6-localnet^$all
-||ip6-mcastprefix^$all
-||ip6-allnodes^$all
-||ip6-allrouters^$all
-||ip6-allhosts^$all
 ||ads234.com^$all
 ||ads345.com^$all
 ||www.ads234.com^$all
@@ -2968,7 +2959,6 @@
 ||thesimsresource.fr^$all
 ||thetorrentz.fr^$all
 ||thickporter.sa.com^$all
-||thislocalhost.com^$all
 ||thisone.online^$all
 ||thomasmore.fr^$all
 ||thunderbird.es^$all
@@ -12969,10 +12959,5 @@
 ||youaresogay.com^$all
 ||zentastic.com^$all
 ||127.0.0.1^$all
-||255.255.255.255^$all
 ||::1^$all
 ||fe00::0^$all
-||ff00::0^$all
-||ff02::1^$all
-||ff02::2^$all
-||ff02::3^$all

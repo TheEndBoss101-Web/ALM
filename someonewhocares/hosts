@@ -1,14 +1,4 @@
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-255.255.255.255 broadcasthost
-::1 localhost
 127.0.0.1 local
-::1 ip6-localhost
-fe00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
 127.0.0.1 ads234.com
 127.0.0.1 ads345.com
 127.0.0.1 www.ads234.com
@@ -2969,7 +2959,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 thesimsresource.fr
 127.0.0.1 thetorrentz.fr
 127.0.0.1 thickporter.sa.com
-127.0.0.1 thislocalhost.com
 127.0.0.1 thisone.online
 127.0.0.1 thomasmore.fr
 127.0.0.1 thunderbird.es

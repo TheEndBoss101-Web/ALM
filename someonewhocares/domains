@@ -1,13 +1,4 @@
-localhost
-localhost.localdomain
-broadcasthost
 local
-ip6-localhost
-ip6-localnet
-ip6-mcastprefix
-ip6-allnodes
-ip6-allrouters
-ip6-allhosts
 ads234.com
 ads345.com
 www.ads234.com
@@ -2968,7 +2959,6 @@ thesciencequest.info
 thesimsresource.fr
 thetorrentz.fr
 thickporter.sa.com
-thislocalhost.com
 thisone.online
 thomasmore.fr
 thunderbird.es

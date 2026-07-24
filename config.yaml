@@ -16,32 +16,197 @@ cache_ttl: 24
 # Remote blocklist subscriptions (name → URL)
 # The name determines the output directory under lists/<name>/
 lists:
-  # Main lists
+  # == Main list ==
   oisd-big: https://big.oisd.nl/
-  HaGeZi-pro: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
-  AdGuard-Base: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-  AdGuard-Mobile: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+  hagezi-pro: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+  adguard-base: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+  adguard-mobile: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+  adguard-dns: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
   urlhaus-malware: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt
   urlhaus-phishing: https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
   durablenapkin-scamblocklist: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-  UBO-badware: https://ublockorigin.github.io/uAssets/filters/badware.txt
-  DP-antimal: https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
-  EasyPrivacy: https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  EasyList: https://easylist-downloads.adblockplus.org/easylist.txt
+  ublock-badware: https://ublockorigin.github.io/uAssets/filters/badware.txt
+  dandelion-antimalware: https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout%27s%20Anti-Malware%20List.txt
+  easyprivacy: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+  easylist: https://easylist-downloads.adblockplus.org/easylist.txt
   someonewhocares: https://someonewhocares.org/hosts/hosts
-
-  # Others
-  abusech: https://urlhaus.abuse.ch/downloads/text/
-  emergingthreats-compromisedips: https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+  abusech-urlhaus: https://urlhaus.abuse.ch/downloads/text/
+  emergingthreats-compromised-ips: https://rules.emergingthreats.net/blockrules/compromised-ips.txt
   phishingarmy-extended: https://phishing.army/download/phishing_army_blocklist_extended.txt
+
+  #
+  # === Firebog - Suspicious ===
+  kadhosts: https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+  fadmind-spam: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+  w3kbl: https://v.firebog.net/hosts/static/w3kbl.txt
+
+  matomo-referrer-spam: https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+  rooney-snafu: https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+
+  hostsfile-mine-nu: https://hostsfile.mine.nu/hosts0.txt
+  barbblock-hosts: https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+  hostsfile-org: https://hostsfile.org/Downloads/hosts.txt
+  joewein-dom-bl: https://www.joewein.net/dl/bl/dom-bl-base.txt
+  kowabit: https://list.kwbt.de/kwbtlist.txt
+  neohostsbasic: https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts
+  mahakala-adblock: https://adblock.mahakala.is
+  mvps-hosts: https://winhelp2002.mvps.org/hosts.txt
+  yhosts: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+
+  # === Firebog - Advertising ===
+  adaway-hosts: https://adaway.org/hosts.txt
+  #firebog-adguard-dns: https://v.firebog.net/hosts/AdguardDNS.txt
+  admiral: https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+  anudeep-adservers: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+  yoyo-adservers: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+  fadmind-unchecky-ads: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+  bigdargon-hosts-vn: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+
+  disconnect-simple-ad: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+  ad-wars-hosts: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
+  # === Firebog - Tracking & Telemetry ===
+  firebog-prigent-ads: https://v.firebog.net/hosts/Prigent-Ads.txt
+  fadmind-2o7net: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+  windows-spyblocker: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+  frogeye-firstparty-trackers: https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+
+  developerdan-ads-tracking-extended: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+  frogeye-multiparty-trackers: https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+  kees-w3c-ads-trackers: https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST
+  perflyst-android-tracking: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+  perflyst-smarttv: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+  perflyst-amazon-firetv: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+  quidsup-notrack: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+
+  # === Firebog - Malware ===
+  dandelion-antimalware-alt: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+  firebog-prigent-crypto: https://v.firebog.net/hosts/Prigent-Crypto.txt
+  fadmind-risk: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+  quidsup-notrack-malware: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+  spam404-main: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+  assoechap-stalkerware: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+  cyberhost-malware: https://lists.cyberhost.uk/malware.txt
+
+  malware-filter-phishing-hosts: https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
+  firebog-prigent-malware: https://v.firebog.net/hosts/Prigent-Malware.txt
+  jarelllama-scams: https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt
+  rpilist-malware: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+  rpilist-phishing: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+
+  ethanr-mandiant-apt1: https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+  digitalside-latest-domains: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+  disconnect-simple-malvertising: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+  tg12-phishtank: https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
+  horusteknoloji-tr-phishing: https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+
+  # === Firebog - Other  ===
+  chadmayfield-porn-top1m: https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+  firebog-prigent-adult: https://v.firebog.net/hosts/Prigent-Adult.txt
+  anudeep-facebook: https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
   
 # Combined lists — merge already-processed lists into one
 # Sources are concatenated in order, then deduplicated.
 combine:
-  #firebog-green:
-  #firebog-blue:
-  #firebog-strike:
-  #firebog-recomended:
+  firebog-suspicious-green:
+    - kadhosts
+    - fadmind-spam
+    - w3kbl
+  firebog-suspicious-blue:
+    - matomo-referrer-spam
+    - someonewhocares
+    - rooney-snafu
+  firebog-suspicious-strike:
+    - hostsfile-mine-nu
+    - barbblock-hosts
+    - hostsfile-org
+    - joewein-dom-bl
+    - kowabit
+    - neohostsbasic
+    - mahakala-adblock
+    - mvps-hosts
+    - yhosts
+
+  firebog-advertising-green:
+    - adaway-hosts
+    - adguard-dns
+    - admiral
+    - anudeep-adservers
+    - easylist
+    - yoyo-adservers
+    - fadmind-unchecky-ads
+    - bigdargon-hosts-vn
+  firebog-advertising-blue:
+  firebog-advertising-strike:
+    - disconnect-simple-ad
+    - ad-wars-hosts
+
+  firebog-tandt-green:
+    - easyprivacy
+    - firebog-prigent-ads
+    - fadmind-2o7net
+    - windows-spyblocker
+    - frogeye-firstparty-trackers
+  firebog-tandt-blue:
+  firebog-tandt-strike:
+    - developerdan-ads-tracking-extended
+    - frogeye-multiparty-trackers
+    - kees-w3c-ads-trackers
+    - perflyst-android-tracking
+    - perflyst-smarttv
+    - perflyst-amazon-firetv
+    - quidsup-notrack
+
+  firebog-malicious-green:
+    - dandelion-antimalware-alt
+    - firebog-prigent-crypto
+    - fadmind-risk
+    - quidsup-notrack-malware
+    - spam404-main
+    - assoechap-stalkerware
+    - cyberhost-malware
+  firebog-malicious-blue:
+    - malware-filter-phishing-hosts
+    - firebog-prigent-malware
+    - jarelllama-scams
+    - rpilist-malware
+    - rpilist-phishing
+  firebog-malicious-strike:
+    - ethanr-mandiant-apt1
+    - digitalside-latest-domains
+    - disconnect-simple-malvertising
+    - tg12-phishtank
+    - horusteknoloji-tr-phishing
+
+  firebog-other-green:
+  firebog-other-blue:
+    - chadmayfield-porn-top1m
+    - firebog-prigent-adult
+    - anudeep-facebook
+  firebog-other-strike:
+
+  firebog-green:
+    - firebog-suspicious-green
+    - firebog-advertising-green
+    - firebog-tandt-green
+    - firebog-malicious-green
+    - firebog-other-green
+  firebog-blue:
+    - firebog-suspicious-blue
+    - firebog-advertising-blue
+    - firebog-tandt-blue
+    - firebog-malicious-blue
+    - firebog-other-blue
+  firebog-strike:
+    - firebog-suspicious-strike
+    - firebog-advertising-strike
+    - firebog-tandt-strike
+    - firebog-malicious-strike
+    - firebog-other-strike
+  firebog-recomended:
+    - firebog-green
+    - firebog-blue
+
   mega:
     - oisd-big
     - HaGeZi-pro

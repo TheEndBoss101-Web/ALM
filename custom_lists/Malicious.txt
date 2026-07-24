@@ -69,3 +69,14 @@
 
 !Google
 ||legatoux.com^$all
+
+! Telegram Scammers
+||xaaiacood.com^$all
+||xaaeec.com^$all
+
+! Email Scam
+|https://www.google.jp/share.google?q=obEklyw4jAB9FERwI|$all
+||mediatheater.net^$all
+||billing-primemembership.com^$all
+||cloudmanagementsite.z19.web.core.windows.net^$all
+||claycafechantilly.com^$all

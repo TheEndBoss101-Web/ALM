@@ -55,3 +55,6 @@ ff02::
 fe80::
 %lo0
 0.0.0.0 0.0.0.0
+
+# Hashvault
+hashvault.pro

@@ -46,7 +46,7 @@ jobs:
           # Switch to lists branch (create orphan if it doesn't exist)
           if git ls-remote --exit-code origin lists > /dev/null 2>&1; then
             git fetch origin lists
-            git checkout lists
+            git checkout --track origin/lists
           else
             git checkout --orphan lists
             git rm -rf . > /dev/null 2>&1 || true

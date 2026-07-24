@@ -46,6 +46,24 @@ def _generate_abp_rules(domains, ips, urls):
     return rules
 
 
+def _is_whitelisted(domain, whitelisted_set):
+    """Check if a domain is covered by any whitelisted parent domain.
+
+    @@||github.com^ whitelists github.com AND all subdomains.
+    """
+    if not whitelisted_set:
+        return False
+    if domain in whitelisted_set:
+        return True
+    dot = domain.find('.')
+    while dot != -1:
+        domain = domain[dot + 1:]
+        if domain in whitelisted_set:
+            return True
+        dot = domain.find('.')
+    return False
+
+
 def process_list(content, name):
     """
     Process raw list content and save categorized output to disk.
@@ -66,6 +84,11 @@ def process_list(content, name):
     domains_for_abp = []
     ips_for_abp = []
     urls_for_abp = []
+    whitelisted_domains = set()
+
+    def _check(domain):
+        """Check if a domain should be excluded by whitelist."""
+        return _is_whitelisted(domain, whitelisted_domains)
 
     for line in content.splitlines():
         kind, data = parser.classify_line(line)
@@ -90,16 +113,24 @@ def process_list(content, name):
             url = data.get('url')
             is_whitelist = data.get('whitelist', False)
 
-            # Extract domain — whitelist rules are excluded entirely
-            if domain and not is_whitelist:
+            # Collect whitelisted domains — @@||github.com^ whitelists
+            # github.com AND all subdomains like collector.github.com
+            if domain and is_whitelist:
+                whitelisted_domains.add(domain)
+                continue  # whitelist rule goes nowhere else
+
+            # Extract domain — skip if whitelisted
+            if domain and not is_whitelist and not _check(domain):
                 categories['domains'].append(domain)
                 categories['hosts'].append(f'0.0.0.0 {domain}')
                 domains_for_abp.append(domain)
 
-            # Extract URL
+            # Extract URL — skip entirely if host is whitelisted
             if url:
-                categories['urls'].append(url)
                 host = _extract_host_from_url(url)
+                if host and _check(host):
+                    continue  # host is whitelisted, drop the URL too
+                categories['urls'].append(url)
                 if host:
                     categories['domains'].append(host)
                     categories['hosts'].append(f'0.0.0.0 {host}')
@@ -108,17 +139,21 @@ def process_list(content, name):
             continue
 
         if kind == parser.HOSTS:
-            categories['hosts'].append(data['raw'])
-            categories['ips'].append(data['ip'])
-            categories['domains'].append(data['domain'])
-            domains_for_abp.append(data['domain'])
-            ips_for_abp.append(data['ip'])
+            domain = data['domain']
+            if not _check(domain):
+                categories['hosts'].append(data['raw'])
+                categories['ips'].append(data['ip'])
+                categories['domains'].append(domain)
+                domains_for_abp.append(domain)
+                ips_for_abp.append(data['ip'])
             continue
 
         if kind == parser.URL:
+            host = _extract_host_from_url(data['url'])
+            if host and _check(host):
+                continue  # host is whitelisted, drop the entire URL
             categories['urls'].append(data['url'])
             urls_for_abp.append(data['url'])
-            host = _extract_host_from_url(data['url'])
             if host:
                 categories['domains'].append(host)
                 categories['hosts'].append(f'0.0.0.0 {host}')
@@ -126,9 +161,11 @@ def process_list(content, name):
             continue
 
         if kind == parser.DOMAIN:
-            categories['domains'].append(data['domain'])
-            categories['hosts'].append(f'0.0.0.0 {data["domain"]}')
-            domains_for_abp.append(data['domain'])
+            domain = data['domain']
+            if not _check(domain):
+                categories['domains'].append(domain)
+                categories['hosts'].append(f'0.0.0.0 {domain}')
+                domains_for_abp.append(domain)
             continue
 
     # --- Deduplication ---

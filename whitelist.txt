@@ -38,3 +38,20 @@ $redirect=
 $redirect-rule=
 $removeparam=
 $header=
+
+# System / localhost noise — not blocking rules
+localhost
+broadcasthost
+ip6-localhost
+ip6-loopback
+ip6-localnet
+ip6-mcastprefix
+ip6-allnodes
+ip6-allrouters
+ip6-allhosts
+255.255.255.255
+ff00::0
+ff02::
+fe80::
+%lo0
+0.0.0.0 0.0.0.0

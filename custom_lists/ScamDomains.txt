@@ -1,0 +1,4 @@
+!Title: Scam-Linked Domains
+!Description: A simple list of sites that are linked to scams
+
+||helpme16.com^$all

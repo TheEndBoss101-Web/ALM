@@ -26,13 +26,16 @@ lists:
   durablenapkin-scamblocklist: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
   UBO-badware: https://ublockorigin.github.io/uAssets/filters/badware.txt
   DP-antimal: https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
-  # someonewhocares: https://someonewhocares.org/hosts/hosts
-  # easyprivacy: https://easylist.to/easylist/easyprivacy.txt
+  EasyPrivacy: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+  EasyList: https://easylist-downloads.adblockplus.org/easylist.txt
+  someonewhocares: https://someonewhocares.org/hosts/hosts
 
 # Local custom list files (name → filename inside custom_lists/)
 custom_lists:
-  # my_handpicked: my_domains.txt
-  # pihole_extra: extra_ads.txt
+  custom_ScamDomains: ScamDomains.txt
+  custom_Missed: missed.txt
+  custom_Malicious: Malicious.txt
+  custom_GoGuardian: GoGuardian.txt
 
 # Combined lists — merge already-processed lists into one
 # Sources are concatenated in order, then deduplicated.

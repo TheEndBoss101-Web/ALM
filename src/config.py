@@ -63,6 +63,19 @@ def load_config(path=None):
         print("  ⚠  'combine' must be a mapping (name → list of source names), resetting")
         config['combine'] = {}
 
+    # --- Auto-detect custom list files ---
+    # Any .txt file in custom_lists/ gets registered as custom_<filename>
+    custom_dir = 'custom_lists'
+    if os.path.isdir(custom_dir):
+        for entry in sorted(os.listdir(custom_dir)):
+            if not entry.endswith('.txt'):
+                continue
+            stem = entry[:-4]  # strip .txt
+            name = f'custom_{stem}'
+            if name not in config['custom_lists']:
+                config['custom_lists'][name] = entry
+                print(f"  ✓ Auto-registered custom list '{name}' from {entry}")
+
     # Check for name collisions across sections
     names = set()
     for section in ('lists', 'custom_lists', 'combine'):

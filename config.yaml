@@ -30,13 +30,35 @@ lists:
   EasyList: https://easylist-downloads.adblockplus.org/easylist.txt
   someonewhocares: https://someonewhocares.org/hosts/hosts
 
+  # Others
+  abusech: https://urlhaus.abuse.ch/downloads/text/
+  emergingthreats-compromisedips: https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+  phishingarmy-extended: https://phishing.army/download/phishing_army_blocklist_extended.txt
+
 # Combined lists — merge already-processed lists into one
 # Sources are concatenated in order, then deduplicated.
 combine:
-  main:
+  mega:
     - oisd-big
     - HaGeZi-pro
-  # mega:
+    - AdGuard-Base
+    - AdGuard-Mobile
+    - urlhaus-malware
+    - urlhaus-phishing
+    - durablenapkin-scamblocklist
+    - UBO-badware
+    - DP-antimal
+    - EasyPrivacy
+    - EasyList
+    - someonewhocares
+    - abusech
+    - emergingthreats-compromisedips
+    - phishingarmy-extended
+    - custom_Malicious
+    - custom_GoGuardian
+    - custom_ScamDomains
+    - custom_Missed
+  # all:
   #   - oisd
   #   - someonewhocares
   #   - my_handpicked

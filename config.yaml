@@ -209,19 +209,20 @@ combine:
 
   mega:
     - oisd-big
-    - HaGeZi-pro
-    - AdGuard-Base
-    - AdGuard-Mobile
+    - hagezi-pro
+    - adguard-base
+    - adguard-mobile
+    - adguard-dns
     - urlhaus-malware
     - urlhaus-phishing
     - durablenapkin-scamblocklist
-    - UBO-badware
-    - DP-antimal
-    - EasyPrivacy
-    - EasyList
+    - ublock-badware
+    - dandelion-antimalware
+    - easyprivacy
+    - easylist
     - someonewhocares
-    - abusech
-    - emergingthreats-compromisedips
+    - abusech-urlhaus
+    - emergingthreats-compromised-ips
     - phishingarmy-extended
     - custom_Malicious
     - custom_GoGuardian

@@ -7,6 +7,7 @@ Usage:
     python -m src.main --combine-only  Re-process combines only
     python -m src.main --status      Show cache status
     python -m src.main --refresh     Force re-download all cached lists
+    python -m src.main --gh          GitHub-safe mode: split files > 95MB into chunks
 """
 
 import os
@@ -23,6 +24,8 @@ from src.fetcher import fetch_list, read_custom_list, clear_cache, cache_status
 from src.processor import process_list
 from src.combiner import combine_lists
 
+_GH_MAX_BYTES = 95 * 1024 * 1024  # 95 MB
+
 
 def _print_stats(name, stats, label=None):
     """Print a formatted stats line for a list."""
@@ -33,6 +36,77 @@ def _print_stats(name, stats, label=None):
         if count > 0:
             parts.append(f"{cat}:{count}")
     print(f"{prefix} {name}  ({', '.join(parts)})")
+
+
+def _split_large_file(filepath):
+    """Split a file into line-aligned chunks if it exceeds GH_MAX_BYTES.
+
+    Original file keeps the first chunk. Subsequent chunks get .1, .2, etc.
+    Removes the original before writing to avoid truncation if the file
+    is already open in some reader.
+    """
+    size = os.path.getsize(filepath)
+    if size <= _GH_MAX_BYTES:
+        return
+
+    with open(filepath, 'r', encoding='utf-8', errors='replace') as fh:
+        lines = fh.readlines()
+
+    total_lines = len(lines)
+    if total_lines == 0:
+        return
+
+    # Calculate lines per chunk to stay under the limit
+    bytes_per_line = size / total_lines
+    lines_per_chunk = int(_GH_MAX_BYTES * 0.95 / bytes_per_line)
+    if lines_per_chunk < 1:
+        lines_per_chunk = 1
+
+    # Count chunks needed
+    full_chunks = (total_lines + lines_per_chunk - 1) // lines_per_chunk
+    print(f"  Splitting {os.path.basename(filepath)} "
+          f"({size / 1024 / 1024:.0f} MB, {total_lines:,} lines, "
+          f"{full_chunks} chunks)")
+
+    # Remove original, write chunks
+    os.remove(filepath)
+
+    for chunk_idx in range(full_chunks):
+        start = chunk_idx * lines_per_chunk
+        end = min(start + lines_per_chunk, total_lines)
+        chunk_lines = lines[start:end]
+
+        if chunk_idx == 0:
+            chunk_path = filepath
+        else:
+            chunk_path = f"{filepath}.{chunk_idx}"
+
+        with open(chunk_path, 'w', encoding='utf-8') as fh:
+            fh.writelines(chunk_lines)
+
+        chunk_mb = os.path.getsize(chunk_path) / 1024 / 1024
+        print(f"    → {os.path.basename(chunk_path)} ({chunk_mb:.0f} MB, "
+              f"{len(chunk_lines):,} lines)")
+
+
+def _split_large_files(lists_dir='lists'):
+    """Walk lists/ and split any file exceeding the size limit."""
+    if not os.path.isdir(lists_dir):
+        return
+
+    print("  Checking for large files...")
+    count = 0
+    for root, dirs, files in os.walk(lists_dir):
+        for fname in sorted(files):
+            if '.' in fname and fname.rsplit('.', 1)[-1].isdigit():
+                continue  # skip previously split chunks
+            fpath = os.path.join(root, fname)
+            if os.path.getsize(fpath) > _GH_MAX_BYTES:
+                _split_large_file(fpath)
+                count += 1
+
+    if count == 0:
+        print("  All files under 95 MB — no splitting needed.")
 
 
 def run_fetch_and_process(config, force_refresh=False):
@@ -139,10 +213,13 @@ def main():
     no_combine = '--no-combine' in flags
     combine_only = '--combine-only' in flags
     force_refresh = '--refresh' in flags
+    gh_mode = '--gh' in flags
 
     if combine_only:
         print("=== Combine only ===")
         run_combine(config)
+        if gh_mode:
+            _split_large_files()
         return
 
     # --- Full run ---
@@ -155,6 +232,10 @@ def main():
     if not no_combine:
         print("Phase 3: Combine")
         run_combine(config)
+
+    if gh_mode:
+        print("Phase 4: GitHub-safe split")
+        _split_large_files()
 
     elapsed = time.time() - t0
     print(f"Done in {elapsed:.1f}s")

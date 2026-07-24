@@ -29,7 +29,7 @@ jobs:
         run: pip install pyyaml
 
       - name: Run Adblock List Manager
-        run: python3 run.py
+        run: python3 run.py --gh
 
       - name: Deploy to lists branch
         run: |

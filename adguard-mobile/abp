@@ -968,6 +968,8 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||jmty.jp^$all
+||oricon.co.jp^$all
 ||automaton-media.com^$all
 ||zoomit.ir^$all
 ||dic.pixiv.net^$all
@@ -1362,7 +1364,6 @@
 ||timesnownews.com^$all
 ||thekitchn.com^$all
 ||motorcycle.com^$all
-||freepdfcomic.eu^$all
 ||megamich.com^$all
 ||heraldodemexico.com.mx^$all
 ||misatopi.com^$all
@@ -1725,7 +1726,6 @@
 ||gazetasp.com.br^$all
 ||app.famitsu.com^$all
 ||j-antenna.net^$all
-||jmty.jp^$all
 ||przegladsportowy.onet.pl^$all
 ||news.m.pchome.com.tw^$all
 ||newsphere.jp^$all
@@ -2342,7 +2342,6 @@
 ||animecomic-pass.com^$all
 ||dot.asahi.com^$all
 ||urasma.com^$all
-||oricon.co.jp^$all
 ||s.tabelog.com^$all
 ||detail.chiebukuro.yahoo.co.jp^$all
 ||m.eprice.com.tw^$all

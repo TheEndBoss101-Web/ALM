@@ -968,6 +968,9 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||gulfnews.com^$all
+||itmedia.co.jp^$all
+||rbc.ru^$all
 ||jmty.jp^$all
 ||oricon.co.jp^$all
 ||automaton-media.com^$all
@@ -1557,7 +1560,6 @@
 ||dirtyship.com^$all
 ||qaynarinfo.az^$all
 ||m.qiuxiaoshuo.org^$all
-||rbc.ru^$all
 ||screenrant.com^$all
 ||afdigitale.it^$all
 ||pcgameshardware.de^$all
@@ -1597,7 +1599,6 @@
 ||mamagirl.jp^$all
 ||39mag.benesse.ne.jp^$all
 ||lolchess.gg^$all
-||gulfnews.com^$all
 ||komaki2.jp^$all
 ||m.mobile01.com^$all
 ||anikore.jp^$all
@@ -2094,7 +2095,6 @@
 ||tsn.ua^$all
 ||haibunda.com^$all
 ||wionews.com^$all
-||itmedia.co.jp^$all
 ||biteki.com^$all
 ||doujin-freee.com^$all
 ||tempo.pt^$all

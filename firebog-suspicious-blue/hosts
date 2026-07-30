@@ -5299,6 +5299,7 @@
 127.0.0.1 trk.wizzdeal.trade
 127.0.0.1 trouveunfilm.fr
 127.0.0.1 trovi.com
+127.0.0.1 trstwcard.icu
 127.0.0.1 truecrypt.fr
 127.0.0.1 trusturl.top
 127.0.0.1 tubero.ellystegge.info
@@ -5615,6 +5616,7 @@
 127.0.0.1 www.coinimp.com
 127.0.0.1 www.combinebasic.com
 127.0.0.1 www.comfortykive.xyz
+127.0.0.1 www.commitlacrossecamps.com
 127.0.0.1 www.commuteinfo.com
 127.0.0.1 www.compacfurniture.com
 127.0.0.1 www.complien.com
@@ -5641,6 +5643,7 @@
 127.0.0.1 www.ctlcai.com
 127.0.0.1 www.dailyazure.com
 127.0.0.1 www.dangdangflow.com
+127.0.0.1 www.danispiritualtherapist.com
 127.0.0.1 www.darkrro.com
 127.0.0.1 www.dartya.com
 127.0.0.1 www.dayanitastore.com
@@ -5667,6 +5670,7 @@
 127.0.0.1 www.digitalcoachpro.name
 127.0.0.1 www.dkpmsa.cfd
 127.0.0.1 www.dlinktour.com
+127.0.0.1 www.doblectv.com
 127.0.0.1 www.dorminvaders.com
 127.0.0.1 www.downmass.com
 127.0.0.1 www.drivegoals.com
@@ -5736,6 +5740,7 @@
 127.0.0.1 www.forexwood.com
 127.0.0.1 www.formalcenter.com
 127.0.0.1 www.fortunoxx.com
+127.0.0.1 www.framermotionplayground.com
 127.0.0.1 www.francesportisas-fr.com
 127.0.0.1 www.frbonusjeux.com
 127.0.0.1 www.freeaquarium.com
@@ -5767,6 +5772,7 @@
 127.0.0.1 www.gezinti.com
 127.0.0.1 www.ggdark.net
 127.0.0.1 www.giadungnguyennhat.com
+127.0.0.1 www.gifttifyagency.com
 127.0.0.1 www.gildedrosens.name
 127.0.0.1 www.gimp.es
 127.0.0.1 www.glassygrovefy.pro
@@ -5777,6 +5783,7 @@
 127.0.0.1 www.gooddeserve.skin
 127.0.0.1 www.googdiy.com
 127.0.0.1 www.gotorobeks.com
+127.0.0.1 www.governmentaution.com
 127.0.0.1 www.gparted.fr
 127.0.0.1 www.gpolitico.com
 127.0.0.1 www.gracefulmeaduu.online
@@ -5792,6 +5799,7 @@
 127.0.0.1 www.growthbuilder.name
 127.0.0.1 www.guaranteeservice.lat
 127.0.0.1 www.guashastone.com
+127.0.0.1 www.gwizacademy.com
 127.0.0.1 www.haikuservices.com
 127.0.0.1 www.hajoopteg.com
 127.0.0.1 www.hakerzy.net
@@ -89633,3 +89641,19 @@
 0.0.0.0 cdn.trinitymedia.ai
 0.0.0.0 sp.trinitymedia.ai
 0.0.0.0 audio.trinitymedia.ai
+0.0.0.0 ad-studio.decart.ai
+0.0.0.0 opentelemetry-collector.dev.decart.ai
+0.0.0.0 api.cogito.decart.ai
+0.0.0.0 api.decart.ai
+0.0.0.0 api1.decart.ai
+0.0.0.0 api2.decart.ai
+0.0.0.0 api3.decart.ai
+0.0.0.0 api4.decart.ai
+0.0.0.0 t.iteratehq.com
+0.0.0.0 iteratehq.com
+0.0.0.0 jabba.iteratehq.com
+0.0.0.0 blog.iteratehq.com
+0.0.0.0 apollo.iteratehq.com
+0.0.0.0 eot.iteratehq.com
+0.0.0.0 n8n.iteratehq.com
+0.0.0.0 email.mail.iteratehq.com

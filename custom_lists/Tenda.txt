@@ -2,6 +2,7 @@
 !Description: Tenda stuff
 
 ||tenda.com.cn^$all
+||tenda.com^$all
 ||tendawifi.com^$all
 ||tendacn.com^$all
 ||re.tenda.cn^$all

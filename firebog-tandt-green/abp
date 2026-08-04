@@ -4389,6 +4389,7 @@
 ||analytics.maileon.com^$all
 ||analytics.mailmunch.co^$all
 ||analytics.matchbin.com^$all
+||analytics.maxx53.com^$all
 ||analytics.metriko.app^$all
 ||analytics.midwesternmac.com^$all
 ||analytics.mlstatic.com^$all
@@ -6670,6 +6671,7 @@
 ||analytics.spun.com.br^$all
 ||analytics.tufos.com.br^$all
 ||collect.chaordicsystems.com^$all
+||engagement.coremedia.cloud^$all
 ||events.chaordicsystems.com^$all
 ||eventsourcing.ms.harmo.me^$all
 ||feature-flag-edge.live.clickbus.net^$all
@@ -6801,6 +6803,7 @@
 ||creatives.sunmedia.tv^$all
 ||ctx.citiservi.es^$all
 ||datanoticias.prisasd.com^$all
+||el.siglo.mx^$all
 ||g-stats.openhost.es^$all
 ||llmometrics.b-cdn.net^$all
 ||madrid.report.botm.transparentedge.io^$all

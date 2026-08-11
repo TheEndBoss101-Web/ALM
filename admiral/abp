@@ -30,12 +30,12 @@
 ||admiral.support^$all
 ||admiral.website^$all
 ||admiralcdn.com^$all
-||admiralexternal.com^$all
 ||admlcdn.com^$all
 ||adorableanger.com^$all
 ||adorableattention.com^$all
 ||adventurousamount.com^$all
 ||afraidlanguage.com^$all
+||agilebreeze.com^$all
 ||agileformer.com^$all
 ||agreeablearch.com^$all
 ||agreeabletouch.com^$all
@@ -124,7 +124,6 @@
 ||bhcumsc.com^$all
 ||bikepaws.com^$all
 ||bikesboard.com^$all
-||bikinginspire.com^$all
 ||bilingualgeek.com^$all
 ||billowybead.com^$all
 ||billowybelief.com^$all
@@ -173,6 +172,7 @@
 ||brighttoe.com^$all
 ||briskstorm.com^$all
 ||broadborder.com^$all
+||broadboundary.com^$all
 ||broadcastbed.com^$all
 ||broaddoor.com^$all
 ||brotherslocket.com^$all
@@ -186,7 +186,6 @@
 ||burgersalt.com^$all
 ||burnbubble.com^$all
 ||burntwist.com^$all
-||bushesbag.com^$all
 ||bustlingbook.com^$all
 ||butterbulb.com^$all
 ||butterburst.com^$all
@@ -219,6 +218,7 @@
 ||catschickens.com^$all
 ||cattlecommittee.com^$all
 ||causecherry.com^$all
+||cautiouscamera.com^$all
 ||cautiouscherries.com^$all
 ||cautiouscrate.com^$all
 ||cautiouscredit.com^$all
@@ -244,6 +244,7 @@
 ||childlikecrowd.com^$all
 ||childlikeexample.com^$all
 ||childlikeform.com^$all
+||chilledliquid.com^$all
 ||chingovernment.com^$all
 ||chipperisle.com^$all
 ||chivalrouscord.com^$all
@@ -288,6 +289,7 @@
 ||confusedcart.com^$all
 ||consciouschairs.com^$all
 ||consciouscheese.com^$all
+||consciousdirt.com^$all
 ||consumerknowhow.com^$all
 ||consumerzero.com^$all
 ||controlhall.com^$all
@@ -349,12 +351,14 @@
 ||damageddistance.com^$all
 ||damdoor.com^$all
 ||dampdock.com^$all
+||dancemistake.com^$all
 ||dandydune.com^$all
 ||dandyglow.com^$all
 ||dapperdiscussion.com^$all
 ||dashingdrop.com^$all
 ||datastoried.com^$all
 ||dazzlingbook.com^$all
+||deafeningdock.com^$all
 ||debonairdust.com^$all
 ||debonairtree.com^$all
 ||decidedrum.com^$all
@@ -394,13 +398,13 @@
 ||distributionpocket.com^$all
 ||distributiontomatoes.com^$all
 ||disturbedquiet.com^$all
+||divehope.com^$all
 ||dockdigestion.com^$all
 ||dogbedscentral.com^$all
 ||dollardelta.com^$all
 ||donkeyleaf.com^$all
 ||doubtdrawer.com^$all
 ||dq95d35.com^$all
-||dragzebra.com^$all
 ||drainpaste.com^$all
 ||dramaticdirection.com^$all
 ||dreamsdome.com^$all
@@ -470,7 +474,6 @@
 ||executeknowledge.com^$all
 ||exhibitsneeze.com^$all
 ||expansioneggnog.com^$all
-||experienceeggs.com^$all
 ||extractobservation.com^$all
 ||extralocker.com^$all
 ||extramonies.com^$all
@@ -490,7 +493,6 @@
 ||fancyactivity.com^$all
 ||fancydune.com^$all
 ||fangfeeling.com^$all
-||fantastictone.com^$all
 ||farethief.com^$all
 ||farmergoldfish.com^$all
 ||farshake.com^$all
@@ -519,7 +521,6 @@
 ||fireworkcamp.com^$all
 ||firstendpoint.com^$all
 ||fishersfinds.com^$all
-||fitmessage.com^$all
 ||fitnessmapper.com^$all
 ||fivesidedsquare.com^$all
 ||fixedfold.com^$all
@@ -576,13 +577,13 @@
 ||futuristicframe.com^$all
 ||fuzzybasketball.com^$all
 ||fuzzyerror.com^$all
-||fuzzyflavor.com^$all
 ||gammamaximum.com^$all
 ||gardenovens.com^$all
 ||gaudyairplane.com^$all
 ||geekactive.com^$all
 ||geekbackyard.com^$all
 ||generalprose.com^$all
+||generateoffice.com^$all
 ||getadmiral.com^$all
 ||getdrip.com^$all
 ||getwagtail.com^$all
@@ -823,7 +824,6 @@
 ||mediatescarf.com^$all
 ||mediavine.com^$all
 ||mediumshort.com^$all
-||mellowbike.com^$all
 ||mellowhush.com^$all
 ||melodiouschorus.com^$all
 ||melodiouscomposition.com^$all
@@ -1151,7 +1151,6 @@
 ||sablesmile.com^$all
 ||sablesong.com^$all
 ||sadloaf.com^$all
-||sadspacekitty.com^$all
 ||saffronrefuge.com^$all
 ||saladfuel.com^$all
 ||saltsacademy.com^$all
@@ -1221,6 +1220,7 @@
 ||serenesurf.com^$all
 ||serenezenith.com^$all
 ||serenezephyr.com^$all
+||serpentshampoo.com^$all
 ||servebom.com^$all
 ||settleshoes.com^$all
 ||shadeship.com^$all
@@ -1395,7 +1395,6 @@
 ||stretchsneeze.com^$all
 ||stretchsquirrel.com^$all
 ||stripedbat.com^$all
-||strivesidewalk.com^$all
 ||strivesquirrel.com^$all
 ||strokesystem.com^$all
 ||strongercity.com^$all
@@ -1429,7 +1428,6 @@
 ||sweetslope.com^$all
 ||swellstocking.com^$all
 ||swimfreely.com^$all
-||swimslope.com^$all
 ||swingslip.com^$all
 ||swipechief.com^$all
 ||swirlstop.com^$all
@@ -1463,7 +1461,6 @@
 ||tenhourweek.com^$all
 ||tennistie.com^$all
 ||terriblethumb.com^$all
-||terrifictooth.com^$all
 ||testadmiral.com^$all
 ||texturetrick.com^$all
 ||thejavalane.com^$all
@@ -1540,7 +1537,6 @@
 ||understoodocean.com^$all
 ||unequalbrake.com^$all
 ||unequaltrail.com^$all
-||unicontainers.com^$all
 ||uninterestedquarter.com^$all
 ||unitedscans.com^$all
 ||unknowncrate.com^$all
@@ -1591,6 +1587,7 @@
 ||waitingnumber.com^$all
 ||wantingwindow.com^$all
 ||warmafterthought.com^$all
+||warmquiver.com^$all
 ||warnwing.com^$all
 ||washbanana.com^$all
 ||watersensible.com^$all
@@ -1634,6 +1631,7 @@
 ||wrongpotato.com^$all
 ||wrongwound.com^$all
 ||wtaccesscontrol.com^$all
+||xovq5nemr.com^$all
 ||yieldingwoman.com^$all
 ||yourlifedream.com^$all
 ||zephyrcatalyst.com^$all
@@ -1645,6 +1643,7 @@
 ||zestywire.com^$all
 ||zigzagcabin.com^$all
 ||zipperxray.com^$all
+||zippywind.com^$all
 ||zipthelake.com^$all
 ||zlp6s.pw^$all
 ||zonewedgeshaft.com^$all

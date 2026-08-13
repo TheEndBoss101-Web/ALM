@@ -4745,6 +4745,7 @@
 ||data.emb-api.com^$all
 ||data.embeddables.com^$all
 ||data.gosquared.com^$all
+||data.hailuo.ai^$all
 ||data.jaytuckwell.com^$all
 ||data.minute.ly^$all
 ||data.nexxt.com^$all
@@ -5368,6 +5369,7 @@
 ||rtxpx-a.akamaihd.net^$all
 ||rudder-tracking.rudderstack.com^$all
 ||rum-collector.leaderint.workers.dev^$all
+||rum-openway.guance.com^$all
 ||rum.aliyuncs.com^$all
 ||rum.azion.com^$all
 ||rum.azioncdn.net^$all

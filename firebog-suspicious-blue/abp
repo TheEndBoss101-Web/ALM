@@ -5623,6 +5623,7 @@
 ||www.clubplanning.com^$all
 ||www.coconutsport.com^$all
 ||www.coinimp.com^$all
+||www.colleyvillepapershredding.com^$all
 ||www.combinebasic.com^$all
 ||www.comfortykive.xyz^$all
 ||www.commitlacrossecamps.com^$all
@@ -40186,6 +40187,11 @@
 ||mobileanalytics.web.ue1.app.chime.aws^$all
 ||mobileanalytics.web.ue1.b.app.chime.aws^$all
 ||mobileanalytics.web.ue1.a.app.chime.aws^$all
+||mobileanalytics.web.ue1.g.app.chime.aws^$all
+||api.stats.ue1.b.app.chime.aws^$all
+||api.stats.ue1.g.app.chime.aws^$all
+||api.stats.ue1.a.app.chime.aws^$all
+||api.stats.ue1.app.chime.aws^$all
 ||analytics.indeed.com^$all
 ||analyticsperf-analytics.indeed.com^$all
 ||ads.dyn.indeed.com^$all

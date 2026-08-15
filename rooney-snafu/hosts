@@ -24992,6 +24992,11 @@
 0.0.0.0 mobileanalytics.web.ue1.app.chime.aws
 0.0.0.0 mobileanalytics.web.ue1.b.app.chime.aws
 0.0.0.0 mobileanalytics.web.ue1.a.app.chime.aws
+0.0.0.0 mobileanalytics.web.ue1.g.app.chime.aws
+0.0.0.0 api.stats.ue1.b.app.chime.aws
+0.0.0.0 api.stats.ue1.g.app.chime.aws
+0.0.0.0 api.stats.ue1.a.app.chime.aws
+0.0.0.0 api.stats.ue1.app.chime.aws
 0.0.0.0 analytics.indeed.com
 0.0.0.0 analyticsperf-analytics.indeed.com
 0.0.0.0 ads.dyn.indeed.com

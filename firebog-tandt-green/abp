@@ -955,7 +955,6 @@
 ||chtbl.com^$all
 ||cintnetworks.com^$all
 ||cityadstrack.com^$all
-||cityspark.com^$all
 ||claritytag.com^$all
 ||clarium.io^$all
 ||clarivoy.com^$all
@@ -4527,6 +4526,7 @@
 ||beacon.cdnma.com^$all
 ||beacon.errorception.com^$all
 ||beacon.flow.io^$all
+||beacon.joinlede.com^$all
 ||beacon.klm.com^$all
 ||beacon.peakhour.io^$all
 ||beacon.riskified.com^$all
@@ -7578,6 +7578,7 @@
 ||t.appsflyer.com^$all
 ||t.av.st^$all
 ||t.birchlane.com^$all
+||t.dailydot.com^$all
 ||t.dailymail.co.uk^$all
 ||t.deepnote.com^$all
 ||t.factorform.com^$all
@@ -7797,6 +7798,7 @@
 ||wup-2ffe60ee.westpac.com.au^$all
 ||bup.bankofamerica.com^$all
 ||cdn1.skrill.com^$all
+||check2.lloydsbank.co.uk^$all
 ||d276.ourmidland.com^$all
 ||d810.mysanantonio.com^$all
 ||dii.bankaust.com.au^$all

@@ -4980,6 +4980,7 @@
 0.0.0.0 infusionsoft.com
 0.0.0.0 ingest.in.signoz.cloud
 0.0.0.0 ingest.make.rvapps.io
+0.0.0.0 ingest.promptwatch.com
 0.0.0.0 ingesteer.services-prod.nsvcs.net
 0.0.0.0 ingress.trendii.com
 0.0.0.0 inq.com
@@ -6423,6 +6424,8 @@
 0.0.0.0 kwikmotion.com
 0.0.0.0 metrics.find.gr
 0.0.0.0 stats-real-clients.zentech.gr
+0.0.0.0 analytics.maskyoo.net
+0.0.0.0 radar.wizzo.media
 0.0.0.0 tag.weezmo.com
 0.0.0.0 heartbeat.pmd.444.hu
 0.0.0.0 pixel.barion.com
@@ -6856,6 +6859,7 @@
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 ab-machine.forbes.com
 0.0.0.0 ab.fanatical.com
+0.0.0.0 acjs.aliyun.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adl.bankofthewest.com
@@ -44296,9 +44300,11 @@
 0.0.0.0 stat.mtv3.fi
 0.0.0.0 stats.fonecta.fi
 0.0.0.0 ts.fi
+0.0.0.0 0404.co.il
 0.0.0.0 bravo.israelweather.co.il
 0.0.0.0 cellstats.mako.co.il
 0.0.0.0 ds.haaretz.co.il
+0.0.0.0 ext.bhol.co.il
 0.0.0.0 services.haaretz.co.il
 0.0.0.0 stats.mako.co.il
 0.0.0.0 adat.borsonline.hu

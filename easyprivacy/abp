@@ -4980,6 +4980,7 @@
 ||infusionsoft.com^$all
 ||ingest.in.signoz.cloud^$all
 ||ingest.make.rvapps.io^$all
+||ingest.promptwatch.com^$all
 ||ingesteer.services-prod.nsvcs.net^$all
 ||ingress.trendii.com^$all
 ||inq.com^$all
@@ -6423,6 +6424,8 @@
 ||kwikmotion.com^$all
 ||metrics.find.gr^$all
 ||stats-real-clients.zentech.gr^$all
+||analytics.maskyoo.net^$all
+||radar.wizzo.media^$all
 ||tag.weezmo.com^$all
 ||heartbeat.pmd.444.hu^$all
 ||pixel.barion.com^$all
@@ -6856,6 +6859,7 @@
 ||aax-us-iad.amazon.com^$all
 ||ab-machine.forbes.com^$all
 ||ab.fanatical.com^$all
+||acjs.aliyun.com^$all
 ||activity.fiverr.com^$all
 ||adc-js.nine.com.au^$all
 ||adl.bankofthewest.com^$all
@@ -44296,9 +44300,11 @@
 ||stat.mtv3.fi^$all
 ||stats.fonecta.fi^$all
 ||ts.fi^$all
+||0404.co.il^$all
 ||bravo.israelweather.co.il^$all
 ||cellstats.mako.co.il^$all
 ||ds.haaretz.co.il^$all
+||ext.bhol.co.il^$all
 ||services.haaretz.co.il^$all
 ||stats.mako.co.il^$all
 ||adat.borsonline.hu^$all

@@ -4980,6 +4980,7 @@ informer.yandex.ru
 infusionsoft.com
 ingest.in.signoz.cloud
 ingest.make.rvapps.io
+ingest.promptwatch.com
 ingesteer.services-prod.nsvcs.net
 ingress.trendii.com
 inq.com
@@ -6423,6 +6424,8 @@ event-tracker-library.mediaownerscloud.com
 kwikmotion.com
 metrics.find.gr
 stats-real-clients.zentech.gr
+analytics.maskyoo.net
+radar.wizzo.media
 tag.weezmo.com
 heartbeat.pmd.444.hu
 pixel.barion.com
@@ -6856,6 +6859,7 @@ aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 ab-machine.forbes.com
 ab.fanatical.com
+acjs.aliyun.com
 activity.fiverr.com
 adc-js.nine.com.au
 adl.bankofthewest.com
@@ -44296,9 +44300,11 @@ rac.ruutu.fi
 stat.mtv3.fi
 stats.fonecta.fi
 ts.fi
+0404.co.il
 bravo.israelweather.co.il
 cellstats.mako.co.il
 ds.haaretz.co.il
+ext.bhol.co.il
 services.haaretz.co.il
 stats.mako.co.il
 adat.borsonline.hu

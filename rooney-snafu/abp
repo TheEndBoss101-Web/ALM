@@ -74393,3 +74393,6 @@
 ||email.mail.iteratehq.com^$all
 ||stats.littlebigbyte.com^$all
 ||activecampaign.littlebigbyte.com^$all
+||metrics.paddle.com^$all
+||pulse-ai.paddle.com^$all
+||id.paddle.com^$all

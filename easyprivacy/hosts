@@ -611,6 +611,7 @@
 0.0.0.0 adku.co
 0.0.0.0 adku.com
 0.0.0.0 admantx.com
+0.0.0.0 admaster.cc
 0.0.0.0 admaster.com.cn
 0.0.0.0 admetric.io
 0.0.0.0 adobedtm.com
@@ -2471,6 +2472,7 @@
 0.0.0.0 shoplytics.com
 0.0.0.0 shoptimally.com
 0.0.0.0 showheroes.com
+0.0.0.0 shrinetheme.com
 0.0.0.0 sift.com
 0.0.0.0 siftscience.com
 0.0.0.0 signalfx.com
@@ -3639,6 +3641,7 @@
 0.0.0.0 stats.fr
 0.0.0.0 sync.tv
 0.0.0.0 tget.me
+0.0.0.0 time1.me
 0.0.0.0 tinyclues.com
 0.0.0.0 titag.com
 0.0.0.0 toc.io
@@ -4203,7 +4206,6 @@
 0.0.0.0 brandmetrics.com
 0.0.0.0 citypaketet.se
 0.0.0.0 dep-x.com
-0.0.0.0 lwadm.com
 0.0.0.0 myvisitors.se
 0.0.0.0 prospecteye.com
 0.0.0.0 publish-int.se
@@ -4359,6 +4361,7 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.genial.ly
+0.0.0.0 analytics.getlimy.ai
 0.0.0.0 analytics.getsnworks.com
 0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
@@ -4433,6 +4436,7 @@
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.unilogcorp.com
+0.0.0.0 analytics.upress.io
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
@@ -7731,7 +7735,9 @@
 0.0.0.0 bing.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
+0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
 0.0.0.0 cfa.fidelity.com
+0.0.0.0 check2.bankofscotland.co.uk
 0.0.0.0 check3.tiaa.org
 0.0.0.0 citi.com
 0.0.0.0 clear.wallapop.com
@@ -7763,6 +7769,7 @@
 0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 u46.pnc.com
+0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 wup-185a61e7.bendigobank.com.au
@@ -44308,6 +44315,7 @@
 0.0.0.0 ext.bhol.co.il
 0.0.0.0 services.haaretz.co.il
 0.0.0.0 stats.mako.co.il
+0.0.0.0 track.wesell.co.il
 0.0.0.0 adat.borsonline.hu
 0.0.0.0 adat.ingatlanbazar.hu
 0.0.0.0 adat.koponyeg.hu

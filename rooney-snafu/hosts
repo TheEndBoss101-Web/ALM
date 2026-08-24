@@ -74393,3 +74393,6 @@
 0.0.0.0 email.mail.iteratehq.com
 0.0.0.0 stats.littlebigbyte.com
 0.0.0.0 activecampaign.littlebigbyte.com
+0.0.0.0 metrics.paddle.com
+0.0.0.0 pulse-ai.paddle.com
+0.0.0.0 id.paddle.com

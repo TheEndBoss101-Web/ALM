@@ -84,6 +84,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 appgw.inmobi.com
 0.0.0.0 adhub.porcino-kinoko.workers.dev
 0.0.0.0 uibjh29vqc.com
 0.0.0.0 ads.heytapmobi.com
@@ -968,6 +969,7 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
+0.0.0.0 worldfn.net
 0.0.0.0 kursiv.media
 0.0.0.0 carsales.com.au
 0.0.0.0 apkaward.com
@@ -2881,7 +2883,6 @@
 0.0.0.0 gooday.nikkei.co.jp
 0.0.0.0 applealmond.com
 0.0.0.0 m.hetubook.com
-0.0.0.0 worldfn.net
 0.0.0.0 majikichi.com
 0.0.0.0 pingpongmap.net
 0.0.0.0 yoyaku-top10.jp

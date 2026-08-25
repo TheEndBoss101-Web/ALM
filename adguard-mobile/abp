@@ -84,6 +84,7 @@
 ||startup.mobile.yandex.net^$all
 ||startup.mobile.webvisor.com^$all
 ||startup-mobile.ap.yandex-net.ru^$all
+||appgw.inmobi.com^$all
 ||adhub.porcino-kinoko.workers.dev^$all
 ||uibjh29vqc.com^$all
 ||ads.heytapmobi.com^$all
@@ -968,6 +969,7 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||worldfn.net^$all
 ||kursiv.media^$all
 ||carsales.com.au^$all
 ||apkaward.com^$all
@@ -2881,7 +2883,6 @@
 ||gooday.nikkei.co.jp^$all
 ||applealmond.com^$all
 ||m.hetubook.com^$all
-||worldfn.net^$all
 ||majikichi.com^$all
 ||pingpongmap.net^$all
 ||yoyaku-top10.jp^$all

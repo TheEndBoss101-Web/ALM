@@ -139,10 +139,7 @@
 ||androidtvwatsonfe-pa.googleapis.com^$all
 ||clientmetrics-pa.googleapis.com^$all
 ||clouderrorreporting.googleapis.com^$all
-||crashlyticsreports-pa.googleapis.com^$all
 ||federatedcompute-pa.googleapis.com^$all
-||firebaselogging-pa.googleapis.com^$all
-||firebaselogging.googleapis.com^$all
 ||ogads-pa.clients6.google.com^$all
 ||ogads-pa.googleapis.com^$all
 ||pagead-googlehosted.l.google.com^$all
@@ -8620,6 +8617,7 @@
 ||www.appads.in^$all
 ||bidmachine.io^$all
 ||api-apac.bidmachine.io^$all
+||api-eu-a.bidmachine.io^$all
 ||api-eu.bidmachine.io^$all
 ||api-us.bidmachine.io^$all
 ||api.bidmachine.io^$all
@@ -8643,13 +8641,6 @@
 ||delivery.swid.switchadhub.com^$all
 ||delivery.switchadhub.com^$all
 ||switchadhub.com^$all
-||api.crashlytics.com^$all
-||crashlytics.com^$all
-||e.crashlytics.com^$all
-||firebase-settings.crashlytics.com^$all
-||reports.crashlytics.com^$all
-||settings.crashlytics.com^$all
-||update.crashlytics.com^$all
 ||api.unblockia.com^$all
 ||cdn.unblockia.com^$all
 ||r.unblockia.com^$all
@@ -13941,6 +13932,7 @@
 ||blogtoplist.se^$all
 ||blogtopsites.com^$all
 ||bluadz.com^$all
+||blue-ribbonmacadamizeprovide.com^$all
 ||bluecava.com^$all
 ||bluelinknow.com^$all
 ||bluelithium.com^$all
@@ -14479,6 +14471,7 @@
 ||dbancamd.com^$all
 ||dbr9gtaf8.com^$all
 ||dbtarget.com^$all
+||dbxexsnxxzwwo.com^$all
 ||dc-storm.com^$all
 ||dcbbwymp1bhlf.cloudfront.net^$all
 ||dd1xbevqx.com^$all
@@ -15887,6 +15880,7 @@
 ||ofjujdmsylvmo.website^$all
 ||ofleafeona.com^$all
 ||og-shopee9.com^$all
+||og.tiglicsethian.com^$all
 ||oghqvffmnt.com^$all
 ||ogpriuleifns.com^$all
 ||ohtctjiuow.com^$all
@@ -16306,6 +16300,7 @@
 ||qmyoclrszpanh.website^$all
 ||qn.unspedtaction.com^$all
 ||qnbeenbgsx.com^$all
+||qnenxwwxzav.com^$all
 ||qnp16tstw.com^$all
 ||qnsr.com^$all
 ||qo.errorrespan.com^$all
@@ -16676,6 +16671,7 @@
 ||smptrffc.xyz^$all
 ||smptrfvk.link^$all
 ||smsecure-ad.com^$all
+||sn.lumbarssweepup.com^$all
 ||snailthreatenedinvited.com^$all
 ||snakeslang.com^$all
 ||snapgiant.com^$all
@@ -16804,6 +16800,7 @@
 ||studyunharmedupscale.com^$all
 ||stupendoussleet.com^$all
 ||stylish-knife.com^$all
+||su.sulingvicaire.cyou^$all
 ||sub.api-rfr.com^$all
 ||sub2tech.com^$all
 ||subscribe.hearstmags.com^$all
@@ -16887,6 +16884,7 @@
 ||tawdryson.com^$all
 ||tb.baimgfroggd.site^$all
 ||tcads.net^$all
+||tcugibodvow.in^$all
 ||tealeaf.com^$all
 ||tealium.com^$all
 ||tealiumiq.com^$all

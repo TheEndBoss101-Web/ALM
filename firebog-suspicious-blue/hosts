@@ -5712,6 +5712,7 @@
 127.0.0.1 www.electrobell.com
 127.0.0.1 www.elfralalo.com
 127.0.0.1 www.eljaleomedellin.com
+127.0.0.1 www.ellesalonhb.com
 127.0.0.1 www.emailspend.com
 127.0.0.1 www.emprenderimportaperu.com
 127.0.0.1 www.energiazoque.com
@@ -5941,6 +5942,7 @@
 127.0.0.1 www.likethislist.biz
 127.0.0.1 www.listadegames.com
 127.0.0.1 www.liveorigamirisk.com
+127.0.0.1 www.livetickettv.com
 127.0.0.1 www.loansfield.com
 127.0.0.1 www.lockupouseburn.com
 127.0.0.1 www.loginhunter.com
@@ -6307,6 +6309,7 @@
 127.0.0.1 www.tvccpt.com
 127.0.0.1 www.tvrails.com
 127.0.0.1 www.tvshowslist.com
+127.0.0.1 www.ultimarerewards.com
 127.0.0.1 www.ultratemps.com
 127.0.0.1 www.unclaimedbaggag.com
 127.0.0.1 www.underobviously.garden
@@ -16471,7 +16474,7 @@
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 api.speedcurve.com
 0.0.0.0 lux.speedcurve.com
-0.0.0.0 sts3.wsj
+0.0.0.0 sts3.wsj.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 beacon.tru.am
 0.0.0.0 djibeacon.dowjoneson.com
@@ -18474,7 +18477,7 @@
 0.0.0.0 gumdrops.gumgum.com
 0.0.0.0 ie-g2.gumgum.com
 0.0.0.0 insights.gumgum.com
-0.0.0.0 jp-g2.gumgum.comm
+0.0.0.0 jp-g2.gumgum.com
 0.0.0.0 mail1-ie.gumgum.com
 0.0.0.0 mail1-va.gumgum.com
 0.0.0.0 mail2-ie.gumgum.com
@@ -27893,14 +27896,13 @@
 0.0.0.0 www.cdn.jivox.com
 0.0.0.0 cdn-as.jivox.com
 0.0.0.0 cdn-in.jivox.com
-0.0.0.0 evs.jivox.come
+0.0.0.0 evs.jivox.com
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 creativescdn.jivox.com
 0.0.0.0 dev.jivox.com
 0.0.0.0 api.dev.jivox.com
 0.0.0.0 app.api.dev.jivox.com
 0.0.0.0 app.dev.jivox.com
-0.0.0.0 evs.jivox.com
 0.0.0.0 www.evs.jivox.com
 0.0.0.0 feeddb.jivox.com
 0.0.0.0 geoservice.jivox.com
@@ -29888,7 +29890,7 @@
 0.0.0.0 app.infinigrow.com
 0.0.0.0 sp.infinigrow.com
 0.0.0.0 sc.sp.infinigrow.com
-0.0.0.0 snowplowanalytics.snowplow
+0.0.0.0 snowplowanalytics.snowplow.com
 0.0.0.0 snowplowanalytics.com
 0.0.0.0 app.snowplowanalytics.com
 0.0.0.0 static.snowplowanalytics.com
@@ -58100,6 +58102,7 @@
 0.0.0.0 carina.cloud4wi.com
 0.0.0.0 kafka-manager.cloud4wi.com
 0.0.0.0 blog.cloud4wi.com
+0.0.0.0 status.cloud4wi.com
 0.0.0.0 vigorous-harbor-449.notion.site
 0.0.0.0 apps.rokt.com
 0.0.0.0 adt.rokt.com
@@ -61860,6 +61863,7 @@
 0.0.0.0 streaming.jsonmediapacks.com
 0.0.0.0 js.schema-forms.org
 0.0.0.0 stylesheet.webstaticcdn.com
+0.0.0.0 assets.watchasync.com
 0.0.0.0 tags.stickloader.info
 0.0.0.0 apps.marketing-counter.com
 0.0.0.0 forwardoffernow.com
@@ -89256,6 +89260,8 @@
 0.0.0.0 browser-intake-us3-datadoghq.com
 0.0.0.0 browser-intake-us4-datadoghq.com
 0.0.0.0 browser-intake-us5-datadoghq.com
+0.0.0.0 browser-intake-ap1-datadoghq.com
+0.0.0.0 browser-intake-corporateclash.net
 0.0.0.0 browser-intake-datad0g.com
 0.0.0.0 browser-intake-ddog-gov.com
 0.0.0.0 browser-intake-foxbusiness.com
@@ -89741,3 +89747,6 @@
 0.0.0.0 metrics.paddle.com
 0.0.0.0 pulse-ai.paddle.com
 0.0.0.0 id.paddle.com
+0.0.0.0 metrics.documentfoundation.org
+0.0.0.0 stats.documentfoundation.org
+0.0.0.0 tracker.documentfoundation.org

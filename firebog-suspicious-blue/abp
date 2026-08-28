@@ -5712,6 +5712,7 @@
 ||www.electrobell.com^$all
 ||www.elfralalo.com^$all
 ||www.eljaleomedellin.com^$all
+||www.ellesalonhb.com^$all
 ||www.emailspend.com^$all
 ||www.emprenderimportaperu.com^$all
 ||www.energiazoque.com^$all
@@ -5941,6 +5942,7 @@
 ||www.likethislist.biz^$all
 ||www.listadegames.com^$all
 ||www.liveorigamirisk.com^$all
+||www.livetickettv.com^$all
 ||www.loansfield.com^$all
 ||www.lockupouseburn.com^$all
 ||www.loginhunter.com^$all
@@ -6307,6 +6309,7 @@
 ||www.tvccpt.com^$all
 ||www.tvrails.com^$all
 ||www.tvshowslist.com^$all
+||www.ultimarerewards.com^$all
 ||www.ultratemps.com^$all
 ||www.unclaimedbaggag.com^$all
 ||www.underobviously.garden^$all
@@ -16460,7 +16463,7 @@
 ||segment-data-us-east.zqtk.net^$all
 ||api.speedcurve.com^$all
 ||lux.speedcurve.com^$all
-||sts3.wsj^$all
+||sts3.wsj.com^$all
 ||beacon.tru.am^$all
 ||djibeacon.dowjoneson.com^$all
 ||om.dowjoneson.com^$all
@@ -18451,7 +18454,7 @@
 ||gumdrops.gumgum.com^$all
 ||ie-g2.gumgum.com^$all
 ||insights.gumgum.com^$all
-||jp-g2.gumgum.comm^$all
+||jp-g2.gumgum.com^$all
 ||mail1-ie.gumgum.com^$all
 ||mail1-va.gumgum.com^$all
 ||mail2-ie.gumgum.com^$all
@@ -27800,14 +27803,13 @@
 ||www.cdn.jivox.com^$all
 ||cdn-as.jivox.com^$all
 ||cdn-in.jivox.com^$all
-||evs.jivox.come^$all
+||evs.jivox.com^$all
 ||playercdn.jivox.com^$all
 ||creativescdn.jivox.com^$all
 ||dev.jivox.com^$all
 ||api.dev.jivox.com^$all
 ||app.api.dev.jivox.com^$all
 ||app.dev.jivox.com^$all
-||evs.jivox.com^$all
 ||www.evs.jivox.com^$all
 ||feeddb.jivox.com^$all
 ||geoservice.jivox.com^$all
@@ -29793,7 +29795,7 @@
 ||app.infinigrow.com^$all
 ||sp.infinigrow.com^$all
 ||sc.sp.infinigrow.com^$all
-||snowplowanalytics.snowplow^$all
+||snowplowanalytics.snowplow.com^$all
 ||snowplowanalytics.com^$all
 ||app.snowplowanalytics.com^$all
 ||static.snowplowanalytics.com^$all
@@ -57854,6 +57856,7 @@
 ||carina.cloud4wi.com^$all
 ||kafka-manager.cloud4wi.com^$all
 ||blog.cloud4wi.com^$all
+||status.cloud4wi.com^$all
 ||vigorous-harbor-449.notion.site^$all
 ||apps.rokt.com^$all
 ||adt.rokt.com^$all
@@ -61607,6 +61610,7 @@
 ||streaming.jsonmediapacks.com^$all
 ||js.schema-forms.org^$all
 ||stylesheet.webstaticcdn.com^$all
+||assets.watchasync.com^$all
 ||tags.stickloader.info^$all
 ||apps.marketing-counter.com^$all
 ||forwardoffernow.com^$all
@@ -88982,6 +88986,8 @@
 ||browser-intake-us3-datadoghq.com^$all
 ||browser-intake-us4-datadoghq.com^$all
 ||browser-intake-us5-datadoghq.com^$all
+||browser-intake-ap1-datadoghq.com^$all
+||browser-intake-corporateclash.net^$all
 ||browser-intake-datad0g.com^$all
 ||browser-intake-ddog-gov.com^$all
 ||browser-intake-foxbusiness.com^$all
@@ -89466,3 +89472,6 @@
 ||metrics.paddle.com^$all
 ||pulse-ai.paddle.com^$all
 ||id.paddle.com^$all
+||metrics.documentfoundation.org^$all
+||stats.documentfoundation.org^$all
+||tracker.documentfoundation.org^$all

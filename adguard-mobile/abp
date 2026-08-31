@@ -969,6 +969,11 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||katitube.com^$all
+||transferfeed.com^$all
+||donanimhaber.com^$all
+||mantan-web.jp^$all
+||nikkei.com^$all
 ||figure-times.com^$all
 ||deview.co.jp^$all
 ||automaton-media.com^$all
@@ -1788,7 +1793,6 @@
 ||informator.ua^$all
 ||zozovideo.com^$all
 ||4gamer.net^$all
-||mantan-web.jp^$all
 ||bbsnet.info^$all
 ||anal.bbsnet.info^$all
 ||ms.bbsnet.info^$all
@@ -2750,7 +2754,6 @@
 ||natgeo.nikkeibp.co.jp^$all
 ||m.fitforfun.de^$all
 ||gelbooru.com^$all
-||nikkei.com^$all
 ||ryukyushimpo.jp^$all
 ||kobe-np.co.jp^$all
 ||okinilove.com^$all
@@ -3413,7 +3416,6 @@
 ||dnepr.info^$all
 ||azeriseks.ru^$all
 ||webclick.megalabs.ru^$all
-||donanimhaber.com^$all
 ||m.hclips.com^$all
 ||telegraph.co.uk^$all
 ||laravel-news.com^$all

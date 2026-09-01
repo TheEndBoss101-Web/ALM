@@ -2472,7 +2472,6 @@
 ||shoplytics.com^$all
 ||shoptimally.com^$all
 ||showheroes.com^$all
-||shrinetheme.com^$all
 ||sift.com^$all
 ||siftscience.com^$all
 ||signalfx.com^$all
@@ -6958,6 +6957,7 @@
 ||api-js.mixpanel.com^$all
 ||api-visitor-analytics.intercom.com^$all
 ||api.takealot.com^$all
+||aplus.aliexpress.com^$all
 ||apm.qwant.com^$all
 ||appanalysis.banggood.com^$all
 ||aptoide-mmp.aptoide.com^$all
@@ -43474,6 +43474,7 @@
 ||cltr.willhaben.at^$all
 ||cmp2.channelpartner.de^$all
 ||cnt.wetteronline.de^$all
+||collector.orf.at^$all
 ||cpx.golem.de^$all
 ||cpxl.golem.de^$all
 ||d.rp-online.de^$all

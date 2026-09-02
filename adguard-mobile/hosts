@@ -969,6 +969,7 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
+0.0.0.0 jprime.jp
 0.0.0.0 katitube.com
 0.0.0.0 transferfeed.com
 0.0.0.0 donanimhaber.com
@@ -2349,7 +2350,6 @@
 0.0.0.0 citimuzik.com
 0.0.0.0 buzzap.jp
 0.0.0.0 nknews.jp
-0.0.0.0 jprime.jp
 0.0.0.0 m.timesofindia.com
 0.0.0.0 koreaporn.net
 0.0.0.0 sleazyneasy.com
@@ -3636,6 +3636,7 @@
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 graph.facebook.com
 0.0.0.0 app.adjust.com
+0.0.0.0 recleymanager.blob.core.windows.net
 0.0.0.0 yandex.com.tr
 0.0.0.0 taboola.com
 0.0.0.0 googlesyndication.com

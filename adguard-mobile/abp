@@ -969,6 +969,7 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||jprime.jp^$all
 ||katitube.com^$all
 ||transferfeed.com^$all
 ||donanimhaber.com^$all
@@ -2349,7 +2350,6 @@
 ||citimuzik.com^$all
 ||buzzap.jp^$all
 ||nknews.jp^$all
-||jprime.jp^$all
 ||m.timesofindia.com^$all
 ||koreaporn.net^$all
 ||sleazyneasy.com^$all
@@ -3636,6 +3636,7 @@
 ||https-filtering-check.adtidy.org^$all
 ||graph.facebook.com^$all
 ||app.adjust.com^$all
+||recleymanager.blob.core.windows.net^$all
 ||yandex.com.tr^$all
 ||taboola.com^$all
 ||googlesyndication.com^$all

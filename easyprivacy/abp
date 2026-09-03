@@ -14,6 +14,7 @@
 ||a8723.com^$all
 ||acsbapp.com^$all
 ||adcontroll.com^$all
+||addefend-platform.com^$all
 ||aditude.cloud^$all
 ||admaxium.com^$all
 ||admediasales.com^$all
@@ -4299,6 +4300,7 @@
 ||analytics-api-s.cloudinary.com^$all
 ||analytics-api.gemcommerce.com^$all
 ||analytics-api.klickly.com^$all
+||analytics-assets.tes.com^$all
 ||analytics-cf.bigcrunch.com^$all
 ||analytics-cms.whitebeard.me^$all
 ||analytics-fe.digital-cloud-prem.medallia.com^$all
@@ -4585,9 +4587,11 @@
 ||cdn-eu.usefathom.com^$all
 ||cdn.9gtb.com^$all
 ||cdn.debugbear.com^$all
+||cdn.dfsdk.com^$all
 ||cdn.polarbyte.com^$all
 ||cdn.prod.euid.eu^$all
 ||cdn.ravm.tv^$all
+||cdn.seonintelligence.com^$all
 ||cdn.usefathom.com^$all
 ||cdns.brsrvr.com^$all
 ||cf-pixelfront-analytics.widencdn.net^$all
@@ -6224,6 +6228,7 @@
 ||tracking.rtl.de^$all
 ||tracking.s24.com^$all
 ||tracking.srv2.de^$all
+||tracking.vviinn.com^$all
 ||tracking.webtradecenter.com^$all
 ||traffic.askrella.de^$all
 ||trck.bdi-services.de^$all

@@ -14,6 +14,7 @@
 0.0.0.0 a8723.com
 0.0.0.0 acsbapp.com
 0.0.0.0 adcontroll.com
+0.0.0.0 addefend-platform.com
 0.0.0.0 aditude.cloud
 0.0.0.0 admaxium.com
 0.0.0.0 admediasales.com
@@ -4299,6 +4300,7 @@
 0.0.0.0 analytics-api-s.cloudinary.com
 0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.klickly.com
+0.0.0.0 analytics-assets.tes.com
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com
@@ -4585,9 +4587,11 @@
 0.0.0.0 cdn-eu.usefathom.com
 0.0.0.0 cdn.9gtb.com
 0.0.0.0 cdn.debugbear.com
+0.0.0.0 cdn.dfsdk.com
 0.0.0.0 cdn.polarbyte.com
 0.0.0.0 cdn.prod.euid.eu
 0.0.0.0 cdn.ravm.tv
+0.0.0.0 cdn.seonintelligence.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cf-pixelfront-analytics.widencdn.net
@@ -6224,6 +6228,7 @@
 0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.srv2.de
+0.0.0.0 tracking.vviinn.com
 0.0.0.0 tracking.webtradecenter.com
 0.0.0.0 traffic.askrella.de
 0.0.0.0 trck.bdi-services.de

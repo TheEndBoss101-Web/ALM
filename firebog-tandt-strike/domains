@@ -447944,6 +447944,11 @@ us.rdl.lgtvcommon.com
 us.recommend.lgtvcommon.com
 us.lgsmartad.com
 us.service.lgtvcommon.com
+aic.cdpsvc.lgtvcommon.com
+aic.cdpbeacon.lgtvcommon.com
+ngfts.nextlgsdp.com
+aic.rdl.lgtvcommon.com
+aic-gfts.nextlgsdp.com
 legacyportal.nettvservices.com
 nettv.corio.com
 ad.nettvservices.com
@@ -448073,6 +448078,7 @@ a1.resources.foxtel.com.au
 data.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 androidtvchannels-pa.googleapis.com
+androidtvlauncherxfe-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 device-messaging-na.amazon.com
 devicemessaging.us-east-1.amazon.com

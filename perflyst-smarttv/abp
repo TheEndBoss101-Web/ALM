@@ -78,6 +78,11 @@
 ||us.recommend.lgtvcommon.com^$all
 ||us.lgsmartad.com^$all
 ||us.service.lgtvcommon.com^$all
+||aic.cdpsvc.lgtvcommon.com^$all
+||aic.cdpbeacon.lgtvcommon.com^$all
+||ngfts.nextlgsdp.com^$all
+||aic.rdl.lgtvcommon.com^$all
+||aic-gfts.nextlgsdp.com^$all
 ||legacyportal.nettvservices.com^$all
 ||nettv.corio.com^$all
 ||ad.nettvservices.com^$all
@@ -237,4 +242,5 @@
 ||data.mistat.intl.xiaomi.com^$all
 ||sdkconfig.ad.intl.xiaomi.com^$all
 ||androidtvchannels-pa.googleapis.com^$all
+||androidtvlauncherxfe-pa.googleapis.com^$all
 ||androidtvwatsonfe-pa.googleapis.com^$all

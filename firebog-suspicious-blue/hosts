@@ -5714,6 +5714,7 @@
 127.0.0.1 www.edwardmartino.com
 127.0.0.1 www.ekkekkocapital.com
 127.0.0.1 www.elanactivewear.com
+127.0.0.1 www.elchavotortas.com
 127.0.0.1 www.electrobell.com
 127.0.0.1 www.elfralalo.com
 127.0.0.1 www.eljaleomedellin.com
@@ -6013,6 +6014,7 @@
 127.0.0.1 www.myexotel.com
 127.0.0.1 www.myfavcouponstore.com
 127.0.0.1 www.myfurnituresirplus.com
+127.0.0.1 www.myguidedreaders.com
 127.0.0.1 www.myhucadvantage.com
 127.0.0.1 www.mylike.co.uk
 127.0.0.1 www.mylovecards.com
@@ -9971,6 +9973,7 @@
 127.0.0.1 cleancrdio.shop
 127.0.0.1 cleaningformac.com
 127.0.0.1 clearonclick.com
+127.0.0.1 clearviewhub9.cc
 127.0.0.1 clevernt.com
 127.0.0.1 clhctrk.com
 127.0.0.1 click.a-ads.com
@@ -85031,7 +85034,10 @@
 0.0.0.0 analytics.plaid.com
 0.0.0.0 metrics.plaid.com
 0.0.0.0 advertise.acast.com
+0.0.0.0 www2.advertise.acast.com
+0.0.0.0 sv.advertise.acast.com
 0.0.0.0 analytics.acast.com
+0.0.0.0 campaigns.acast.com
 0.0.0.0 tracking.chess.com
 0.0.0.0 ip.varify.dev
 0.0.0.0 2a57j78lztda5joakq20jlljwrivtpe.aimerce.ai
@@ -89775,3 +89781,7 @@
 0.0.0.0 embed.soloist.ai
 0.0.0.0 links.soloist.ai
 0.0.0.0 affiliates.main.soloist.ai
+0.0.0.0 lgsmartad.com
+0.0.0.0 alphonso.tv
+0.0.0.0 lgtvcommon.com
+0.0.0.0 wiselg.com

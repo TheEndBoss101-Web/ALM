@@ -69666,7 +69666,10 @@
 ||analytics.plaid.com^$all
 ||metrics.plaid.com^$all
 ||advertise.acast.com^$all
+||www2.advertise.acast.com^$all
+||sv.advertise.acast.com^$all
 ||analytics.acast.com^$all
+||campaigns.acast.com^$all
 ||tracking.chess.com^$all
 ||ip.varify.dev^$all
 ||2a57j78lztda5joakq20jlljwrivtpe.aimerce.ai^$all
@@ -74410,3 +74413,7 @@
 ||embed.soloist.ai^$all
 ||links.soloist.ai^$all
 ||affiliates.main.soloist.ai^$all
+||lgsmartad.com^$all
+||alphonso.tv^$all
+||lgtvcommon.com^$all
+||wiselg.com^$all

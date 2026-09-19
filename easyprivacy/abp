@@ -4388,6 +4388,7 @@
 ||analytics.onlyonlinemarketing.com^$all
 ||analytics.optilead.co.uk^$all
 ||analytics.orenshmu.com^$all
+||analytics.org.coveo.com^$all
 ||analytics.ostr.io^$all
 ||analytics.paddle.com^$all
 ||analytics.pagefly.io^$all
@@ -6292,6 +6293,7 @@
 ||adv-sv-stat.focus.cn^$all
 ||analytics.afirstsoft.cn^$all
 ||analytics.meituan.net^$all
+||apm-rum.inf.miui.com^$all
 ||atanx.alicdn.com^$all
 ||atom-log.3.cn^$all
 ||beacon.sina.com.cn^$all
@@ -6359,6 +6361,7 @@
 ||track.tomwx.net^$all
 ||track.unidata.ai^$all
 ||tracker-00.qvb.qcloud.com^$all
+||tracker.fengkongcloud.com^$all
 ||tracking.cat898.com^$all
 ||tracklog.58.com^$all
 ||trail.71baomu.com^$all
@@ -44129,6 +44132,7 @@
 ||channel-analysis-js.gmw.cn^$all
 ||cherry.le.com^$all
 ||click.gamersky.com^$all
+||click.lenovo.com^$all
 ||clickcount.cnool.net^$all
 ||clientlog.music.163.com^$all
 ||count.candou.com^$all
@@ -44138,6 +44142,7 @@
 ||data.bilibili.com^$all
 ||df.huya.com^$all
 ||dig.lianjia.com^$all
+||dmplog.qq.com^$all
 ||dolphin.deliver.ifeng.com^$all
 ||eclick.360doc.com^$all
 ||ems.youku.com^$all
@@ -44176,6 +44181,7 @@
 ||log.zongheng.com^$all
 ||log2.sina.cn^$all
 ||logs.51cto.com^$all
+||logs.game.qq.com^$all
 ||logtake.weidian.com^$all
 ||mercury.jd.com^$all
 ||metric.huya.com^$all
@@ -44185,6 +44191,9 @@
 ||mtrace.qq.com^$all
 ||netstat.yunnan.cn^$all
 ||nex.163.com^$all
+||omgup.didiglobal.com^$all
+||omgup.xiaojukeji.com^$all
+||omgup1.xiaojukeji.com^$all
 ||p.data.cctv.com^$all
 ||pb.i.sogou.com^$all
 ||phpstat.cntcm.com.cn^$all
@@ -44207,6 +44216,7 @@
 ||sngmta.qq.com^$all
 ||snowflake.qq.com^$all
 ||sofire.bdstatic.com^$all
+||st-sentinel.vivo.com.cn^$all
 ||stadig.ifeng.com^$all
 ||stat-58home.58che.com^$all
 ||stat.caijing.com.cn^$all
@@ -44218,11 +44228,13 @@
 ||stat.zol.com.cn^$all
 ||statistic.qzone.qq.com^$all
 ||statwup.huya.com^$all
+||stpc.vivo.com.cn^$all
 ||sugar.zhihu.com^$all
 ||t.home.news.cn^$all
 ||tbskip.taobao.com^$all
 ||tf.360.cn^$all
 ||tj.img4399.com^$all
+||tk.d.mi.com^$all
 ||tongji.mafengwo.cn^$all
 ||tongji.techweb.com.cn^$all
 ||tongji.xinmin.cn^$all
@@ -44232,6 +44244,7 @@
 ||trace.qq.com^$all
 ||track.hk01.com^$all
 ||track.hujiang.com^$all
+||track.lenovo.com.cn^$all
 ||track.sohu.com^$all
 ||track.tom.com^$all
 ||trackcommon.hujiang.com^$all

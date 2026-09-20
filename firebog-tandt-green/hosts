@@ -5892,6 +5892,7 @@
 0.0.0.0 x.babe.today
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
+0.0.0.0 xp.atlassian.com
 0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 yoast-schema-graph.com
 0.0.0.0 yotrack.cdn.ybn.io
@@ -44168,6 +44169,8 @@
 0.0.0.0 jcmonitor.xcar.com.cn
 0.0.0.0 jiayuan.com
 0.0.0.0 l.web.huya.com
+0.0.0.0 lego-tech.zhuanzhuan.com
+0.0.0.0 lego.zhuanzhuan.com
 0.0.0.0 log-h5.imdada.cn
 0.0.0.0 log-upload-os.hoyolab.com
 0.0.0.0 log-upload-os.hoyoverse.com

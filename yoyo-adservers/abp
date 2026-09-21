@@ -2385,6 +2385,8 @@
 ||offer.sponsorpay.com^$all
 ||offerforge.com^$all
 ||offermatica.com^$all
+||offers.gateway-lts450.com^$all
+||offers.ltsc-has.com^$all
 ||offshoregeology.com^$all
 ||ogads-pa.googleapis.com^$all
 ||oglasi.posjetnica.com^$all
@@ -3240,6 +3242,7 @@
 ||tracking.casheddy.com^$all
 ||tracking.cybertips.uk^$all
 ||tracking.epicgames.com^$all
+||tracking.gauchosurf.com^$all
 ||tracking.hostgator.com^$all
 ||tracking.hyros.com^$all
 ||tracking.ibxlink.com^$all

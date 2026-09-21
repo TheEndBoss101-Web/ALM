@@ -264,8 +264,6 @@
 ||r.msn.com^$all
 ||ads.bing.com^$all
 ||adserver.bing.com^$all
-||bat.bing.com^$all
-||c.bing.com^$all
 ||aan.amazon.com^$all
 ||mads.amazon.com^$all
 ||device-metrics-us-2.amazon.com^$all
@@ -7118,6 +7116,7 @@
 ||iad-04.braze.com^$all
 ||iad-05.braze.com^$all
 ||iad-06.braze.com^$all
+||iad-07.braze.com^$all
 ||iad-08.braze.com^$all
 ||sdk.iad-01.braze.com^$all
 ||sdk.iad-02.braze.com^$all
@@ -7125,11 +7124,8 @@
 ||sdk.iad-04.braze.com^$all
 ||sdk.iad-05.braze.com^$all
 ||sdk.iad-06.braze.com^$all
+||sdk.iad-07.braze.com^$all
 ||sdk.iad-08.braze.com^$all
-||belgikanst.iad-03.braze.com^$all
-||gaspra.iad-03.braze.com^$all
-||rest.iad-03.braze.com^$all
-||serpens.iad-01.braze.com^$all
 ||fra-01.braze.eu^$all
 ||sdk.fra-01.braze.eu^$all
 ||fra-02.braze.eu^$all
@@ -10245,14 +10241,19 @@
 ||x01.aidata.io^$all
 ||arcspire.io^$all
 ||px.arcspire.io^$all
+||cdn.tanx.com^$all
+||click.tanx.com^$all
 ||cms.tanx.com^$all
 ||df.tanx.com^$all
 ||ef-dongfeng.tanx.com^$all
 ||et.tanx.com^$all
-||ifsk2.tanx.com^$all
+||ifs.tanx.com^$all
 ||kgb-ifs.tanx.com^$all
+||live-ifs.tanx.com^$all
+||opehs.tanx.com^$all
 ||p.tanx.com^$all
-||tanx.com^$all
+||rdstat.tanx.com^$all
+||sdk-config.tanx.com^$all
 ||mediav.com^$all
 ||ckmap.mediav.com^$all
 ||yodimedia.com^$all
@@ -13117,6 +13118,7 @@
 ||ads.adadapted.com^$all
 ||ads.adfox.ru^$all
 ||ads.administrator.de^$all
+||ads.adspro.name^$all
 ||ads.adstream.com.ro^$all
 ||ads.adultfriendfinder.com^$all
 ||ads.advance.net^$all
@@ -13634,6 +13636,7 @@
 ||amunfezanttor.com^$all
 ||ancotvpaxoz.com^$all
 ||anewfeedliberty.com^$all
+||anlxwagwa.in^$all
 ||annihilativefaltermillion.com^$all
 ||annonser.dagbladet.no^$all
 ||anrdoezrs.net^$all
@@ -14599,6 +14602,7 @@
 ||dreamcatcherbnbcolorado.com^$all
 ||dreamlikefostergala.com^$all
 ||drenchedtidyarticle.com^$all
+||driverhugoverblown.com^$all
 ||drubpainch.com^$all
 ||drumcash.com^$all
 ||drydrum.com^$all
@@ -14694,6 +14698,7 @@
 ||emediate.dk^$all
 ||emerse.com^$all
 ||emxdigital.com^$all
+||en.dobytowsy.com^$all
 ||endlesshandbaglinked.com^$all
 ||endowmentoverhangutmost.com^$all
 ||endurosweekday.com^$all
@@ -15010,6 +15015,7 @@
 ||guppymedia.com^$all
 ||gv.habitanchowses.cyou^$all
 ||gwallet.com^$all
+||gxzkljfo.com^$all
 ||gy.anaheimnonfat.com^$all
 ||gylxwpwabgp.com^$all
 ||gzaqwebtipm.com^$all
@@ -15120,6 +15126,7 @@
 ||hxgqqxopf.com^$all
 ||hybrid.ai^$all
 ||hydramedia.com^$all
+||hyoswaxrtfvq.com^$all
 ||hypelab.com^$all
 ||hyperbanner.net^$all
 ||hypermusk.com^$all
@@ -15962,6 +15969,7 @@
 ||optmstr.com^$all
 ||opvanillishan.com^$all
 ||opzazcvitci.com^$all
+||oqhbgxvk.com^$all
 ||oranegfodnd.com^$all
 ||orangeads.fr^$all
 ||orb92.com^$all
@@ -16140,6 +16148,7 @@
 ||pltraffic8.com^$all
 ||plufdsb.com^$all
 ||plugrush.com^$all
+||plummypokefunbenefit.com^$all
 ||plusungratefulinstruction.com^$all
 ||pnhoppacwh.com^$all
 ||pnuhondppw.com^$all
@@ -16452,6 +16461,7 @@
 ||revmasters.com^$all
 ||revstats.com^$all
 ||reyeshehadtwobri.com^$all
+||rh.wallahrana.cfd^$all
 ||rhiowzaht.com^$all
 ||rhymezebra.com^$all
 ||rhythmnewmedia.com^$all
@@ -17276,6 +17286,7 @@
 ||vpn-explained.com^$all
 ||vpon.com^$all
 ||vr.ringentkenlore.com^$all
+||vr5ip6ntb529k.2uhxnrj7qreorju4xfq.cfd^$all
 ||vrs.cz^$all
 ||vs.tucows.com^$all
 ||vsgdodqfjpdws.space^$all
@@ -17631,6 +17642,7 @@
 ||zwnoeqzsuz.com^$all
 ||zxc.world^$all
 ||zxgkuhqwwtcvc.website^$all
+||zyuwjxerthht.com^$all
 ||2xclick.ru^$all
 ||3gl.net^$all
 ||a.apkpure.com^$all
@@ -17761,7 +17773,6 @@
 ||blueconic.net^$all
 ||blueoyster.click^$all
 ||business.yingliangads.com^$all
-||c.riskified.com^$all
 ||c2i-cdn.startappnetwork.com^$all
 ||cadmus.script.ac^$all
 ||cc.swiftype.com^$all
@@ -18115,7 +18126,6 @@
 ||rlog.9gag.com^$all
 ||rochesterdata.com^$all
 ||roistat.com^$all
-||rs6.net^$all
 ||rsrly.com^$all
 ||rt.rtoaster.jp^$all
 ||rta.dailymail.co.uk^$all

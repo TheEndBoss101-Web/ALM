@@ -112,6 +112,7 @@
 ||cr-relay.com^$all
 ||crossengage.io^$all
 ||crwdcntrl.net^$all
+||ctxcollect.com^$all
 ||cvlb.dev^$all
 ||cxense.com^$all
 ||cybba.solutions^$all
@@ -489,6 +490,7 @@
 ||venusrevival.com^$all
 ||veozn3f.com^$all
 ||veradata.network^$all
+||veselchaga.link^$all
 ||vfghe.com^$all
 ||vhit.io^$all
 ||videoplayerhub.com^$all
@@ -4968,6 +4970,7 @@
 ||i.compendium.com^$all
 ||i.viafoura.co^$all
 ||iabusprivacy.pmc.com^$all
+||ichnaea-web.netflix.com^$all
 ||id.a-mx.com^$all
 ||id.nbcuni.com^$all
 ||iddu1vvb7sk8-a.akamaihd.net^$all
@@ -5134,6 +5137,7 @@
 ||mm-sdk-analytics.api.cx.metamask.io^$all
 ||mmi.bemobile.ua^$all
 ||modules.ooyala.com^$all
+||mon-sg.byteintlapi.com^$all
 ||mon.domdog.io^$all
 ||monitor-api.blackcrow.ai^$all
 ||monitor-frontend-collector.a.bybit-aws.com^$all
@@ -5645,6 +5649,7 @@
 ||traccoon.intellectsoft.net^$all
 ||trace.swaven.com^$all
 ||track-dark-bz.b-cdn.net^$all
+||track-na2.hubspot.com^$all
 ||track.360playvid.info^$all
 ||track.91app.io^$all
 ||track.addevent.com^$all
@@ -5865,6 +5870,7 @@
 ||web.valiuz.com^$all
 ||web1.51.la^$all
 ||webevents.kayzen.io^$all
+||webpushstat-sgp.engagelab.com^$all
 ||websdk.appsflyer.com^$all
 ||websdk.appsflyersdk.com^$all
 ||webservices.websitepros.com^$all
@@ -6295,6 +6301,7 @@
 ||ws3.smartp.com^$all
 ||zebestof.com^$all
 ||freshatl.azurewebsites.net^$all
+||4399logs.4399doc.com^$all
 ||66hao.cc^$all
 ||adv-sv-stat.focus.cn^$all
 ||analytics.afirstsoft.cn^$all
@@ -6325,6 +6332,7 @@
 ||eclick.baidu.com^$all
 ||event.tagtoo.co^$all
 ||experiments.sparanoid.net^$all
+||fourier.alibaba.com^$all
 ||fourier.taobao.com^$all
 ||g.yccdn.com^$all
 ||gdt.qq.com^$all
@@ -6341,7 +6349,10 @@
 ||log.tagtic.cn^$all
 ||mcs.zijieapi.com^$all
 ||mon.zijieapi.com^$all
+||ms.xunyou.com^$all
 ||msg.71.am^$all
+||opt.doubao.com^$all
+||oss.weread.qq.com^$all
 ||p.aty.sohu.com^$all
 ||p.tencentmind.com^$all
 ||pos.baidu.com^$all
@@ -6372,6 +6383,7 @@
 ||tracklog.58.com^$all
 ||trail.71baomu.com^$all
 ||ts-analysis.shoalter.com^$all
+||umini.shujupie.com^$all
 ||videostats.kakao.com^$all
 ||w3t.cn^$all
 ||web-trace.ksapisrv.com^$all
@@ -6753,6 +6765,7 @@
 ||stat.tvigle.ru^$all
 ||statistics.fppressa.ru^$all
 ||stats.tazeros.com^$all
+||stats.temptcdn.com^$all
 ||stats2.videonow.ru^$all
 ||t1.trex.media^$all
 ||tags.soloway.ru^$all
@@ -44218,6 +44231,7 @@
 ||rlogs.youdao.com^$all
 ||s.360.cn^$all
 ||sbeacon.sina.com.cn^$all
+||sdata.chatglm.cn^$all
 ||sentry.music.163.com^$all
 ||sfp.safe.baidu.com^$all
 ||shrek.6.cn^$all
@@ -44243,6 +44257,7 @@
 ||tf.360.cn^$all
 ||tj.img4399.com^$all
 ||tk.d.mi.com^$all
+||tongji.duote.com^$all
 ||tongji.mafengwo.cn^$all
 ||tongji.techweb.com.cn^$all
 ||tongji.xinmin.cn^$all

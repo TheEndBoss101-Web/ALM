@@ -276,6 +276,8 @@
 ||ads.amazon.dev^$all
 ||advertising.amazon.dev^$all
 ||api.imdb.eu-west-1.prod.paets.advertising.amazon.dev^$all
+||bdtelemetry.amazon^$all
+||api.mshop.bdtelemetry.amazon^$all
 ||assoc-amazon.com^$all
 ||wms.assoc-amazon.com^$all
 ||ws-fe.assoc-amazon.com^$all
@@ -391,6 +393,9 @@
 ||analytics.s3.amazonaws.com^$all
 ||analyticsengine.s3.amazonaws.com^$all
 ||sprocket-ping.s3.amazonaws.com^$all
+||ad-host-backup-america.s3.us-west-1.amazonaws.com^$all
+||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^$all
+||ad-host-backup-europe.s3.eu-central-1.amazonaws.com^$all
 ||prod.cm.publishers.advertising.a2z.com^$all
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^$all
 ||ap-southeast-1.prod.pr.analytics.console.aws.a2z.com^$all
@@ -498,6 +503,7 @@
 ||rat.rakuten.co.jp^$all
 ||secure.rat.rakuten.co.jp^$all
 ||an.facebook.com^$all
+||analytics.facebook.com^$all
 ||pixel.facebook.com^$all
 ||o.update.fbsbx.com^$all
 ||p.update.fbsbx.com^$all
@@ -8738,12 +8744,25 @@
 ||tva-igame-global-ipa-0001.us-east-1.log.aliyuncs.com^$all
 ||videocloud-sgp.ap-southeast-1.log.aliyuncs.com^$all
 ||vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com^$all
+||cn-hangzhou.log.aliyuncs.com^$all
+||cbu-offer.cn-shanghai.log.aliyuncs.com^$all
+||cbu-search-app.cn-shanghai.log.aliyuncs.com^$all
+||client-upload.cn-shanghai.log.aliyuncs.com^$all
+||wireless-app-log.cn-hangzhou.log.aliyuncs.com^$all
+||log-global.aliyuncs.com^$all
+||adsplusadx-prod.log-global.aliyuncs.com^$all
+||crown-client.log-global.aliyuncs.com^$all
+||dcsz-gamelog-yyzdsy-kr.log-global.aliyuncs.com^$all
+||dida-function-log-hz.log-global.aliyuncs.com^$all
+||hishort-video.log-global.aliyuncs.com^$all
+||hoyodesk-app-log.log-global.aliyuncs.com^$all
+||india-service-log.log-global.aliyuncs.com^$all
+||oneconsole-blank-log.log-global.aliyuncs.com^$all
+||room-event.log-global.aliyuncs.com^$all
+||tva-satanpit-global-ipa-0001.log-global.aliyuncs.com^$all
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^$all
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^$all
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^$all
-||ad-host-backup-america.s3.us-west-1.amazonaws.com^$all
-||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^$all
-||ad-host-backup-europe.s3.eu-central-1.amazonaws.com^$all
 ||analytics.userreport.com^$all
 ||bapi.userreport.com^$all
 ||cdn.userreport.com^$all
@@ -10986,6 +11005,8 @@
 ||s3-playable-ads.easybrain.com^$all
 ||orion.bendingspoons.com^$all
 ||storage.orion.bendingspoons.com^$all
+||bzr.openai.com^$all
+||bzrcdn.openai.com^$all
 ||adtimaserver.vn^$all
 ||api.adtimaserver.vn^$all
 ||log.adtimaserver.vn^$all
@@ -13569,6 +13590,7 @@
 ||afzotfwramzy.in^$all
 ||agacelebir.com^$all
 ||aggravatingoil.com^$all
+||agileskincareunrented.com^$all
 ||agle21xe2anfddirite.com^$all
 ||agorahtag.tech^$all
 ||agqoshfujku.com^$all
@@ -13911,6 +13933,7 @@
 ||bg4nxu2u5t.com^$all
 ||bharalhallahs.com^$all
 ||bhcumsc.com^$all
+||bhjkpnfsgejvo.com^$all
 ||bicolourprepossessstrong.com^$all
 ||bid.glass^$all
 ||bidclickmedia.com^$all
@@ -14016,6 +14039,7 @@
 ||broaddoor.com^$all
 ||broadensilkslush.com^$all
 ||broadlyjukeboxunrevised.com^$all
+||broadsidedaisysanta.com^$all
 ||bronzecedarleaf.com^$all
 ||browsecoherentunrefined.com^$all
 ||browser-update.org^$all
@@ -14606,6 +14630,7 @@
 ||drubpainch.com^$all
 ||drumcash.com^$all
 ||drydrum.com^$all
+||dryhachug.in^$all
 ||ds88pc0kw6cvc.cloudfront.net^$all
 ||dsp.wtf^$all
 ||dtv5loup63fac.cloudfront.net^$all
@@ -14862,6 +14887,7 @@
 ||frivolousdrinkloss.com^$all
 ||frs2c.com^$all
 ||fruhujma.in^$all
+||frykyuoqcto.com^$all
 ||fsavmklplmddsu.com^$all
 ||fsxmidyo.com^$all
 ||ft.budtawney.com^$all
@@ -15391,6 +15417,7 @@
 ||kw3y5otoeuniv7e9rsi.com^$all
 ||kx.upturnsidoist.cyou^$all
 ||kykay.com^$all
+||kypwvjoni.com^$all
 ||kzuocxorfo.com^$all
 ||laceassumestatic.com^$all
 ||lactolwant.com^$all

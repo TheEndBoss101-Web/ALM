@@ -5079,6 +5079,7 @@
 ||loggingapi.spingo.com^$all
 ||loglady.skypicker.com^$all
 ||logs-api.shoprunner.com^$all
+||logs-ingester.prod.zuddl.com^$all
 ||logs.animaapp.com^$all
 ||logs.betterstack.com^$all
 ||logs.datadoghq.com^$all

@@ -4847,6 +4847,7 @@
 ||events.plutus.ninja^$all
 ||events.realgravity.com^$all
 ||events.release.narrativ.com^$all
+||events.searchtap.net^$all
 ||events.shareably.net^$all
 ||events.shoplift.ai^$all
 ||events.splash-screen.net^$all
@@ -4930,6 +4931,7 @@
 ||gi-client-tracking.goodgamestudios.com^$all
 ||gigya.com^$all
 ||giosg.com^$all
+||gkx.gokwik.co^$all
 ||glam.com^$all
 ||gleam.io^$all
 ||globale-analytics-sdk.global-e.com^$all
@@ -5208,6 +5210,7 @@
 ||p.jmlp.app^$all
 ||p.metrilo.com^$all
 ||p.placed.com^$all
+||p.sa7eer.com^$all
 ||p.skimresources.com^$all
 ||p.tryretool.com^$all
 ||p.typekit.net^$all
@@ -5338,6 +5341,7 @@
 ||raven.adeptmind.ai^$all
 ||reach-id.orbit.tm-awx.com^$all
 ||realm.hearst3pcc.com^$all
+||realtimeanalytics.yext.com^$all
 ||receive.wmcdp.io^$all
 ||reco.target2sell.com^$all
 ||recs-api.conde.digital^$all
@@ -5663,6 +5667,7 @@
 ||track.btdmp.com^$all
 ||track.coherentpath.com^$all
 ||track.contently.com^$all
+||track.convertfox.com^$all
 ||track.cordial.io^$all
 ||track.digitalriver.com^$all
 ||track.emerse.com^$all
@@ -6316,6 +6321,7 @@
 ||atom-log.3.cn^$all
 ||beacon.sina.com.cn^$all
 ||beaconcdn.qq.com^$all
+||browsertdidticket.m.qq.com^$all
 ||busuanzi.ibruce.info^$all
 ||bzclk.baidu.com^$all
 ||c.holmesmind.com^$all
@@ -6340,6 +6346,7 @@
 ||fourier.alibaba.com^$all
 ||fourier.taobao.com^$all
 ||g.yccdn.com^$all
+||gatherer.m.qq.com^$all
 ||gdt.qq.com^$all
 ||hacx60.com^$all
 ||haostat.qihoo.com^$all
@@ -6394,6 +6401,7 @@
 ||w3t.cn^$all
 ||web-trace.ksapisrv.com^$all
 ||webstat.qiumibao.com^$all
+||webstat.ws.126.net^$all
 ||webtrack.pospal.cn^$all
 ||wlog.kuaishou.com^$all
 ||tracking.vid4u.org^$all
@@ -6864,6 +6872,7 @@
 ||track.livasoft.com.tr^$all
 ||tracker.adcluster.com.tr^$all
 ||traffic.wdc.center^$all
+||trafik.koopit.ist^$all
 ||wa.wawlabs.com^$all
 ||informers.sinoptik.ua^$all
 ||tracker.multisearch.io^$all
@@ -7090,6 +7099,7 @@
 ||count.rin.ru^$all
 ||counter.darkreader.app^$all
 ||cpt.itv.com^$all
+||crta.dailymail.com^$all
 ||crta.metro.co.uk^$all
 ||crumbs.robinhood.com^$all
 ||cryo.socialblade.com^$all
@@ -7448,6 +7458,7 @@
 ||pulsar.ebay.com^$all
 ||pulse.delta.com^$all
 ||pulse.genki.world^$all
+||pulsepoint.ideal.house^$all
 ||pumpkin.abine.com^$all
 ||px.srvcs.tumblr.com^$all
 ||pxl.indeed.com^$all
@@ -7631,6 +7642,7 @@
 ||tc.geniusmonkey.com^$all
 ||td.airdroid.com^$all
 ||tealium-proxy.libertex.org^$all
+||ted.dailymail.co.uk^$all
 ||telegraph.prd.api.max.com^$all
 ||telem.sre.gopuff.com^$all
 ||telemetry.adobe.io^$all
@@ -44205,6 +44217,7 @@
 ||log.m.sm.cn^$all
 ||log.mgtv.com^$all
 ||log.mix.sina.com.cn^$all
+||log.news.baidu.com^$all
 ||log.sina.cn^$all
 ||log.zcool.com.cn^$all
 ||log.zongheng.com^$all

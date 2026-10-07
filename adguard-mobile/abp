@@ -80,6 +80,7 @@
 ||startup.mobile.yandex.net^$all
 ||startup.mobile.webvisor.com^$all
 ||startup-mobile.ap.yandex-net.ru^$all
+||acdn.newshuntads.com^$all
 ||app.bxapi.de^$all
 ||yodo1.com^$all
 ||banner.bet365partners.com^$all
@@ -973,7 +974,9 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||goldennews.blog.jp^$all
 ||search.yahoo.co.jp^$all
+||magmix.jp^$all
 ||nogizaka46link.blog.jp^$all
 ||donanimhaber.com^$all
 ||troypoint.com^$all

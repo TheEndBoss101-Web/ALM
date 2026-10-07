@@ -80,6 +80,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 acdn.newshuntads.com
 0.0.0.0 app.bxapi.de
 0.0.0.0 yodo1.com
 0.0.0.0 banner.bet365partners.com
@@ -973,7 +974,9 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
+0.0.0.0 goldennews.blog.jp
 0.0.0.0 search.yahoo.co.jp
+0.0.0.0 magmix.jp
 0.0.0.0 nogizaka46link.blog.jp
 0.0.0.0 donanimhaber.com
 0.0.0.0 troypoint.com

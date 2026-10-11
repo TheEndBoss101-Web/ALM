@@ -5885,6 +5885,7 @@
 ||wallkit.net^$all
 ||watchtower.graindata.com^$all
 ||wco.crownpeak.com^$all
+||we-stats.com.cdn.cloudflare.net^$all
 ||web-beacon.starii-rover.com^$all
 ||web-tracker.smsbump.com^$all
 ||web-vitals-script.leaderint.workers.dev^$all
@@ -7812,7 +7813,8 @@
 ||content22.citibank.com.au^$all
 ||content22.citibank.com.sg^$all
 ||content22.citibankonline.com^$all
-||content22.online.citi.com^$all
+||contents1.00110.citi.com^$all
+||contents2.00110.citi.com^$all
 ||customer.homedepot.com^$all
 ||drfdisvc.walmart.com^$all
 ||event.evtm.53.com^$all

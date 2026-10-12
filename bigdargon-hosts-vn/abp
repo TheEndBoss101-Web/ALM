@@ -186,6 +186,8 @@
 ||adsensecustomsearchads.com^$all
 ||www.adsensecustomsearchads.com^$all
 ||app-ads-services.com^$all
+||muf.app-ads-services.com^$all
+||odf.app-ads-services.com^$all
 ||odm.app-ads-services.com^$all
 ||www.app-ads-services.com^$all
 ||target.microsoft.com^$all
@@ -2223,11 +2225,13 @@
 ||track.uc.cn^$all
 ||api.branch.io^$all
 ||api2.branch.io^$all
+||api3.branch.io^$all
 ||branch.io^$all
 ||cdn.branch.io^$all
+||dsp.branch.io^$all
 ||gdpr.branch.io^$all
 ||go.branch.io^$all
-||growth.branch.io^$all
+||protected-api.branch.io^$all
 ||start.branch.io^$all
 ||video.branch.io^$all
 ||vulcan.branch.io^$all
@@ -8443,6 +8447,7 @@
 ||app-shake.xml-eu.ak-is2.net^$all
 ||app-shake.xs.ak-is2.net^$all
 ||bappaads.xml.ak-is2.net^$all
+||branchdsp.rtb-ui.ak-is2.net^$all
 ||cachegorilla.xml.ak-is2.net^$all
 ||ctrtraffic.fs.ak-is2.net^$all
 ||danarimedia.xml.ak-is2.net^$all
@@ -10341,16 +10346,20 @@
 ||d1.ads.rmbl.ws^$all
 ||d2.ads.rmbl.ws^$all
 ||d4.ads.rmbl.ws^$all
-||analytics.adjust.cn^$all
 ||analytics.adjust.com^$all
-||analytics.adjust.io^$all
-||analytics.adjust.net.in^$all
-||analytics.adjust.world^$all
-||analytics.eu.adjust.com^$all
-||app.adjust.cn^$all
 ||app.adjust.com^$all
+||s2s.adjust.com^$all
+||view.adjust.com^$all
+||analytics.eu.adjust.com^$all
+||analytics.tr.adjust.com^$all
+||analytics.us.adjust.com^$all
+||analytics.adjust.cn^$all
+||app.adjust.cn^$all
+||analytics.adjust.io^$all
 ||app.adjust.io^$all
+||analytics.adjust.net.in^$all
 ||app.adjust.net.in^$all
+||analytics.adjust.world^$all
 ||app.adjust.world^$all
 ||bright-sdk.com^$all
 ||brightdata.com^$all
@@ -14040,6 +14049,7 @@
 ||bridesmaidspamimmortal.com^$all
 ||bridgetrack.com^$all
 ||brigadedelegatesandbox.com^$all
+||briggie.org^$all
 ||brightadnetwork.com^$all
 ||brightcriticism.com^$all
 ||brightinfo.com^$all
@@ -14084,6 +14094,7 @@
 ||bvmcdn.net^$all
 ||bvtpk.com^$all
 ||bwp.download.com^$all
+||bx.meayis.cfd^$all
 ||bytefrom2010.com^$all
 ||bzyfzusiqohk.com^$all
 ||c.bannerflow.net^$all
@@ -14474,6 +14485,7 @@
 ||d2j042cj1421wi.cloudfront.net^$all
 ||d2kk0o3fr7ed01.cloudfront.net^$all
 ||d2lahoz916es9g.cloudfront.net^$all
+||d2pf0ys5xus6n.cloudfront.net^$all
 ||d2qnx6y010m4rt.cloudfront.net^$all
 ||d2sbzwmcg5amr3.cloudfront.net^$all
 ||d2ty8gaf6rmowa.cloudfront.net^$all
@@ -14497,6 +14509,7 @@
 ||d3rjndf2qggsna.cloudfront.net^$all
 ||d3u598arehftfk.cloudfront.net^$all
 ||d3v3bqdndm4erx.cloudfront.net^$all
+||dadgah.org^$all
 ||dads.wedobest.com.cn^$all
 ||dadsimz.com^$all
 ||daejyre.com^$all
@@ -14526,6 +14539,7 @@
 ||dbxexsnxxzwwo.com^$all
 ||dc-storm.com^$all
 ||dcbbwymp1bhlf.cloudfront.net^$all
+||dd.gillyspencie.com^$all
 ||dd1xbevqx.com^$all
 ||ddzk5l3bd.com^$all
 ||dead-put.com^$all
@@ -14778,6 +14792,7 @@
 ||european-toplist.de^$all
 ||euroranking.de^$all
 ||eusta.de^$all
+||evasivewashoutsociety.com^$all
 ||evergage.com^$all
 ||evzhzppj5kel.com^$all
 ||eweconciliate.com^$all
@@ -14842,6 +14857,7 @@
 ||feuageepitoke.com^$all
 ||fhsmtrnsfnt.com^$all
 ||fhvfd.com^$all
+||fhyatbab.in^$all
 ||fibqukktuv.in^$all
 ||fiksu.com^$all
 ||filezoness.com^$all
@@ -14992,6 +15008,7 @@
 ||gmhyebojlimvqbc.com^$all
 ||gmxvmvptfm.com^$all
 ||gnenuelnn.com^$all
+||gnschdti.com^$all
 ||go-clicks.de^$all
 ||go-rank.de^$all
 ||go.bigbang.solutions^$all
@@ -15930,6 +15947,7 @@
 ||ocio.leadzu.com^$all
 ||oclasrv.com^$all
 ||od.stimefloccus.shop^$all
+||odloqsduxqha.in^$all
 ||odnvkuocmow.in^$all
 ||odqdkealzr.com^$all
 ||oewa.at^$all
@@ -16374,6 +16392,7 @@
 ||qn.unspedtaction.com^$all
 ||qnbeenbgsx.com^$all
 ||qnenxwwxzav.com^$all
+||qnfonjdhdpx.com^$all
 ||qnp16tstw.com^$all
 ||qnsr.com^$all
 ||qo.errorrespan.com^$all
@@ -16406,6 +16425,7 @@
 ||r.leadzu.com^$all
 ||r.trwl1.com^$all
 ||r0ckeet.com^$all
+||rabon.org^$all
 ||radiate.com^$all
 ||radiumone.com^$all
 ||radxabsah.com^$all
@@ -17245,6 +17265,7 @@
 ||uumkcycj.com^$all
 ||uvopoefe.com^$all
 ||uwoaptee.com^$all
+||ux.bagwigvendee.cfd^$all
 ||uyunad.com^$all
 ||uz.louchefunnel.shop^$all
 ||v6rxv5coo5.com^$all

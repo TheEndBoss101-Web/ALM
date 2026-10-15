@@ -80,6 +80,7 @@
 ||startup.mobile.yandex.net^$all
 ||startup.mobile.webvisor.com^$all
 ||startup-mobile.ap.yandex-net.ru^$all
+||ads-proxy-aka.prod.bo.canal.canalplustech.pro^$all
 ||acdn.newshuntads.com^$all
 ||app.bxapi.de^$all
 ||yodo1.com^$all
@@ -974,6 +975,7 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||testomania.app^$all
 ||tgrthaber.com^$all
 ||saechsische.de^$all
 ||thepage.ua^$all

@@ -4529,6 +4529,7 @@
 ||beacon.affil.walmart.com^$all
 ||beacon.aimtell.com^$all
 ||beacon.cdnma.com^$all
+||beacon.cdnpure.com^$all
 ||beacon.errorception.com^$all
 ||beacon.flow.io^$all
 ||beacon.joinlede.com^$all
@@ -5519,6 +5520,7 @@
 ||stats.slashed.cloud^$all
 ||stats.smartclip.net^$all
 ||stats.spreadsimple.com^$all
+||stats.techinate.com^$all
 ||stats.topofblogs.com^$all
 ||stats.traffective.cloud^$all
 ||stats.uscreen.io^$all
@@ -7494,6 +7496,7 @@
 ||r.3hentai.net^$all
 ||r.apkpure.net^$all
 ||r.bbci.co.uk^$all
+||r.upload.app^$all
 ||rabbit.donald.cat^$all
 ||ralf.curvo.eu^$all
 ||rankhit.china.com^$all

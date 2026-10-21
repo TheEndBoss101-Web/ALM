@@ -2,3 +2,5 @@
 !Description: A simple list of sites that are linked to scams
 
 ||helpme16.com^$all
+||usbest1.com^$all
+||meigline.com^$all

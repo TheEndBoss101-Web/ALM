@@ -7411,6 +7411,7 @@
 ||nvrmd.novaramedia.com^$all
 ||observe.metarouter.io^$all
 ||ocular.hotukdeals.com^$all
+||ocular.pepperdeals.com^$all
 ||ohm-dot-hackster-io.appspot.com^$all
 ||ol-collector.quillbot.com^$all
 ||op.dragonfru.it^$all
@@ -7834,8 +7835,10 @@
 ||idstatus.sky.com^$all
 ||img2021.navyfederal.org^$all
 ||imgs.signifyd.com^$all
+||l.ca.ovhcloud.com^$all
 ||log-185a61e7.bendigobank.com.au^$all
 ||log-2ffe60ee.westpac.com.au^$all
+||o-api.hotukdeals.com^$all
 ||olacontent.schwab.com^$all
 ||qfp.intuit.com^$all
 ||rba-screen.healthsafe-id.com^$all
@@ -43574,6 +43577,8 @@
 ||msboul.gruenwelt.de^$all
 ||navigation-timing.meinestadt.de^$all
 ||nct.ui-portal.de^$all
+||ocular.mydealz.de^$all
+||ocular.preisjaeger.at^$all
 ||otto.de^$all
 ||oxifwsabgd.nzz.ch^$all
 ||pi.technik3d.com^$all
@@ -44600,6 +44605,7 @@
 ||kropka.onet.pl^$all
 ||mklik.gazeta.pl^$all
 ||nasza-klasa.pl^$all
+||ocular.pepper.pl^$all
 ||p.gazeta.pl^$all
 ||pb.siepomaga.pl^$all
 ||pixel.wp.pl^$all
@@ -44730,6 +44736,7 @@
 ||horizon-track.globo.com^$all
 ||logs.openbank.com^$all
 ||mega.promodescuentos.com^$all
+||ocular.chollometro.com^$all
 ||ocular.promodescuentos.com^$all
 ||pixel.europapress.net^$all
 ||px-intl.ucweb.com^$all
@@ -44751,6 +44758,7 @@
 ||fotbollskanalen.se^$all
 ||fusion.bonniertidskrifter.se^$all
 ||gx.idg.se^$all
+||ocular.pepperdeals.se^$all
 ||stat.nyheter24.se^$all
 ||dek-d.com^$all
 ||scribe.wongnai.com^$all

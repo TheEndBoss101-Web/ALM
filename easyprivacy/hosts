@@ -7411,6 +7411,7 @@
 0.0.0.0 nvrmd.novaramedia.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ocular.hotukdeals.com
+0.0.0.0 ocular.pepperdeals.com
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 op.dragonfru.it
@@ -7834,8 +7835,10 @@
 0.0.0.0 idstatus.sky.com
 0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgs.signifyd.com
+0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-2ffe60ee.westpac.com.au
+0.0.0.0 o-api.hotukdeals.com
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 qfp.intuit.com
 0.0.0.0 rba-screen.healthsafe-id.com
@@ -43574,6 +43577,8 @@
 0.0.0.0 msboul.gruenwelt.de
 0.0.0.0 navigation-timing.meinestadt.de
 0.0.0.0 nct.ui-portal.de
+0.0.0.0 ocular.mydealz.de
+0.0.0.0 ocular.preisjaeger.at
 0.0.0.0 otto.de
 0.0.0.0 oxifwsabgd.nzz.ch
 0.0.0.0 pi.technik3d.com
@@ -44600,6 +44605,7 @@
 0.0.0.0 kropka.onet.pl
 0.0.0.0 mklik.gazeta.pl
 0.0.0.0 nasza-klasa.pl
+0.0.0.0 ocular.pepper.pl
 0.0.0.0 p.gazeta.pl
 0.0.0.0 pb.siepomaga.pl
 0.0.0.0 pixel.wp.pl
@@ -44730,6 +44736,7 @@
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 logs.openbank.com
 0.0.0.0 mega.promodescuentos.com
+0.0.0.0 ocular.chollometro.com
 0.0.0.0 ocular.promodescuentos.com
 0.0.0.0 pixel.europapress.net
 0.0.0.0 px-intl.ucweb.com
@@ -44751,6 +44758,7 @@
 0.0.0.0 fotbollskanalen.se
 0.0.0.0 fusion.bonniertidskrifter.se
 0.0.0.0 gx.idg.se
+0.0.0.0 ocular.pepperdeals.se
 0.0.0.0 stat.nyheter24.se
 0.0.0.0 dek-d.com
 0.0.0.0 scribe.wongnai.com

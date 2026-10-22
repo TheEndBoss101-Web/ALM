@@ -80,6 +80,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 da.flvcdn.net
+0.0.0.0 rtb.nefta.app
 0.0.0.0 ads-proxy-aka.prod.bo.canal.canalplustech.pro
 0.0.0.0 acdn.newshuntads.com
 0.0.0.0 app.bxapi.de
@@ -975,7 +977,10 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
-0.0.0.0 polandball.jp
+0.0.0.0 respublika.lt
+0.0.0.0 otakuma.net
+0.0.0.0 yahoo.com
+0.0.0.0 ksta.de
 0.0.0.0 kako-mon.com
 0.0.0.0 psicoactiva.com
 0.0.0.0 ixbt.com
@@ -1278,7 +1283,6 @@
 0.0.0.0 foodnetwork.com
 0.0.0.0 entabe.jp
 0.0.0.0 usmagazine.com
-0.0.0.0 motherless.com
 0.0.0.0 prajavani.net
 0.0.0.0 delicious.com.au
 0.0.0.0 jbpress.ismedia.jp
@@ -1418,7 +1422,6 @@
 0.0.0.0 filmnudes.com
 0.0.0.0 kantangame.com
 0.0.0.0 yabancidiziio.com
-0.0.0.0 ksta.de
 0.0.0.0 anime2you.de
 0.0.0.0 financial-field.com
 0.0.0.0 thehealthsite.com
@@ -1441,7 +1444,6 @@
 0.0.0.0 filmstarts.de
 0.0.0.0 quotenet.nl
 0.0.0.0 mx4b.nan-net.jp
-0.0.0.0 otakuma.net
 0.0.0.0 24pornvideos.tv
 0.0.0.0 centrum.cz
 0.0.0.0 silive.com
@@ -1952,7 +1954,6 @@
 0.0.0.0 m.sex3.com
 0.0.0.0 segodnya.ua
 0.0.0.0 goloskarpat.info
-0.0.0.0 yahoo.com
 0.0.0.0 jionews.com
 0.0.0.0 amp.onedio.com
 0.0.0.0 altema.jp

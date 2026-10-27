@@ -80,6 +80,8 @@
 ||startup.mobile.yandex.net^$all
 ||startup.mobile.webvisor.com^$all
 ||startup-mobile.ap.yandex-net.ru^$all
+||inapps.af-sdk.com^$all
+||cdn-settings.af-sdk.com^$all
 ||da.flvcdn.net^$all
 ||rtb.nefta.app^$all
 ||ads-proxy-aka.prod.bo.canal.canalplustech.pro^$all
@@ -977,6 +979,9 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||rakkokeyword.com^$all
+||twidouga.net^$all
+||rbc.ru^$all
 ||russiatoday.ru^$all
 ||dengekionline.com^$all
 ||memo.wiki^$all
@@ -1108,7 +1113,6 @@
 ||edmunds.com^$all
 ||gulfnews.com^$all
 ||itmedia.co.jp^$all
-||rbc.ru^$all
 ||jmty.jp^$all
 ||oricon.co.jp^$all
 ||zoomit.ir^$all

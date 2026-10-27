@@ -80,6 +80,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 inapps.af-sdk.com
+0.0.0.0 cdn-settings.af-sdk.com
 0.0.0.0 da.flvcdn.net
 0.0.0.0 rtb.nefta.app
 0.0.0.0 ads-proxy-aka.prod.bo.canal.canalplustech.pro
@@ -977,6 +979,9 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
+0.0.0.0 rakkokeyword.com
+0.0.0.0 twidouga.net
+0.0.0.0 rbc.ru
 0.0.0.0 russiatoday.ru
 0.0.0.0 dengekionline.com
 0.0.0.0 memo.wiki
@@ -1108,7 +1113,6 @@
 0.0.0.0 edmunds.com
 0.0.0.0 gulfnews.com
 0.0.0.0 itmedia.co.jp
-0.0.0.0 rbc.ru
 0.0.0.0 jmty.jp
 0.0.0.0 oricon.co.jp
 0.0.0.0 zoomit.ir

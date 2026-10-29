@@ -75725,3 +75725,6 @@
 0.0.0.0 airflow.develop.sophi.io
 0.0.0.0 sdp-acc-api-chicagotribune.ml.sophi.io
 0.0.0.0 next-api-red.theglobeandmail.sophi.io
+0.0.0.0 mgtrk.revize.com
+0.0.0.0 smetrics.bbb.org
+0.0.0.0 apptracking.services.dev.corp.lego.com

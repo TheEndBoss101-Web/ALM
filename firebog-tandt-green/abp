@@ -4816,6 +4816,7 @@
 ||eth.llamarpc.com^$all
 ||etl.springbot.com^$all
 ||eu-mobile.events.data.microsoft.com^$all
+||eu-office.events.data.microsoft.com^$all
 ||ev.moneymade.io^$all
 ||ev.stellarlabs.ai^$all
 ||event-api.rdstation.com.br^$all
@@ -5661,6 +5662,7 @@
 ||tm.tradetracker.net^$all
 ||tm.vendemore.com^$all
 ||tms.fmm.io^$all
+||tms.wape.autodesk.com^$all
 ||to.getnitropack.com^$all
 ||tonanalytics.mugiwarattagentai.agency^$all
 ||top-fwz1.mail.ru^$all
@@ -7601,6 +7603,7 @@
 ||stats.hexa.watch^$all
 ||stats.ibtimes.co.in^$all
 ||stats.ibtimes.sg^$all
+||stats.jiosaavn.com^$all
 ||stats.justpaste.it^$all
 ||stats.lrb.co.uk^$all
 ||stats.mempool.space^$all
@@ -7734,6 +7737,7 @@
 ||tracking.carsales.com.au^$all
 ||tracking.christianpost.com^$all
 ||tracking.digitalocean.com^$all
+||tracking.dpmlol.com^$all
 ||tracking.engineering.cloud.seek.com.au^$all
 ||tracking.game8.co^$all
 ||tracking.hsn.com^$all
@@ -43557,6 +43561,7 @@
 ||data.manga-passion.de^$all
 ||data.openerotik.com^$all
 ||data.sportdeutschland.tv^$all
+||dbik.literatur-couch.de^$all
 ||dd.betano.com^$all
 ||dv.chemie.de^$all
 ||ens.luzernerzeitung.ch^$all

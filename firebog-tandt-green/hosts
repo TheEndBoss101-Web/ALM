@@ -4816,6 +4816,7 @@
 0.0.0.0 eth.llamarpc.com
 0.0.0.0 etl.springbot.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 event-api.rdstation.com.br
@@ -5661,6 +5662,7 @@
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com
 0.0.0.0 tms.fmm.io
+0.0.0.0 tms.wape.autodesk.com
 0.0.0.0 to.getnitropack.com
 0.0.0.0 tonanalytics.mugiwarattagentai.agency
 0.0.0.0 top-fwz1.mail.ru
@@ -7601,6 +7603,7 @@
 0.0.0.0 stats.hexa.watch
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
+0.0.0.0 stats.jiosaavn.com
 0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.lrb.co.uk
 0.0.0.0 stats.mempool.space
@@ -7734,6 +7737,7 @@
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
+0.0.0.0 tracking.dpmlol.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com
@@ -43557,6 +43561,7 @@
 0.0.0.0 data.manga-passion.de
 0.0.0.0 data.openerotik.com
 0.0.0.0 data.sportdeutschland.tv
+0.0.0.0 dbik.literatur-couch.de
 0.0.0.0 dd.betano.com
 0.0.0.0 dv.chemie.de
 0.0.0.0 ens.luzernerzeitung.ch

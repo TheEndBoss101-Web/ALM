@@ -90729,3 +90729,6 @@
 ||airflow.develop.sophi.io^$all
 ||sdp-acc-api-chicagotribune.ml.sophi.io^$all
 ||next-api-red.theglobeandmail.sophi.io^$all
+||mgtrk.revize.com^$all
+||smetrics.bbb.org^$all
+||apptracking.services.dev.corp.lego.com^$all

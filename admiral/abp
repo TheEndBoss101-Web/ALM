@@ -30,6 +30,7 @@
 ||admiral.support^$all
 ||admiral.website^$all
 ||admiralcdn.com^$all
+||admiralexternal.com^$all
 ||admlcdn.com^$all
 ||adorableanger.com^$all
 ||adorableattention.com^$all
@@ -111,7 +112,6 @@
 ||baskettexture.com^$all
 ||battlebalance.com^$all
 ||bawdybalance.com^$all
-||beamkite.com^$all
 ||beamvolcano.com^$all
 ||beancontrol.com^$all
 ||bedsberry.com^$all
@@ -162,6 +162,7 @@
 ||branchborder.com^$all
 ||brandsfive.com^$all
 ||brandybison.com^$all
+||brassrule.com^$all
 ||bravebone.com^$all
 ||bravecalculator.com^$all
 ||breadbalance.com^$all
@@ -335,7 +336,6 @@
 ||crowdedmass.com^$all
 ||cruisetourist.com^$all
 ||crunchcontrol.com^$all
-||cryptvalue.com^$all
 ||crystalboulevard.com^$all
 ||cubchannel.com^$all
 ||cubepins.com^$all
@@ -428,12 +428,14 @@
 ||drydrum.com^$all
 ||dustydime.com^$all
 ||dustyhammer.com^$all
+||dyecloud.com^$all
 ||eagerflame.com^$all
 ||eagerknight.com^$all
 ||earnbaht.com^$all
 ||earthups.com^$all
 ||eastpalms.com^$all
 ||eatablesquare.com^$all
+||echochief.com^$all
 ||echoinghaven.com^$all
 ||echotop.com^$all
 ||effervescentcoral.com^$all
@@ -489,7 +491,6 @@
 ||extralocker.com^$all
 ||extramonies.com^$all
 ||exuberantedge.com^$all
-||exultantdrop.com^$all
 ||fabcharting.com^$all
 ||fabledsoul.com^$all
 ||facilitatebreakfast.com^$all
@@ -497,7 +498,6 @@
 ||fairfeeling.com^$all
 ||fairiesbranch.com^$all
 ||fairygaze.com^$all
-||faithrowold.com^$all
 ||fallaciousfifth.com^$all
 ||falseframe.com^$all
 ||falsesight.com^$all
@@ -508,6 +508,7 @@
 ||farethief.com^$all
 ||farmergoldfish.com^$all
 ||farshake.com^$all
+||farsnails.com^$all
 ||fastenfather.com^$all
 ||fasterfineart.com^$all
 ||fasterjson.com^$all
@@ -522,7 +523,6 @@
 ||fearlesstramp.com^$all
 ||featherstage.com^$all
 ||feeblestamp.com^$all
-||feedten.com^$all
 ||feignedfaucet.com^$all
 ||fewjuice.com^$all
 ||fewkittens.com^$all
@@ -569,13 +569,11 @@
 ||frailfruit.com^$all
 ||framebanana.com^$all
 ||franticroof.com^$all
-||freakyglass.com^$all
 ||freezingbuilding.com^$all
 ||frequentflesh.com^$all
 ||friedone.com^$all
 ||friendlycrayon.com^$all
 ||friendlyfold.com^$all
-||friendwool.com^$all
 ||frogator.com^$all
 ||fronttoad.com^$all
 ||frugalfiestas.com^$all
@@ -597,7 +595,6 @@
 ||gardenovens.com^$all
 ||gaudyairplane.com^$all
 ||geekactive.com^$all
-||geekbackyard.com^$all
 ||generalprose.com^$all
 ||generateoffice.com^$all
 ||getadmiral.com^$all
@@ -695,6 +692,7 @@
 ||honeybulb.com^$all
 ||honorablehydrant.com^$all
 ||honorableland.com^$all
+||hookconference.com^$all
 ||hospitablehall.com^$all
 ||hospitablehat.com^$all
 ||humdrumhobbies.com^$all
@@ -812,6 +810,7 @@
 ||magnificentarticle.com^$all
 ||majesticwaterscape.com^$all
 ||majesticwilderness.com^$all
+||makesimpact.com^$all
 ||maliciousmusic.com^$all
 ||manamoment.com^$all
 ||mapbasin.com^$all
@@ -868,7 +867,6 @@
 ||modularmental.com^$all
 ||monacobeatles.com^$all
 ||monstermemes.com^$all
-||monthlyhat.com^$all
 ||mooncrustpizza.com^$all
 ||moorshoes.com^$all
 ||morefriendly.com^$all
@@ -1042,7 +1040,6 @@
 ||promiseair.com^$all
 ||proofconvert.com^$all
 ||propertypotato.com^$all
-||propsynergy.com^$all
 ||protestcopy.com^$all
 ||psychedelicarithmetic.com^$all
 ||publicsofa.com^$all
@@ -1110,7 +1107,6 @@
 ||rehabilitatereason.com^$all
 ||relationrest.com^$all
 ||releasepath.com^$all
-||reloadphoto.com^$all
 ||rememberdiscussion.com^$all
 ||remixslot.com^$all
 ||rentinfinity.com^$all
@@ -1312,7 +1308,6 @@
 ||soresidewalk.com^$all
 ||soretrain.com^$all
 ||sortstructure.com^$all
-||soulclicking.com^$all
 ||soundstocking.com^$all
 ||sowlettuce.com^$all
 ||spaceaffinity.com^$all
@@ -1361,7 +1356,6 @@
 ||stalesummer.com^$all
 ||starkscale.com^$all
 ||startercost.com^$all
-||startingcars.com^$all
 ||statshunt.com^$all
 ||statuesqueship.com^$all
 ||statusinside.com^$all
@@ -1375,12 +1369,9 @@
 ||steepsister.com^$all
 ||steepsquirrel.com^$all
 ||stepcattle.com^$all
-||stepplane.com^$all
 ||stepwisevideo.com^$all
 ||stereoproxy.com^$all
-||stereotypedclub.com^$all
 ||stereotypedsugar.com^$all
-||stewedge.com^$all
 ||stickysheet.com^$all
 ||stiffgame.com^$all
 ||stiffstem.com^$all
@@ -1392,6 +1383,7 @@
 ||stockerator.com^$all
 ||stockingsleet.com^$all
 ||stockingsneeze.com^$all
+||stocktheme.com^$all
 ||stomachscience.com^$all
 ||stonetumble.com^$all
 ||stopstomach.com^$all
@@ -1469,7 +1461,6 @@
 ||tenhourweek.com^$all
 ||tennistie.com^$all
 ||terriblethumb.com^$all
-||terrifictooth.com^$all
 ||testadmiral.com^$all
 ||texturetrick.com^$all
 ||thejavalane.com^$all

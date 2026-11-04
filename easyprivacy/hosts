@@ -1757,7 +1757,6 @@
 0.0.0.0 leadintel.io
 0.0.0.0 leadintelligence.co.uk
 0.0.0.0 leadlab.click
-0.0.0.0 leadlife.com
 0.0.0.0 leadmanagerfx.com
 0.0.0.0 leadpipe.com
 0.0.0.0 leadsius.com
@@ -5148,6 +5147,7 @@
 0.0.0.0 metrics.doppiostreams.com
 0.0.0.0 metrics.futureplc.engineering
 0.0.0.0 metrics.gs-chat.com
+0.0.0.0 metrics.kapa.ai
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.mdstrm.com
 0.0.0.0 metrics.nsureapi.com
@@ -7351,6 +7351,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logx-experimentation.iherb.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 loki-ingest.fox.com
 0.0.0.0 love.vidora.su
 0.0.0.0 ma.gamersnexus.net
 0.0.0.0 ma.redhat.com
@@ -7490,6 +7491,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 private.wccftech.com
 0.0.0.0 prod-events.nykaa.com
+0.0.0.0 prod-foxkit.kts.fox
 0.0.0.0 prop.astonvillanews.co.uk
 0.0.0.0 proxima.midjourney.com
 0.0.0.0 pt.blubrry.com
@@ -33673,7 +33675,6 @@
 0.0.0.0 hk-go.experian.com
 0.0.0.0 home.edm.globalsources.com
 0.0.0.0 hopeful.coh.org
-0.0.0.0 horizoneurope.ukri.org
 0.0.0.0 hospitality.redbull.racing
 0.0.0.0 hptechnology.arrow.com
 0.0.0.0 hr.adp.ca

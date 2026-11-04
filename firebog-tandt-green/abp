@@ -1757,7 +1757,6 @@
 ||leadintel.io^$all
 ||leadintelligence.co.uk^$all
 ||leadlab.click^$all
-||leadlife.com^$all
 ||leadmanagerfx.com^$all
 ||leadpipe.com^$all
 ||leadsius.com^$all
@@ -5148,6 +5147,7 @@
 ||metrics.doppiostreams.com^$all
 ||metrics.futureplc.engineering^$all
 ||metrics.gs-chat.com^$all
+||metrics.kapa.ai^$all
 ||metrics.kmsmep.com^$all
 ||metrics.mdstrm.com^$all
 ||metrics.nsureapi.com^$all
@@ -7351,6 +7351,7 @@
 ||logs.netflix.com^$all
 ||logx-experimentation.iherb.com^$all
 ||logx.optimizely.com^$all
+||loki-ingest.fox.com^$all
 ||love.vidora.su^$all
 ||ma.gamersnexus.net^$all
 ||ma.redhat.com^$all
@@ -7490,6 +7491,7 @@
 ||privacyfriendly.netlify.app^$all
 ||private.wccftech.com^$all
 ||prod-events.nykaa.com^$all
+||prod-foxkit.kts.fox^$all
 ||prop.astonvillanews.co.uk^$all
 ||proxima.midjourney.com^$all
 ||pt.blubrry.com^$all
@@ -33673,7 +33675,6 @@
 ||hk-go.experian.com^$all
 ||home.edm.globalsources.com^$all
 ||hopeful.coh.org^$all
-||horizoneurope.ukri.org^$all
 ||hospitality.redbull.racing^$all
 ||hptechnology.arrow.com^$all
 ||hr.adp.ca^$all

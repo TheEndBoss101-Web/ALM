@@ -8475,6 +8475,7 @@
 ||ezmob.fs.ak-is2.net^$all
 ||flairadscpc.xml-eu.ak-is2.net^$all
 ||fmlabsonline.cpm.ak-is2.net^$all
+||giantpanda.xml.ak-is2.net^$all
 ||kinesis-doo.fs.ak-is2.net^$all
 ||kinesis-doo.xs.ak-is2.net^$all
 ||leoyard.fs.ak-is2.net^$all
@@ -11055,6 +11056,8 @@
 ||gator.volces.com^$all
 ||mssdk.volces.com^$all
 ||tab.volces.com^$all
+||pangleglobal.com^$all
+||pangle.pangleglobal.com^$all
 ||pangolin-dsp-toutiao.com^$all
 ||pangolin-sdk-toutiao-b.com^$all
 ||pangolin-sdk-toutiao.com^$all
@@ -11065,6 +11068,22 @@
 ||api-access.pangolin-sdk-toutiao1.com^$all
 ||pglstatp-toutiao.com^$all
 ||sf3-fe-tos.pglstatp-toutiao.com^$all
+||analytics.brave.com^$all
+||collector.bsg.brave.com^$all
+||static.ads.brave.com^$all
+||stats.brave.com^$all
+||collector.bsg.bravesoftware.com^$all
+||static.ads.bravesoftware.com^$all
+||stats.bravesoftware.com^$all
+||stats.bsg.bravesoftware.com^$all
+||client-logs.gaijin.net^$all
+||client-stats.gaijin.net^$all
+||adx-track.bluexad.ai^$all
+||track.bluexad.ai^$all
+||bid.novvy.ai^$all
+||tracking.novvy.ai^$all
+||fraud.adjoe.zone^$all
+||prod.adjoe.zone^$all
 ||adtimaserver.vn^$all
 ||api.adtimaserver.vn^$all
 ||log.adtimaserver.vn^$all
@@ -11512,6 +11531,7 @@
 ||240.zaloapp.ads.zdn.vn^$all
 ||480.zaloapp.ads.zdn.vn^$all
 ||adtima-static.aka.zdn.vn^$all
+||dev-adtima-static.zdn.vn^$all
 ||stc-support-app-brand.zdn.vn^$all
 ||zaloads-480.zdn.vn^$all
 ||zplayer-trk.zdn.vn^$all
@@ -12298,6 +12318,7 @@
 ||delivery.vda.viettel.vn^$all
 ||log.vda.viettel.vn^$all
 ||vda.viettel.vn^$all
+||abc3-log.tv360.vn^$all
 ||log.tv360.vn^$all
 ||pubads-wiinvent.tv360.vn^$all
 ||log-collector.shopee.vn^$all
@@ -12317,6 +12338,8 @@
 ||p.smartads.tech^$all
 ||st.smartads.tech^$all
 ||t.smartads.tech^$all
+||metrics.meta.vn^$all
+||tracking.meta.vn^$all
 ||12signup.com^$all
 ||ad-admin.vnay.vn^$all
 ||ad-ndtv.3s.com.vn^$all
@@ -12471,6 +12494,7 @@
 ||offerwall.headlines.pw^$all
 ||openx.motgame.vn^$all
 ||ox1.vietstock.vn^$all
+||pub.skyads.com.vn^$all
 ||qc.5giay.vn^$all
 ||qc.designervn.net^$all
 ||qc.japo.vn^$all
@@ -12552,7 +12576,9 @@
 ||analytics.explus.vn^$all
 ||analytics.fsoft.com.vn^$all
 ||analytics.hebela.vn^$all
+||analytics.hemeratech.vn^$all
 ||analytics.hub-js.com^$all
+||analytics.hvn.works^$all
 ||analytics.jamstackvietnam.com^$all
 ||analytics.mobiedu.vn^$all
 ||analytics.moneycat.vn^$all
@@ -12634,6 +12660,8 @@
 ||log.baovanhoa.vn^$all
 ||log.beecost.com^$all
 ||log.beecost.vn^$all
+||log.cand.vn^$all
+||log.congluan.vn^$all
 ||log.daibieunhandan.vn^$all
 ||log.daidoanket.vn^$all
 ||log.dav.edu.vn^$all
@@ -12653,6 +12681,7 @@
 ||log.nhipcaudautu.vn^$all
 ||log.oto.com.vn^$all
 ||log.plo.vn^$all
+||log.rada.vn^$all
 ||log.saigondautu.com.vn^$all
 ||log.sggp.org.vn^$all
 ||log.smoney.vn^$all
@@ -12771,7 +12800,6 @@
 ||tracking.fado.vn^$all
 ||tracking.gapone.vn^$all
 ||tracking.lsvn.vn^$all
-||tracking.meta.vn^$all
 ||tracking.saostar.vn^$all
 ||tracking.tekoapis.com^$all
 ||tracking.tinxe.vn^$all
@@ -12780,6 +12808,7 @@
 ||tracking.vegaid.vn^$all
 ||tracking.vietbao.vn^$all
 ||tracking.viez.vn^$all
+||tracking.vneconomy.vn^$all
 ||trackingapi.foody.vn^$all
 ||trackity.tiki.vn^$all
 ||traffic.nvcms.net^$all
@@ -13267,6 +13296,7 @@
 ||ads.forbes.net^$all
 ||ads.fortunecity.com^$all
 ||ads.fotosidan.se^$all
+||ads.funmora.com^$all
 ||ads.gamespyid.com^$all
 ||ads.gamigo.de^$all
 ||ads.gaming-universe.de^$all
@@ -14113,6 +14143,7 @@
 ||brutishlylifevoicing.com^$all
 ||brygella.com^$all
 ||brynh-lei.com^$all
+||bspyoibtwrrc.com^$all
 ||bt.teparytympan.qpon^$all
 ||btbeacdhrdt.com^$all
 ||btguqecoelukltw.com^$all
@@ -14433,6 +14464,7 @@
 ||counter.snackly.co^$all
 ||counting.kmindex.ru^$all
 ||coupling-media.de^$all
+||coverdistilltile.com^$all
 ||coveredbetting.com^$all
 ||coxiesthubble.com^$all
 ||cpaconvtrk.net^$all
@@ -15605,6 +15637,7 @@
 ||lwxoothcoq.com^$all
 ||lyssapebble.com^$all
 ||lytics.io^$all
+||lziawdwi.in^$all
 ||lzjl.com^$all
 ||lzoazzruvkze.com^$all
 ||m.hue11.com^$all
@@ -15805,6 +15838,7 @@
 ||movve.com^$all
 ||mpio.io^$all
 ||mpstat.us^$all
+||mq.unthrobkeelfat.cfd^$all
 ||mr-rank.de^$all
 ||mrskincash.com^$all
 ||mrycibqutoz.com^$all
@@ -15954,6 +15988,7 @@
 ||novemberassimilate.com^$all
 ||novemberseatsuccession.com^$all
 ||nrc.tapas.net^$all
+||nrnanbwkwd.com^$all
 ||nrs6ffl9w.com^$all
 ||nsfwadds.com^$all
 ||nsfwinkuhzeo.com^$all
@@ -15999,6 +16034,7 @@
 ||obscenesidewalk.com^$all
 ||obsessfalse.com^$all
 ||obsoletepaddlevehicular.com^$all
+||obzdiqozp.in^$all
 ||oceanicdreamcove.com^$all
 ||ocio.leadzu.com^$all
 ||oclasrv.com^$all
@@ -16153,7 +16189,6 @@
 ||paleleaf.com^$all
 ||pallet.fm^$all
 ||panclndhgcpktf.com^$all
-||pangle.pangleglobal.com^$all
 ||papaneecorche.com^$all
 ||papayamobile.com^$all
 ||papmeatidigbo.com^$all
@@ -16213,6 +16248,7 @@
 ||performancetrustednetwork.com^$all
 ||performancing.com^$all
 ||perigshfnon.com^$all
+||periodpennavigation.com^$all
 ||permutive.app^$all
 ||perryvolleyball.com^$all
 ||personagraph.com^$all
@@ -16562,6 +16598,7 @@
 ||remox.com^$all
 ||renamereptiliantrance.com^$all
 ||renderstreamshuttleanalytics.net^$all
+||rendingdecreasehere.com^$all
 ||repeatsweater.com^$all
 ||reporo.net^$all
 ||republika.onet.pl^$all
@@ -17262,6 +17299,7 @@
 ||udmserve.net^$all
 ||udzpel.com^$all
 ||ueikno.com^$all
+||ueuee.com^$all
 ||ufaexpert.com^$all
 ||ufpcdn.com^$all
 ||ugroocuw.net^$all
@@ -17328,6 +17366,7 @@
 ||uyunad.com^$all
 ||uz.louchefunnel.shop^$all
 ||v6rxv5coo5.com^$all
+||vabpfbbtzs.com^$all
 ||vacationmonday.com^$all
 ||vaitoasaut.net^$all
 ||validclick.com^$all
@@ -17677,6 +17716,7 @@
 ||xymhdmqrjxwl.com^$all
 ||y.ibsys.com^$all
 ||yads.c.yimg.jp^$all
+||yb.hoodoescopses.com^$all
 ||yb26b.com^$all
 ||ybrantdigital.com^$all
 ||ybs2ffs7v.com^$all
@@ -17811,8 +17851,10 @@
 ||analytics.avcdn.net^$all
 ||analytics.bitrix.info^$all
 ||analytics.cdn.live^$all
+||analytics.cherry-ai.com^$all
 ||analytics.clickdimensions.com^$all
 ||analytics.cloudron.io^$all
+||analytics.consolewebgear.fr^$all
 ||analytics.convertlanguage.com^$all
 ||analytics.data.visenze.com^$all
 ||analytics.digitaldudes.nl^$all
@@ -17925,6 +17967,7 @@
 ||cnzz.com^$all
 ||cognitivlabs.com^$all
 ||collect.analyse.lnearn.com^$all
+||collect.netshort.net^$all
 ||collect.usefathom.com^$all
 ||collect.verify.lnearn.com^$all
 ||collector.leaddyno.com^$all
@@ -18123,7 +18166,9 @@
 ||logger.unsplash.com^$all
 ||logriancesenius.com^$all
 ||logs.amap.com^$all
+||logs.dohaxe.com^$all
 ||logs.ironsrc.mobi^$all
+||logs.mosevura.com^$all
 ||logs.netflix.com^$all
 ||logs.spilgames.com^$all
 ||logs.supersonic.com^$all
@@ -18388,7 +18433,6 @@
 ||to.getnitropack.com^$all
 ||track-aws.notsy.io^$all
 ||track.56txs4.com^$all
-||track.bluexad.ai^$all
 ||track.cbdatatracker.com^$all
 ||track.cordial.io^$all
 ||track.easeus.com^$all

@@ -58409,6 +58409,8 @@
 0.0.0.0 www.ad-syd-02.ad.medallia.com
 0.0.0.0 www.ad-yul-01.ad.medallia.com
 0.0.0.0 ad-sin-01.ad.medallia.com
+0.0.0.0 ad-voci-01.ad.medallia.com
+0.0.0.0 ad-tlv-01.ad.medallia.com
 0.0.0.0 ad.agkn.com
 0.0.0.0 bafwer.co.in
 0.0.0.0 povesx.co.in
@@ -91051,3 +91053,4 @@
 0.0.0.0 optimizely.pagesix.com
 0.0.0.0 ai-develop.pagesix.com
 0.0.0.0 ads.pagesix.com
+0.0.0.0 clicks.email.tcgplayer.com

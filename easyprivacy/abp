@@ -588,6 +588,7 @@
 ||ablsrv.com^$all
 ||ablyft.com^$all
 ||abmr.net^$all
+||absmartly.io^$all
 ||absolstats.co.za^$all
 ||abtshield.com^$all
 ||acc-hd.de^$all
@@ -696,6 +697,7 @@
 ||albacross.com^$all
 ||alcmpn.com^$all
 ||alenty.com^$all
+||alketech.eu^$all
 ||alltracked.com^$all
 ||alocdn.com^$all
 ||alpixtrack.com^$all
@@ -742,6 +744,7 @@
 ||apicit.net^$all
 ||apollofind.com^$all
 ||apolloprogram.io^$all
+||app.dub.co^$all
 ||appboycdn.com^$all
 ||appcast.io^$all
 ||appdynamics.com^$all
@@ -811,6 +814,7 @@
 ||baikalize.com^$all
 ||bam-x.com^$all
 ||baptisttop1000.com^$all
+||baqend.com^$all
 ||baremetrics.com^$all
 ||barilliance.net^$all
 ||basicstat.com^$all
@@ -947,6 +951,7 @@
 ||cbtrk.net^$all
 ||cccpmo.com^$all
 ||ccgateway.net^$all
+||ccmbg.com^$all
 ||ccscserver.com^$all
 ||cdn-net.com^$all
 ||cdnlibjs.com^$all
@@ -1180,6 +1185,7 @@
 ||dmpprof.com^$all
 ||dmtracker.com^$all
 ||dmxleo.com^$all
+||dn-analytics.alketech.eu^$all
 ||dnsdelegation.io^$all
 ||doceree.com^$all
 ||doclix.com^$all
@@ -1202,6 +1208,7 @@
 ||dtc-v6t.com^$all
 ||dti-ranker.com^$all
 ||dtxngr.com^$all
+||dubcdn.com^$all
 ||durationmedia.net^$all
 ||dvnfo.com^$all
 ||dynatrace-managed.com^$all
@@ -1404,6 +1411,7 @@
 ||funstage.com^$all
 ||fusestats.com^$all
 ||fuziontech.net^$all
+||fw-cdn.com^$all
 ||fwpixel.com^$all
 ||fyreball.com^$all
 ||ga-analytics.com^$all
@@ -2255,6 +2263,7 @@
 ||pushauction.com^$all
 ||pushspring.com^$all
 ||pvd.to^$all
+||pvdpix.com^$all
 ||pxaction.com^$all
 ||pxf.io^$all
 ||pxi.pub^$all
@@ -2300,6 +2309,7 @@
 ||reactful.com^$all
 ||readertracking.com^$all
 ||readnotify.com^$all
+||readtargeting.com^$all
 ||realcounter.eu^$all
 ||realcounters.com^$all
 ||reallyfreegeoip.org^$all
@@ -4319,6 +4329,7 @@
 ||analytics-fe.digital-cloud-prem.medallia.eu^$all
 ||analytics-fe.digital-cloud.medallia.ca^$all
 ||analytics-fe.digital-cloud.medallia.com^$all
+||analytics-fe.digital-cloud.medallia.eu^$all
 ||analytics-ipv6.tiktokw.us^$all
 ||analytics-prd.aws.wehaa.net^$all
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^$all
@@ -4482,6 +4493,7 @@
 ||ao-freegeoip.herokuapp.com^$all
 ||ape-tagit.timeinc.net^$all
 ||api-analytics-prd.pelcro.com^$all
+||api-engage-us.sitecorecloud.io^$all
 ||api-location-prd.pelcro.com^$all
 ||api.autopilothq.com^$all
 ||api.country.is^$all
@@ -4561,6 +4573,7 @@
 ||blip.bizrate.com^$all
 ||bmrg.reflected.net^$all
 ||bonfire.spklw.com^$all
+||bot.cdn.adeo.cloud^$all
 ||botdetection.hbrsd.com^$all
 ||branch.io^$all
 ||browser-intake-datadoghq.com^$all
@@ -4605,6 +4618,7 @@
 ||cdn.9gtb.com^$all
 ||cdn.debugbear.com^$all
 ||cdn.dfsdk.com^$all
+||cdn.ltba.io^$all
 ||cdn.polarbyte.com^$all
 ||cdn.prod.euid.eu^$all
 ||cdn.ravm.tv^$all
@@ -5205,6 +5219,7 @@
 ||obs.esnlocco.com^$all
 ||obs.greencolumnblog.com^$all
 ||obs.jollyoutdoorjogger.com^$all
+||obs.protoroundprince.com^$all
 ||obs.sd4823.spglobal.com^$all
 ||obs.system1onesource.com^$all
 ||observe-nexus.pointandplace.com^$all
@@ -5287,6 +5302,8 @@
 ||pixel.mtrcs.samba.tv^$all
 ||pixel.newscred.com^$all
 ||pixel.nudgify.com^$all
+||pixel.optimeeze.data.adeo.cloud^$all
+||pixel.profound.click^$all
 ||pixel.propublica.org^$all
 ||pixel.pub.lilyai.net^$all
 ||pixel.quantserve.com^$all
@@ -5339,6 +5356,7 @@
 ||pt.crossmediaservices.com^$all
 ||pt.dwcdn.net^$all
 ||pt.ispot.tv^$all
+||pt.wisernotify.com^$all
 ||ptsc.shoplocal.com^$all
 ||pub.sheknows.com^$all
 ||public.9gtb.com^$all
@@ -5631,7 +5649,9 @@
 ||tag.rmp.rakuten.com^$all
 ||tag.statshop.fr^$all
 ||tag.unifyintent.com^$all
+||tag.web.onesdata.com^$all
 ||tagger.opecloud.com^$all
+||tagging.conde.digital^$all
 ||tagging.shiftdigitalapps.io^$all
 ||taggstar.com^$all
 ||tags.catapultx.com^$all
@@ -5688,6 +5708,7 @@
 ||track.360playvid.info^$all
 ||track.91app.io^$all
 ||track.addevent.com^$all
+||track.adzeb.com^$all
 ||track.aimroas.com^$all
 ||track.atgstores.com^$all
 ||track.bannedcelebs.com^$all
@@ -5809,6 +5830,7 @@
 ||tracking.musixmatch.com^$all
 ||tracking.offerista.com^$all
 ||tracking.olx-st.com^$all
+||tracking.optimeeze.data.adeo.cloud^$all
 ||tracking.pacharge.com^$all
 ||tracking.plattformad.com^$all
 ||tracking.plinga.de^$all
@@ -6227,6 +6249,7 @@
 ||onlyfree.de^$all
 ||orbidder.otto.de^$all
 ||owen.prolitteris.ch^$all
+||p.marktplaats.net^$all
 ||pixel.poptok.com^$all
 ||plausible.ams.to^$all
 ||px.staticfiles.at^$all
@@ -6588,6 +6611,7 @@
 ||client-log.karte.io^$all
 ||cnobi.jp^$all
 ||cnt.mail.netbk.co.jp^$all
+||collection.cyberprocurement.com^$all
 ||collector.t-idr.com^$all
 ||cookie.sync.usonar.jp^$all
 ||counter1.fc2.com^$all
@@ -6864,6 +6888,7 @@
 ||met.seriesapi.co^$all
 ||pub.servidoresge.com^$all
 ||rt.cdnmedia.tv^$all
+||rum.haystack.es^$all
 ||segment.lalr.co^$all
 ||sp.vtex.com^$all
 ||stats.administrarweb.es^$all
@@ -7548,6 +7573,7 @@
 ||s.gofile.io^$all
 ||s.infogram.com^$all
 ||s.wayfair.com^$all
+||s4vrsde.www.arturia.com^$all
 ||sa.uswitch.com^$all
 ||saa.insideedition.com^$all
 ||sapi.tremendous.com^$all
@@ -44471,6 +44497,7 @@
 ||insights.cdt.ch^$all
 ||libero.it^$all
 ||ma.register.it^$all
+||naxos.lastampausa.com^$all
 ||repstatic.it^$all
 ||sgtm.tagmanageritalia.it^$all
 ||sst.colemanfurniture.com^$all
@@ -44627,6 +44654,7 @@
 ||rek.www.wp.pl^$all
 ||sentry.siepomaga.pl^$all
 ||ss.woodupp.pl^$all
+||sst.leroymerlin.pl^$all
 ||stats.teledyski.info^$all
 ||yctjw54slxrwwlh.trybawaryjny.pl^$all
 ||alloy-rap.reclameaqui.com.br^$all

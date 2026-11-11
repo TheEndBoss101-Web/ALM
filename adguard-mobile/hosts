@@ -80,6 +80,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 advertising.amazon.dev
 0.0.0.0 asttoxa.ru
 0.0.0.0 inapps.af-sdk.com
 0.0.0.0 cdn-settings.af-sdk.com
@@ -981,6 +982,9 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
+0.0.0.0 full-porn.com
+0.0.0.0 elgranonan.com
+0.0.0.0 fujinkoron.jp
 0.0.0.0 biz.nv.ua
 0.0.0.0 linkvertise.com
 0.0.0.0 remontka.pro
@@ -1237,7 +1241,6 @@
 0.0.0.0 timeshighereducation.com
 0.0.0.0 article.auone.jp
 0.0.0.0 s.kabutan.jp
-0.0.0.0 full-porn.com
 0.0.0.0 fishingjapan.jp
 0.0.0.0 greatandhra.com
 0.0.0.0 meteo60.fr

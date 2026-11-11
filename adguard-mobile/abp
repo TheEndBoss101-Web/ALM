@@ -80,6 +80,7 @@
 ||startup.mobile.yandex.net^$all
 ||startup.mobile.webvisor.com^$all
 ||startup-mobile.ap.yandex-net.ru^$all
+||advertising.amazon.dev^$all
 ||asttoxa.ru^$all
 ||inapps.af-sdk.com^$all
 ||cdn-settings.af-sdk.com^$all
@@ -981,6 +982,9 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||full-porn.com^$all
+||elgranonan.com^$all
+||fujinkoron.jp^$all
 ||biz.nv.ua^$all
 ||linkvertise.com^$all
 ||remontka.pro^$all
@@ -1237,7 +1241,6 @@
 ||timeshighereducation.com^$all
 ||article.auone.jp^$all
 ||s.kabutan.jp^$all
-||full-porn.com^$all
 ||fishingjapan.jp^$all
 ||greatandhra.com^$all
 ||meteo60.fr^$all

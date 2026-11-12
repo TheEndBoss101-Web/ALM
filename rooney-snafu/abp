@@ -75958,3 +75958,13 @@
 ||monitor.ksearchnet.com^$all
 ||cnstats.ksearchnet.com^$all
 ||www.stats.ksearchnet.com^$all
+||stats.thecut.com^$all
+||thecut.com^$all
+||metrics.thecut.com^$all
+||linkst.thecut.com^$all
+||viewability.concert.io^$all
+||bids-gke-verify.concert.io^$all
+||podium.concert.io^$all
+||api.concert.io^$all
+||create.concert.io^$all
+||www.concert.io^$all

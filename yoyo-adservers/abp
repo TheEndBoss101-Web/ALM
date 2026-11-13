@@ -660,7 +660,6 @@
 ||adserver.o2.pl^$all
 ||adserver.oddschecker.com^$all
 ||adserver.omroepzeeland.nl^$all
-||adserver.otthonom.hu^$all
 ||adserver.pampa.com.br^$all
 ||adserver.piksel.mk^$all
 ||adserver.pl^$all
@@ -997,7 +996,6 @@
 ||banners.adultfriendfinder.com^$all
 ||banners.amigos.com^$all
 ||banners.asiafriendfinder.com^$all
-||banners.babylon-x.com^$all
 ||banners.bol.com.br^$all
 ||banners.cams.com^$all
 ||banners.czi.cz^$all
@@ -1703,7 +1701,6 @@
 ||freepay.com^$all
 ||freestats.com^$all
 ||freestats.tv^$all
-||freewebcounter.com^$all
 ||freewheel.com^$all
 ||freewheel.tv^$all
 ||freezingbuilding.com^$all
@@ -2026,11 +2023,13 @@
 ||largebrass.com^$all
 ||laughcloth.com^$all
 ||launchbit.com^$all
+||layer-ad.de^$all
 ||layer-ads.de^$all
 ||lazybumblebee.com^$all
 ||lbn.ru^$all
 ||lead02.com^$all
 ||leadboltads.net^$all
+||leadclick.com^$all
 ||leadinfo.net^$all
 ||leadingedgecash.com^$all
 ||leadplace.fr^$all
@@ -2081,9 +2080,9 @@
 ||linkprice.com^$all
 ||linkrain.com^$all
 ||linkreferral.com^$all
+||links-ranking.de^$all
 ||links.email.crunchbase.com^$all
 ||links.housekeep.com^$all
-||links.prosservice.fr^$all
 ||links.zoopla.co.uk^$all
 ||linksoutside.com^$all
 ||linkstable.com^$all
@@ -2092,6 +2091,7 @@
 ||linksynergy.com^$all
 ||linktarget.com^$all
 ||linkvertise.com^$all
+||liquidad.narrowcastmedia.com^$all
 ||litix.io^$all
 ||live.trmzum.com^$all
 ||liveadexchanger.com^$all
@@ -2393,6 +2393,7 @@
 ||offerforge.com^$all
 ||offermatica.com^$all
 ||offers.gateway-lts450.com^$all
+||offers.ltsc-has.com^$all
 ||offshoregeology.com^$all
 ||ogads-pa.googleapis.com^$all
 ||oglasi.posjetnica.com^$all
@@ -2788,7 +2789,6 @@
 ||rtbadzesto.com^$all
 ||rtbflairads.com^$all
 ||rtbplatform.net^$all
-||rtbpop.com^$all
 ||rtmark.net^$all
 ||rtxplatform.com^$all
 ||ru4.com^$all
@@ -3497,7 +3497,6 @@
 ||www.photo-ads.co.uk^$all
 ||www8.glam.com^$all
 ||wwwpromoter.com^$all
-||x-traceur.com^$all
 ||x6.yakiuchi.com^$all
 ||xad.com^$all
 ||xapads.com^$all

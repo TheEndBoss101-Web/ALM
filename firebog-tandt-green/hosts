@@ -23,6 +23,7 @@
 0.0.0.0 admediasales.com
 0.0.0.0 admetrics.events
 0.0.0.0 adnext.co
+0.0.0.0 adnz.co
 0.0.0.0 adrsbl.io
 0.0.0.0 adrtx.net
 0.0.0.0 adscore.com
@@ -4342,6 +4343,7 @@
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.aimtell.com
 0.0.0.0 analytics.algolia.com
+0.0.0.0 analytics.alvarezrosa.com
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.api.justeattakeaway.com
 0.0.0.0 analytics.apnewsregistry.com
@@ -4354,6 +4356,7 @@
 0.0.0.0 analytics.bhaskarsaikia.in
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.bomiv.com
+0.0.0.0 analytics.bucks.helixo.co
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.carbaselive.com
 0.0.0.0 analytics.chegg.com
@@ -4623,6 +4626,7 @@
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.seonintelligence.com
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cdn.visits.dqapis.com
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.api.instant.one
@@ -4758,6 +4762,7 @@
 0.0.0.0 d2gt2ux04o03l1.cloudfront.net
 0.0.0.0 dadi.technology
 0.0.0.0 dash.getsitecontrol.com
+0.0.0.0 dash.kryon.one
 0.0.0.0 data.circulate.com
 0.0.0.0 data.debugbear.com
 0.0.0.0 data.digitalks.az
@@ -4811,6 +4816,7 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.venatusmedia.com
+0.0.0.0 edge.wingify.net
 0.0.0.0 eel.transistor.fm
 0.0.0.0 emrld.cc
 0.0.0.0 enc-90128738.b-cdn.net
@@ -5201,6 +5207,7 @@
 0.0.0.0 neulion.vo.llnwd.net
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsletters.nationalgeographic.com
+0.0.0.0 nexus.firecrown.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
 0.0.0.0 noa.yahoo.com
@@ -5422,6 +5429,7 @@
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rw.marchex.io
+0.0.0.0 rybbit-analytics.livecounts.io
 0.0.0.0 rybbit.sg-app.com
 0.0.0.0 s.autopilotapp.com
 0.0.0.0 s.axon.ai
@@ -5636,6 +5644,7 @@
 0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
+0.0.0.0 tag.decentriq.com
 0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
@@ -7092,6 +7101,7 @@
 0.0.0.0 cactus.joybuy.com
 0.0.0.0 capital.com
 0.0.0.0 cdapi.collegedunia.com
+0.0.0.0 cdid.trip.com
 0.0.0.0 cdn.eaec.fpfis.tech.ec.europa.eu
 0.0.0.0 cdp.howtotrade.com
 0.0.0.0 chloro.trip.com
@@ -7271,6 +7281,7 @@
 0.0.0.0 fp.uncensored.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-events.theintercept.com
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
@@ -7456,6 +7467,7 @@
 0.0.0.0 op.dragonfru.it
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
+0.0.0.0 otel-gw.booking.com
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 p.codio.com
 0.0.0.0 p.controld.com
@@ -7553,6 +7565,7 @@
 0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 rfk.biglots.com
 0.0.0.0 ring.staticmoly.me
+0.0.0.0 riskpoc.trip.com
 0.0.0.0 roas-service.store-services-prod.remarkable.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
@@ -7586,6 +7599,7 @@
 0.0.0.0 sherlock-events-sampler.ebay.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
+0.0.0.0 sink.gw.booking.com
 0.0.0.0 sjc.cloud.optable.co
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com

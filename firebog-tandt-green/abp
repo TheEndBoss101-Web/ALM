@@ -23,6 +23,7 @@
 ||admediasales.com^$all
 ||admetrics.events^$all
 ||adnext.co^$all
+||adnz.co^$all
 ||adrsbl.io^$all
 ||adrtx.net^$all
 ||adscore.com^$all
@@ -4342,6 +4343,7 @@
 ||analytics.agoda.com^$all
 ||analytics.aimtell.com^$all
 ||analytics.algolia.com^$all
+||analytics.alvarezrosa.com^$all
 ||analytics.amakings.com^$all
 ||analytics.api.justeattakeaway.com^$all
 ||analytics.apnewsregistry.com^$all
@@ -4354,6 +4356,7 @@
 ||analytics.bhaskarsaikia.in^$all
 ||analytics.bitrix.info^$all
 ||analytics.bomiv.com^$all
+||analytics.bucks.helixo.co^$all
 ||analytics.carambo.la^$all
 ||analytics.carbaselive.com^$all
 ||analytics.chegg.com^$all
@@ -4623,6 +4626,7 @@
 ||cdn.ravm.tv^$all
 ||cdn.seonintelligence.com^$all
 ||cdn.usefathom.com^$all
+||cdn.visits.dqapis.com^$all
 ||cdns.brsrvr.com^$all
 ||cf-pixelfront-analytics.widencdn.net^$all
 ||cf.api.instant.one^$all
@@ -4758,6 +4762,7 @@
 ||d2gt2ux04o03l1.cloudfront.net^$all
 ||dadi.technology^$all
 ||dash.getsitecontrol.com^$all
+||dash.kryon.one^$all
 ||data.circulate.com^$all
 ||data.debugbear.com^$all
 ||data.digitalks.az^$all
@@ -4811,6 +4816,7 @@
 ||ecommstats.s3.amazonaws.com^$all
 ||edge.bredg.com^$all
 ||edge.venatusmedia.com^$all
+||edge.wingify.net^$all
 ||eel.transistor.fm^$all
 ||emrld.cc^$all
 ||enc-90128738.b-cdn.net^$all
@@ -5201,6 +5207,7 @@
 ||neulion.vo.llnwd.net^$all
 ||newsanalytics.com.au^$all
 ||newsletters.nationalgeographic.com^$all
+||nexus.firecrown.com^$all
 ||ninja.onap.io^$all
 ||nitrous-analytics.s3.amazonaws.com^$all
 ||noa.yahoo.com^$all
@@ -5422,6 +5429,7 @@
 ||rum.uptime.com^$all
 ||rumstat.cdnvideo.ru^$all
 ||rw.marchex.io^$all
+||rybbit-analytics.livecounts.io^$all
 ||rybbit.sg-app.com^$all
 ||s.autopilotapp.com^$all
 ||s.axon.ai^$all
@@ -5636,6 +5644,7 @@
 ||tag.atom.gamedistribution.com^$all
 ||tag.aumago.com^$all
 ||tag.brandcdn.com^$all
+||tag.decentriq.com^$all
 ||tag.digops.sincro.io^$all
 ||tag.elevaate.io^$all
 ||tag.flagship.io^$all
@@ -7092,6 +7101,7 @@
 ||cactus.joybuy.com^$all
 ||capital.com^$all
 ||cdapi.collegedunia.com^$all
+||cdid.trip.com^$all
 ||cdn.eaec.fpfis.tech.ec.europa.eu^$all
 ||cdp.howtotrade.com^$all
 ||chloro.trip.com^$all
@@ -7271,6 +7281,7 @@
 ||fp.uncensored.com^$all
 ||fpa-cdn.adweek.com^$all
 ||fpa-cdn.arstechnica.com^$all
+||fpa-events.theintercept.com^$all
 ||fpc.fingerprint.com^$all
 ||fpt.microsoft.com^$all
 ||fresnel-events.vimeocdn.com^$all
@@ -7456,6 +7467,7 @@
 ||op.dragonfru.it^$all
 ||ophan.theguardian.com^$all
 ||optimizely.techtarget.com^$all
+||otel-gw.booking.com^$all
 ||otel-mobile.doordash.com^$all
 ||p.codio.com^$all
 ||p.controld.com^$all
@@ -7553,6 +7565,7 @@
 ||researchlog.dbresearch.com^$all
 ||rfk.biglots.com^$all
 ||ring.staticmoly.me^$all
+||riskpoc.trip.com^$all
 ||roas-service.store-services-prod.remarkable.com^$all
 ||rps-p2.rockpapershotgun.com^$all
 ||rps-uk.rockpapershotgun.com^$all
@@ -7586,6 +7599,7 @@
 ||sherlock-events-sampler.ebay.com^$all
 ||shopmetric.rediff.com^$all
 ||sid.nordstrom.com^$all
+||sink.gw.booking.com^$all
 ||sjc.cloud.optable.co^$all
 ||slipstream.skyscanner.net^$all
 ||smetrics.couponcabin.com^$all

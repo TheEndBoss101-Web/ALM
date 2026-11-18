@@ -4850,6 +4850,7 @@
 ||event.api.instant.one^$all
 ||event.collector.scopely.io^$all
 ||event.instiengage.com^$all
+||event.prod.asgard.hullabalook.com^$all
 ||event.syftdata.com^$all
 ||event.syndigo.cloud^$all
 ||event.webcollage.net^$all
@@ -4952,6 +4953,7 @@
 ||galileotelemetry.tencent.com^$all
 ||ganon.yahoo.com^$all
 ||gateway.foresee.com^$all
+||gator.volces.com^$all
 ||gcp.fasthorse.workers.dev^$all
 ||genesis.malwarebytes.com^$all
 ||geo.bdg.com^$all
@@ -5211,6 +5213,7 @@
 ||nexus.firecrown.com^$all
 ||ninja.onap.io^$all
 ||nitrous-analytics.s3.amazonaws.com^$all
+||nlog.instajob.ai^$all
 ||noa.yahoo.com^$all
 ||noflake-aggregator-http.narvar.com^$all
 ||nojscontainer.pepperjam.com^$all
@@ -5374,6 +5377,7 @@
 ||pulse.shopflo.com^$all
 ||pussy.org^$all
 ||pv-track.pxtrkapp.com^$all
+||pv-track.venatus.com^$all
 ||px-cdn.net^$all
 ||px.marchex.io^$all
 ||px.mountain.com^$all
@@ -5458,6 +5462,7 @@
 ||session.timecommerce.net^$all
 ||sessions.embeddables.com^$all
 ||sftrack.searchforce.net^$all
+||sg-fp.apitd.net^$all
 ||sgali-mcs.byteoversea.com^$all
 ||sgm-w.jd.com^$all
 ||shared.65twenty.com^$all
@@ -7066,6 +7071,7 @@
 ||apm.qwant.com^$all
 ||appanalysis.banggood.com^$all
 ||aptoide-mmp.aptoide.com^$all
+||arc.msn.com^$all
 ||asanalytics.booking.com^$all
 ||ats.alot.com^$all
 ||aurum.tirto.id^$all
@@ -7536,6 +7542,7 @@
 ||private.wccftech.com^$all
 ||prod-events.nykaa.com^$all
 ||prod-foxkit.kts.fox^$all
+||prodregistryv2.org^$all
 ||prop.astonvillanews.co.uk^$all
 ||proxima.midjourney.com^$all
 ||pt.blubrry.com^$all

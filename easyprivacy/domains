@@ -4850,6 +4850,7 @@ event.api.drift.com
 event.api.instant.one
 event.collector.scopely.io
 event.instiengage.com
+event.prod.asgard.hullabalook.com
 event.syftdata.com
 event.syndigo.cloud
 event.webcollage.net
@@ -4952,6 +4953,7 @@ ga.webdigi.co.uk
 galileotelemetry.tencent.com
 ganon.yahoo.com
 gateway.foresee.com
+gator.volces.com
 gcp.fasthorse.workers.dev
 genesis.malwarebytes.com
 geo.bdg.com
@@ -5211,6 +5213,7 @@ newsletters.nationalgeographic.com
 nexus.firecrown.com
 ninja.onap.io
 nitrous-analytics.s3.amazonaws.com
+nlog.instajob.ai
 noa.yahoo.com
 noflake-aggregator-http.narvar.com
 nojscontainer.pepperjam.com
@@ -5374,6 +5377,7 @@ pulse.ecmapps.com
 pulse.shopflo.com
 pussy.org
 pv-track.pxtrkapp.com
+pv-track.venatus.com
 px-cdn.net
 px.marchex.io
 px.mountain.com
@@ -5458,6 +5462,7 @@ session.bugsnag.kindle.amazon.dev
 session.timecommerce.net
 sessions.embeddables.com
 sftrack.searchforce.net
+sg-fp.apitd.net
 sgali-mcs.byteoversea.com
 sgm-w.jd.com
 shared.65twenty.com
@@ -7066,6 +7071,7 @@ aplus.aliexpress.com
 apm.qwant.com
 appanalysis.banggood.com
 aptoide-mmp.aptoide.com
+arc.msn.com
 asanalytics.booking.com
 ats.alot.com
 aurum.tirto.id
@@ -7536,6 +7542,7 @@ privacyfriendly.netlify.app
 private.wccftech.com
 prod-events.nykaa.com
 prod-foxkit.kts.fox
+prodregistryv2.org
 prop.astonvillanews.co.uk
 proxima.midjourney.com
 pt.blubrry.com

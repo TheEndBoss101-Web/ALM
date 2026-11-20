@@ -88,7 +88,12 @@
 ||cbdatatracker.com^$all
 ||cdjbf8trk.com^$all
 ||cdn-vitals.com^$all
+||cdn.a9f3k7z2m1.com^$all
+||cdn.m2z7r9k4p1.com^$all
+||cdn.q4x8n6b2t5.com^$all
 ||cdn.sy-d.io^$all
+||cdn.t2037ulzqct5.com^$all
+||cdn.x7k9m2q4z8r1.com^$all
 ||cdnhst.xyz^$all
 ||cdnlogs.org^$all
 ||cdnwidget.com^$all
@@ -109,6 +114,7 @@
 ||cnna.io^$all
 ||cntxtfl.com^$all
 ||confiant-integrations.net^$all
+||connext-fd-gnbrate4fjhjb3f7.z01.azurefd.net^$all
 ||convead.io^$all
 ||convertlink.com^$all
 ||coolretargeting.com^$all
@@ -208,6 +214,7 @@
 ||g1782759016.co^$all
 ||g1980843350.co^$all
 ||g2575096355.co^$all
+||g2insights-fd-a0gpgwa4fycxd9d4.z01.azurefd.net^$all
 ||g594253006.co^$all
 ||g792337340.co^$all
 ||g792337341.co^$all
@@ -4333,6 +4340,7 @@
 ||analytics-ipv6.tiktokw.us^$all
 ||analytics-prd.aws.wehaa.net^$all
 ||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^$all
+||analytics-prod.pubgen.org^$all
 ||analytics-production.hapyak.com^$all
 ||analytics-scripts.cablelabs.com^$all
 ||analytics-sg.tiktok.com^$all
@@ -4860,6 +4868,7 @@
 ||eventgateway.soundcloud.com^$all
 ||eventlog.chatlead.com^$all
 ||eventlog.inspsearchapi.com^$all
+||eventpiper.vlcapi.net^$all
 ||events-endpoint.pointandplace.com^$all
 ||events-ingestion-helpcenter.services.gorgias.help^$all
 ||events-ocu.zipify.com^$all
@@ -6923,7 +6932,6 @@
 ||tracking-api.razor.media^$all
 ||tracking.smartmeapp.com^$all
 ||tracking.univtec.com^$all
-||view.publitas.com^$all
 ||webpixel.smartmeapp.com^$all
 ||collector.schibsted.io^$all
 ||evt-api.ntm.eu^$all
@@ -7210,6 +7218,7 @@
 ||dd.auspost.com.au^$all
 ||dd.g2.com^$all
 ||dd.nytimes.com^$all
+||dd.reuters.com^$all
 ||dd.viator.com^$all
 ||ddome-tag.blablacar.com^$all
 ||deliveroo.com^$all
@@ -44619,9 +44628,6 @@
 ||rtm-tracking.zozo.jp^$all
 ||sgtm.cmoa.jp^$all
 ||stats.nhk.or.jp^$all
-||sy.ameba.jp^$all
-||sy.amebame.com^$all
-||sy.ameblo.jp^$all
 ||t.rentio.jp^$all
 ||t.syosetu.org^$all
 ||temp.twicomi.com^$all

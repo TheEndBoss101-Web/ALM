@@ -6992,7 +6992,6 @@
 ||acjs.aliyun.com^$all
 ||activity.fiverr.com^$all
 ||adc-js.nine.com.au^$all
-||adl.bankofthewest.com^$all
 ||adtech-events.bookmyshow.com^$all
 ||adv.drtuber.com^$all
 ||aegis.trovo.live^$all
@@ -7018,7 +7017,6 @@
 ||analytics.3c5.com^$all
 ||analytics.academy.com^$all
 ||analytics.ahrefs.dev^$all
-||analytics.archive.org^$all
 ||analytics.atom.com^$all
 ||analytics.bitchute.com^$all
 ||analytics.brave.com^$all
@@ -7083,6 +7081,7 @@
 ||aptoide-mmp.aptoide.com^$all
 ||arc.msn.com^$all
 ||asanalytics.booking.com^$all
+||athena.archive.org^$all
 ||ats.alot.com^$all
 ||aurum.tirto.id^$all
 ||b2c-unleash-proxy.fresha.com^$all
@@ -7303,7 +7302,11 @@
 ||fp.uncensored.com^$all
 ||fpa-cdn.adweek.com^$all
 ||fpa-cdn.arstechnica.com^$all
+||fpa-cdn.nbcnews.com^$all
+||fpa-cdn.today.com^$all
+||fpa-events.nbcnews.com^$all
 ||fpa-events.theintercept.com^$all
+||fpa-events.today.com^$all
 ||fpc.fingerprint.com^$all
 ||fpt.microsoft.com^$all
 ||fresnel-events.vimeocdn.com^$all
@@ -7625,6 +7628,7 @@
 ||sherlock-events-sampler.ebay.com^$all
 ||shopmetric.rediff.com^$all
 ||sid.nordstrom.com^$all
+||sink.archive.org^$all
 ||sink.gw.booking.com^$all
 ||sjc.cloud.optable.co^$all
 ||slipstream.skyscanner.net^$all

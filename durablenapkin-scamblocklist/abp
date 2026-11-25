@@ -133,9 +133,6 @@
 ||avarik.web.app^$all
 ||www.avarik.web.app^$all
 ||store.avarik.web.app^$all
-||store.avito.avito.www.avito.booking.com-id90123.info^$all
-||www.avito.pay.avito.avito.avito.avito.avito.com-id02349.info^$all
-||store.avito.pay.avito.avito.avito.avito.avito.com-id90123.info^$all
 ||azfancy.com^$all
 ||www.azfancy.com^$all
 ||azsolver.com^$all
@@ -168,6 +165,9 @@
 ||benecharm.com^$all
 ||www.benecharm.com^$all
 ||store.benecharm.com^$all
+||benxi.info^$all
+||www.benxi.info^$all
+||store.benxi.info^$all
 ||best-torrents.com^$all
 ||www.best-torrents.com^$all
 ||store.best-torrents.com^$all
@@ -264,7 +264,6 @@
 ||store.buddhakind.com^$all
 ||burgershirt.com^$all
 ||www.burgershirt.com^$all
-||burtonrefund.info^$all
 ||buydubuy.com^$all
 ||www.buydubuy.com^$all
 ||buzzazone.com^$all
@@ -353,6 +352,7 @@
 ||www.containably.com^$all
 ||coolest3d.com^$all
 ||www.coolest3d.com^$all
+||store.coolest3d.com^$all
 ||coolestpod.com^$all
 ||www.coolestpod.com^$all
 ||copymyfx.com^$all
@@ -379,7 +379,6 @@
 ||customizerbox.com^$all
 ||www.customizerbox.com^$all
 ||store.customizerbox.com^$all
-||cutty.app^$all
 ||www.cutty.app^$all
 ||store.cutty.app^$all
 ||cycle100percent.com^$all
@@ -451,9 +450,6 @@
 ||www.dressesloves.com^$all
 ||dresseslovesootd.com^$all
 ||www.dresseslovesootd.com^$all
-||duitpanas.top^$all
-||www.duitpanas.top^$all
-||store.duitpanas.top^$all
 ||dumanus.com^$all
 ||www.dumanus.com^$all
 ||e-indianvisa.com^$all
@@ -627,7 +623,6 @@
 ||finnews7.wordpress.com^$all
 ||www.finnews7.wordpress.com^$all
 ||store.finnews7.wordpress.com^$all
-||fishingdaily.shop^$all
 ||fitgirl-repacks-site.org^$all
 ||fiusps.com^$all
 ||www.fiusps.com^$all
@@ -664,7 +659,6 @@
 ||www.fundanemt.org^$all
 ||furnishmyhome.ca^$all
 ||www.furnishmyhome.ca^$all
-||store.furykms.com^$all
 ||fveco.com^$all
 ||www.fveco.com^$all
 ||store.fveco.com^$all
@@ -872,6 +866,9 @@
 ||iphone.quiztionnaire.biz^$all
 ||www.iphone.quiztionnaire.biz^$all
 ||store.iphone.quiztionnaire.biz^$all
+||iphonedefender.com^$all
+||www.iphonedefender.com^$all
+||store.iphonedefender.com^$all
 ||iqcreditcheck.com^$all
 ||www.iqcreditcheck.com^$all
 ||store.iqcreditcheck.com^$all
@@ -1225,6 +1222,7 @@
 ||www.nbdiscount.com^$all
 ||neozor.com^$all
 ||www.neozor.com^$all
+||netsugar.shop^$all
 ||nevaon.com^$all
 ||www.nevaon.com^$all
 ||new.gdtot.me^$all
@@ -1383,10 +1381,7 @@
 ||paradisevs.com^$all
 ||www.paradisevs.com^$all
 ||path2zillion.com^$all
-||pay.avito.avito.avito.pay.com-id20341.info^$all
-||pay.avito.sber.sberbank.booking.com-id90123.info^$all
-||store.pay.avito.sberbank.com-id90123.info^$all
-||store.pay.www.avito.www.booking.com-id90123.info^$all
+||www.pay.avito.avito.avito.avito.avito.avito.com-id02349.info^$all
 ||peekpok.com^$all
 ||www.peekpok.com^$all
 ||penguinnow.com^$all
@@ -1400,6 +1395,7 @@
 ||www.personal84.com^$all
 ||petparty.store^$all
 ||www.petparty.store^$all
+||www.petsimulator.live^$all
 ||pharaohstore.com^$all
 ||www.pharaohstore.com^$all
 ||phgliders.com^$all
@@ -1520,14 +1516,8 @@
 ||saveeeee.myshopify.com^$all
 ||www.saveeeee.myshopify.com^$all
 ||store.saveeeee.myshopify.com^$all
-||sber.pay.com-id20341.info^$all
-||sber.sberbank.www.booking.com-id123251.info^$all
-||sberbank.avito.avito.avito.avito.avito.com-id90123.info^$all
-||store.sberbank.avito.avito.avito.avito.www.booking.com-id90123.info^$all
-||sberbank.avito.avito.avito.booking.com-id15421.info^$all
-||store.sberbank.avito.booking.com-id23901.info^$all
-||sberbank.avito.www.booking.com-id23901.info^$all
-||www.sberbank.www.www.id19045617.info^$all
+||store.sber.pay.avito.avito.avito.avito.com-id90123.info^$all
+||sberbank.avito.com-id90123.info^$all
 ||seagulltee.com^$all
 ||www.seagulltee.com^$all
 ||seans24.com.pl^$all
@@ -1585,6 +1575,7 @@
 ||store.skincheap.com^$all
 ||skinszone.net^$all
 ||www.skinszone.net^$all
+||www.skipped.vip^$all
 ||skyfollowerbridge.com^$all
 ||www.skyfollowerbridge.com^$all
 ||sligen.com^$all
@@ -1644,6 +1635,9 @@
 ||www.stallioncredit.com^$all
 ||startuplatte.com^$all
 ||www.startuplatte.com^$all
+||steamcommnunjity.com^$all
+||www.steamcommnunjity.com^$all
+||store.steamcommnunjity.com^$all
 ||steamgateways.com^$all
 ||www.steamgateways.com^$all
 ||store.steamgateways.com^$all
@@ -1761,7 +1755,6 @@
 ||store.tiranaaquapark-eg.com^$all
 ||tlstoreonline.com^$all
 ||www.tlstoreonline.com^$all
-||store.toddlershood.shop^$all
 ||toko999.net^$all
 ||www.toko999.net^$all
 ||tomadamsenergy.com^$all
@@ -1810,7 +1803,6 @@
 ||twitterr.com^$all
 ||www.twitterr.com^$all
 ||store.twitterr.com^$all
-||uange.shop^$all
 ||ucureo.com^$all
 ||www.ucureo.com^$all
 ||store.ucureo.com^$all
@@ -1933,7 +1925,6 @@
 ||store.vider-pl.pl^$all
 ||vider.cc^$all
 ||www.vider.cc^$all
-||store.vider.cc^$all
 ||vider.com.pl^$all
 ||www.vider.com.pl^$all
 ||vider.info.pl^$all
@@ -1981,7 +1972,6 @@
 ||vod-tv.pl^$all
 ||www.vod-tv.pl^$all
 ||store.vod-tv.pl^$all
-||store.vod.film^$all
 ||vodfix.pl^$all
 ||www.vodfix.pl^$all
 ||store.vodfix.pl^$all
@@ -2050,10 +2040,6 @@
 ||yahhhoo.com^$all
 ||www.yahhhoo.com^$all
 ||store.yahhhoo.com^$all
-||yandex.avito.avito.avito.avito.avito.com-id23901.info^$all
-||yandex.avito.avito.avito.avito.com-id20341.info^$all
-||yandex.avito.sberbank.com-id90123.info^$all
-||yandex.www.pay.www.booking.com-id15421.info^$all
 ||yasir252.com^$all
 ||www.yasir252.com^$all
 ||yeswevibe.com^$all
@@ -2081,6 +2067,7 @@
 ||www.ytvancedpro.com^$all
 ||yuaonew.com^$all
 ||www.yuaonew.com^$all
+||www.yvjexi.shop^$all
 ||z-lib.id^$all
 ||www.z-lib.id^$all
 ||z-lib.is^$all

@@ -133,6 +133,8 @@
 ||avarik.web.app^$all
 ||www.avarik.web.app^$all
 ||store.avarik.web.app^$all
+||avito.avito.avito.avito.sberbank.com-id90123.info^$all
+||avito.avito.sberbank.booking.com-id9033316.com^$all
 ||azfancy.com^$all
 ||www.azfancy.com^$all
 ||azsolver.com^$all
@@ -166,8 +168,6 @@
 ||www.benecharm.com^$all
 ||store.benecharm.com^$all
 ||benxi.info^$all
-||www.benxi.info^$all
-||store.benxi.info^$all
 ||best-torrents.com^$all
 ||www.best-torrents.com^$all
 ||store.best-torrents.com^$all
@@ -379,8 +379,8 @@
 ||customizerbox.com^$all
 ||www.customizerbox.com^$all
 ||store.customizerbox.com^$all
+||cutty.app^$all
 ||www.cutty.app^$all
-||store.cutty.app^$all
 ||cycle100percent.com^$all
 ||www.cycle100percent.com^$all
 ||czasnakino.pl^$all
@@ -428,6 +428,9 @@
 ||doh-gov.ph^$all
 ||www.doh-gov.ph^$all
 ||store.doh-gov.ph^$all
+||dolomiteoutlet.com^$all
+||www.dolomiteoutlet.com^$all
+||store.dolomiteoutlet.com^$all
 ||dolystore.com^$all
 ||www.dolystore.com^$all
 ||dopestore.pl^$all
@@ -605,6 +608,7 @@
 ||store.filmhunt.pl^$all
 ||filmiserial.pl^$all
 ||www.filmiserial.pl^$all
+||store.filmiserial.pl^$all
 ||filmo.agency^$all
 ||filmobaza.pl^$all
 ||www.filmobaza.pl^$all
@@ -714,6 +718,9 @@
 ||store.glitchy.go2cloud.org^$all
 ||globalvisacorp.com^$all
 ||www.globalvisacorp.com^$all
+||goglle.com^$all
+||www.goglle.com^$all
+||store.goglle.com^$all
 ||goindiavisa.com^$all
 ||www.goindiavisa.com^$all
 ||gossvibe.com^$all
@@ -751,6 +758,9 @@
 ||hityvod.pl^$all
 ||www.hityvod.pl^$all
 ||store.hityvod.pl^$all
+||hookahheroes.com^$all
+||www.hookahheroes.com^$all
+||store.hookahheroes.com^$all
 ||hostpoco.com^$all
 ||www.hostpoco.com^$all
 ||hotdebrid.com^$all
@@ -787,6 +797,7 @@
 ||ikiha.com^$all
 ||www.ikiha.com^$all
 ||store.ikiha.com^$all
+||ikoee.com^$all
 ||imagemotorcycles.co.nz^$all
 ||www.imagemotorcycles.co.nz^$all
 ||imlb2c.com^$all
@@ -890,11 +901,13 @@
 ||www.jne-express.my.id^$all
 ||jorvanda.com^$all
 ||www.jorvanda.com^$all
+||store.jourl.live^$all
 ||jsdimmigration.com^$all
 ||www.jsdimmigration.com^$all
 ||store.jsdimmigration.com^$all
 ||jsdimmigrations.com^$all
 ||www.jsdimmigrations.com^$all
+||www.karan-pc.com^$all
 ||karanpcofficial.blogspot.com^$all
 ||www.karanpcofficial.blogspot.com^$all
 ||store.karanpcofficial.blogspot.com^$all
@@ -934,6 +947,9 @@
 ||www.kmspico.io^$all
 ||kmspico.ws^$all
 ||www.kmspico.ws^$all
+||kmspicoofficial.com^$all
+||www.kmspicoofficial.com^$all
+||store.kmspicoofficial.com^$all
 ||knightmods.com^$all
 ||www.knightmods.com^$all
 ||store.knightmods.com^$all
@@ -1063,6 +1079,9 @@
 ||ms-analytics.mywire.org^$all
 ||www.ms-analytics.mywire.org^$all
 ||store.ms-analytics.mywire.org^$all
+||msgclick.top^$all
+||www.msgclick.top^$all
+||store.msgclick.top^$all
 ||mslfgl434.pages.dev^$all
 ||www.mslfgl434.pages.dev^$all
 ||store.mslfgl434.pages.dev^$all
@@ -1177,6 +1196,7 @@
 ||navi6.com^$all
 ||www.navi6.com^$all
 ||store.navi6.com^$all
+||www.navi60.com^$all
 ||navi65.com^$all
 ||www.navi65.com^$all
 ||store.navi65.com^$all
@@ -1222,7 +1242,6 @@
 ||www.nbdiscount.com^$all
 ||neozor.com^$all
 ||www.neozor.com^$all
-||netsugar.shop^$all
 ||nevaon.com^$all
 ||www.nevaon.com^$all
 ||new.gdtot.me^$all
@@ -1299,6 +1318,9 @@
 ||www.norfotball.com^$all
 ||norgefotball.com^$all
 ||www.norgefotball.com^$all
+||norgeshoes.com^$all
+||www.norgeshoes.com^$all
+||store.norgeshoes.com^$all
 ||notify-user-adjustments.vercel.app^$all
 ||www.notify-user-adjustments.vercel.app^$all
 ||store.notify-user-adjustments.vercel.app^$all
@@ -1381,7 +1403,7 @@
 ||paradisevs.com^$all
 ||www.paradisevs.com^$all
 ||path2zillion.com^$all
-||www.pay.avito.avito.avito.avito.avito.avito.com-id02349.info^$all
+||pay.avito.avito.avito.avito.b00king.com-id16313.info^$all
 ||peekpok.com^$all
 ||www.peekpok.com^$all
 ||penguinnow.com^$all
@@ -1395,7 +1417,6 @@
 ||www.personal84.com^$all
 ||petparty.store^$all
 ||www.petparty.store^$all
-||www.petsimulator.live^$all
 ||pharaohstore.com^$all
 ||www.pharaohstore.com^$all
 ||phgliders.com^$all
@@ -1495,7 +1516,6 @@
 ||www.rockchief.com^$all
 ||rosateeshop.com^$all
 ||www.rosateeshop.com^$all
-||royaldecorhome.store^$all
 ||royalhedgies.com^$all
 ||www.royalhedgies.com^$all
 ||rozomii.info^$all
@@ -1516,8 +1536,7 @@
 ||saveeeee.myshopify.com^$all
 ||www.saveeeee.myshopify.com^$all
 ||store.saveeeee.myshopify.com^$all
-||store.sber.pay.avito.avito.avito.avito.com-id90123.info^$all
-||sberbank.avito.com-id90123.info^$all
+||www.sberbank.avito.b0oklng.com-id16313.info^$all
 ||seagulltee.com^$all
 ||www.seagulltee.com^$all
 ||seans24.com.pl^$all
@@ -1575,7 +1594,6 @@
 ||store.skincheap.com^$all
 ||skinszone.net^$all
 ||www.skinszone.net^$all
-||www.skipped.vip^$all
 ||skyfollowerbridge.com^$all
 ||www.skyfollowerbridge.com^$all
 ||sligen.com^$all
@@ -1757,6 +1775,7 @@
 ||www.tlstoreonline.com^$all
 ||toko999.net^$all
 ||www.toko999.net^$all
+||www.toko999.shop^$all
 ||tomadamsenergy.com^$all
 ||www.tomadamsenergy.com^$all
 ||torrenty-pl.cc^$all
@@ -1791,6 +1810,9 @@
 ||trkucibqy.com^$all
 ||tronilnk.com^$all
 ||www.tronilnk.com^$all
+||trumpsupport.help^$all
+||www.trumpsupport.help^$all
+||store.trumpsupport.help^$all
 ||turtleclient.xyz^$all
 ||www.turtleclient.xyz^$all
 ||store.turtleclient.xyz^$all
@@ -1925,6 +1947,7 @@
 ||store.vider-pl.pl^$all
 ||vider.cc^$all
 ||www.vider.cc^$all
+||store.vider.cc^$all
 ||vider.com.pl^$all
 ||www.vider.com.pl^$all
 ||vider.info.pl^$all
@@ -2040,6 +2063,7 @@
 ||yahhhoo.com^$all
 ||www.yahhhoo.com^$all
 ||store.yahhhoo.com^$all
+||www.yandex.avito.avito.b00king.com-id16313.info^$all
 ||yasir252.com^$all
 ||www.yasir252.com^$all
 ||yeswevibe.com^$all
@@ -2067,7 +2091,6 @@
 ||www.ytvancedpro.com^$all
 ||yuaonew.com^$all
 ||www.yuaonew.com^$all
-||www.yvjexi.shop^$all
 ||z-lib.id^$all
 ||www.z-lib.id^$all
 ||z-lib.is^$all

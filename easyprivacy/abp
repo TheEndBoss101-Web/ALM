@@ -4301,6 +4301,7 @@
 ||activity.wisepops.com^$all
 ||ad-shield.io^$all
 ||ad.aloodo.com^$all
+||adcanvas.com^$all
 ||ade.googlesyndication.com^$all
 ||adfox.yandex.ru^$all
 ||adlog.com.com^$all
@@ -7929,10 +7930,12 @@
 ||customer.homedepot.com^$all
 ||drfdisvc.walmart.com^$all
 ||event.evtm.53.com^$all
+||gtm.mozilla.org^$all
 ||idhtm.bb.com.br^$all
 ||idstatus.sky.com^$all
 ||img2021.navyfederal.org^$all
 ||imgs.signifyd.com^$all
+||ingest.t3.codes^$all
 ||l.ca.ovhcloud.com^$all
 ||log-185a61e7.bendigobank.com.au^$all
 ||log-2ffe60ee.westpac.com.au^$all
@@ -7947,6 +7950,7 @@
 ||tmetrix.my.chick-fil-a.com^$all
 ||tmx.bestbuy.com^$all
 ||tmx.td.com^$all
+||trc-events.taboola.com^$all
 ||u46.pnc.com^$all
 ||u47.pnc.com^$all
 ||w-profiling.cibc.com^$all

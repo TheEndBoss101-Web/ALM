@@ -133,8 +133,6 @@
 ||avarik.web.app^$all
 ||www.avarik.web.app^$all
 ||store.avarik.web.app^$all
-||avito.avito.avito.avito.sberbank.com-id90123.info^$all
-||avito.avito.sberbank.booking.com-id9033316.com^$all
 ||azfancy.com^$all
 ||www.azfancy.com^$all
 ||azsolver.com^$all
@@ -168,6 +166,8 @@
 ||www.benecharm.com^$all
 ||store.benecharm.com^$all
 ||benxi.info^$all
+||www.benxi.info^$all
+||store.benxi.info^$all
 ||best-torrents.com^$all
 ||www.best-torrents.com^$all
 ||store.best-torrents.com^$all
@@ -331,6 +331,7 @@
 ||cluckergifts.ecwid.com^$all
 ||www.cluckergifts.ecwid.com^$all
 ||store.cluckergifts.ecwid.com^$all
+||www.cma88.vip^$all
 ||cmoboy.com^$all
 ||www.cmoboy.com^$all
 ||store.cmoboy.com^$all
@@ -379,8 +380,8 @@
 ||customizerbox.com^$all
 ||www.customizerbox.com^$all
 ||store.customizerbox.com^$all
-||cutty.app^$all
 ||www.cutty.app^$all
+||store.cutty.app^$all
 ||cycle100percent.com^$all
 ||www.cycle100percent.com^$all
 ||czasnakino.pl^$all
@@ -628,6 +629,7 @@
 ||www.finnews7.wordpress.com^$all
 ||store.finnews7.wordpress.com^$all
 ||fitgirl-repacks-site.org^$all
+||www.fitgirl-repacks.vip^$all
 ||fiusps.com^$all
 ||www.fiusps.com^$all
 ||fixpub.com^$all
@@ -701,6 +703,7 @@
 ||www.getkmspico.com^$all
 ||getwavemax.com^$all
 ||www.getwavemax.com^$all
+||ggchallengemode.world^$all
 ||giftyweb.com^$all
 ||www.giftyweb.com^$all
 ||gig-os.com^$all
@@ -901,13 +904,11 @@
 ||www.jne-express.my.id^$all
 ||jorvanda.com^$all
 ||www.jorvanda.com^$all
-||store.jourl.live^$all
 ||jsdimmigration.com^$all
 ||www.jsdimmigration.com^$all
 ||store.jsdimmigration.com^$all
 ||jsdimmigrations.com^$all
 ||www.jsdimmigrations.com^$all
-||www.karan-pc.com^$all
 ||karanpcofficial.blogspot.com^$all
 ||www.karanpcofficial.blogspot.com^$all
 ||store.karanpcofficial.blogspot.com^$all
@@ -1196,7 +1197,6 @@
 ||navi6.com^$all
 ||www.navi6.com^$all
 ||store.navi6.com^$all
-||www.navi60.com^$all
 ||navi65.com^$all
 ||www.navi65.com^$all
 ||store.navi65.com^$all
@@ -1250,6 +1250,7 @@
 ||new.piratedrive.com^$all
 ||www.new.piratedrive.com^$all
 ||store.new.piratedrive.com^$all
+||store.new2.gdtot.sbs^$all
 ||newfootwearshop.com^$all
 ||www.newfootwearshop.com^$all
 ||newgstore.com^$all
@@ -1348,6 +1349,7 @@
 ||oflike.com^$all
 ||www.oflike.com^$all
 ||store.oflike.com^$all
+||store.ojlkimed.vip^$all
 ||okdebrid.com^$all
 ||www.okdebrid.com^$all
 ||oldcube.com^$all
@@ -1403,7 +1405,7 @@
 ||paradisevs.com^$all
 ||www.paradisevs.com^$all
 ||path2zillion.com^$all
-||pay.avito.avito.avito.avito.b00king.com-id16313.info^$all
+||store.pay.sber.pay.www.booking.com-id15421.info^$all
 ||peekpok.com^$all
 ||www.peekpok.com^$all
 ||penguinnow.com^$all
@@ -1536,7 +1538,14 @@
 ||saveeeee.myshopify.com^$all
 ||www.saveeeee.myshopify.com^$all
 ||store.saveeeee.myshopify.com^$all
-||www.sberbank.avito.b0oklng.com-id16313.info^$all
+||store.sber.avito.pay.com-id01251.info^$all
+||www.sber.avito.pay.www.booking.com-id20341.info^$all
+||www.sber.sber.booking.com-id20341.info^$all
+||store.sberbank.avito.avito.avito.avito.avito.booking.com-id01251.info^$all
+||store.sberbank.avito.booking.com-id02349.info^$all
+||www.sberbank.avito.pay.www.booking.com-id02349.info^$all
+||www.sberbank.pay.avito.avito.avito.avito.sber.com-id02349.info^$all
+||store.sberbank.www.booking.com-id02349.info^$all
 ||seagulltee.com^$all
 ||www.seagulltee.com^$all
 ||seans24.com.pl^$all
@@ -1775,7 +1784,6 @@
 ||www.tlstoreonline.com^$all
 ||toko999.net^$all
 ||www.toko999.net^$all
-||www.toko999.shop^$all
 ||tomadamsenergy.com^$all
 ||www.tomadamsenergy.com^$all
 ||torrenty-pl.cc^$all
@@ -1945,7 +1953,6 @@
 ||vider-pl.pl^$all
 ||www.vider-pl.pl^$all
 ||store.vider-pl.pl^$all
-||vider.cc^$all
 ||www.vider.cc^$all
 ||store.vider.cc^$all
 ||vider.com.pl^$all
@@ -1979,8 +1986,6 @@
 ||www.visagov.com^$all
 ||visasimple.com^$all
 ||www.visasimple.com^$all
-||visatoindia.org^$all
-||www.visatoindia.org^$all
 ||visumbuitenland.nl^$all
 ||www.visumbuitenland.nl^$all
 ||store.visumbuitenland.nl^$all
@@ -2063,7 +2068,6 @@
 ||yahhhoo.com^$all
 ||www.yahhhoo.com^$all
 ||store.yahhhoo.com^$all
-||www.yandex.avito.avito.b00king.com-id16313.info^$all
 ||yasir252.com^$all
 ||www.yasir252.com^$all
 ||yeswevibe.com^$all

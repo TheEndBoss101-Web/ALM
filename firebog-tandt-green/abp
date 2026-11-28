@@ -183,6 +183,7 @@
 ||ffe390afd658c19dcbf707e0597b846d.de^$all
 ||floors.dev^$all
 ||fn-pz.com^$all
+||formalytics.dev^$all
 ||fourtimessmelly.com^$all
 ||fpapi.io^$all
 ||fpaudience.com^$all
@@ -2141,6 +2142,7 @@
 ||pages05.net^$all
 ||pagesense.io^$all
 ||pageview.click^$all
+||pandect.es^$all
 ||parametre.online^$all
 ||parklogic.com^$all
 ||parrable.com^$all
@@ -4781,6 +4783,7 @@
 ||dash.kryon.one^$all
 ||data.cdnbasket.net^$all
 ||data.circulate.com^$all
+||data.clickocean.io^$all
 ||data.debugbear.com^$all
 ||data.digitalks.az^$all
 ||data.eetech.com^$all
@@ -5211,6 +5214,7 @@
 ||monitor-frontend-collector.a.bybit-aws.com^$all
 ||monitor.agenedia.com^$all
 ||monitor.fraudblocker.com^$all
+||monitor.tapper.ai^$all
 ||monitoring.iraiser.eu^$all
 ||monorail-edge.shopifysvc.com^$all
 ||mormont.gamer-network.net^$all
@@ -7008,6 +7012,7 @@
 ||adv.drtuber.com^$all
 ||aegis.trovo.live^$all
 ||affiliate.kinguin.net^$all
+||affiliates.purevpn.com^$all
 ||aitotop.com^$all
 ||alb.reddit.com^$all
 ||als-svc.nytimes.com^$all
@@ -7041,6 +7046,7 @@
 ||analytics.eip.telegraph.co.uk^$all
 ||analytics.eternagame.org^$all
 ||analytics.faceitanalytics.com^$all
+||analytics.fibwatch.com^$all
 ||analytics.footballdb.com^$all
 ||analytics.freemake.com^$all
 ||analytics.gamesdrive.net^$all
@@ -7352,6 +7358,7 @@
 ||grgnsht.nzxt.com^$all
 ||grow.urbandictionary.network^$all
 ||gtm.lercio.it^$all
+||gtm.mozilla.org^$all
 ||gtm.wise.com^$all
 ||gtm.xtb.com^$all
 ||gtreus.aliexpress.com^$all
@@ -7376,6 +7383,7 @@
 ||info.onwd.com^$all
 ||ingest.coincodex.com^$all
 ||ingest.make.rvohealth.com^$all
+||ingest.t3.codes^$all
 ||ingress.linktr.ee^$all
 ||insights-mxp-cdn.coursecareers.com^$all
 ||insights.builderprofile.aws.dev^$all
@@ -7788,6 +7796,7 @@
 ||thtk.temu.com^$all
 ||tif.ionos.com^$all
 ||tilanalytics.timesinternet.in^$all
+||tips.delt.io^$all
 ||titanprod.narvar.com^$all
 ||tms.abconsent.com^$all
 ||tms.eharmony.ca^$all
@@ -7912,7 +7921,6 @@
 ||bing.com^$all
 ||gj.mmstat.com^$all
 ||oneid.mmstat.com^$all
-||analytics.fibwatch.com^$all
 ||bcdn-16c9d93d.bankofscotland.co.uk^$all
 ||cfa.fidelity.com^$all
 ||check2.bankofscotland.co.uk^$all
@@ -7932,27 +7940,26 @@
 ||customer.homedepot.com^$all
 ||drfdisvc.walmart.com^$all
 ||event.evtm.53.com^$all
-||gtm.mozilla.org^$all
 ||idhtm.bb.com.br^$all
 ||idstatus.sky.com^$all
 ||img2021.navyfederal.org^$all
 ||imgs.signifyd.com^$all
-||ingest.t3.codes^$all
 ||l.ca.ovhcloud.com^$all
 ||log-185a61e7.bendigobank.com.au^$all
 ||log-2ffe60ee.westpac.com.au^$all
 ||o-api.hotukdeals.com^$all
+||ocs.ameriprise.com^$all
 ||olacontent.schwab.com^$all
 ||qfp.intuit.com^$all
 ||rba-screen.healthsafe-id.com^$all
 ||rsx.afterpay.com^$all
 ||svc2.sc.com^$all
-||tips.delt.io^$all
 ||tm-eps.neutrino.nu^$all
 ||tmetrix.my.chick-fil-a.com^$all
 ||tmx.bestbuy.com^$all
 ||tmx.td.com^$all
 ||trc-events.taboola.com^$all
+||u44.pnc.com^$all
 ||u46.pnc.com^$all
 ||u47.pnc.com^$all
 ||w-profiling.cibc.com^$all
@@ -50966,7 +50973,6 @@
 ||affiliate.fsastore.com^$all
 ||affiliate.hsastore.com^$all
 ||affiliate.hypercentage.com^$all
-||affiliates.purevpn.com^$all
 ||affiliates.r2net.com^$all
 ||ag.gbc.criteo.com^$all
 ||agilenttechnologies.tt.omtrdc.net^$all

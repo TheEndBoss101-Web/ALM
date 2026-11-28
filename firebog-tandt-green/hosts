@@ -183,6 +183,7 @@
 0.0.0.0 ffe390afd658c19dcbf707e0597b846d.de
 0.0.0.0 floors.dev
 0.0.0.0 fn-pz.com
+0.0.0.0 formalytics.dev
 0.0.0.0 fourtimessmelly.com
 0.0.0.0 fpapi.io
 0.0.0.0 fpaudience.com
@@ -2141,6 +2142,7 @@
 0.0.0.0 pages05.net
 0.0.0.0 pagesense.io
 0.0.0.0 pageview.click
+0.0.0.0 pandect.es
 0.0.0.0 parametre.online
 0.0.0.0 parklogic.com
 0.0.0.0 parrable.com
@@ -4781,6 +4783,7 @@
 0.0.0.0 dash.kryon.one
 0.0.0.0 data.cdnbasket.net
 0.0.0.0 data.circulate.com
+0.0.0.0 data.clickocean.io
 0.0.0.0 data.debugbear.com
 0.0.0.0 data.digitalks.az
 0.0.0.0 data.eetech.com
@@ -5211,6 +5214,7 @@
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
 0.0.0.0 monitor.agenedia.com
 0.0.0.0 monitor.fraudblocker.com
+0.0.0.0 monitor.tapper.ai
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 mormont.gamer-network.net
@@ -7008,6 +7012,7 @@
 0.0.0.0 adv.drtuber.com
 0.0.0.0 aegis.trovo.live
 0.0.0.0 affiliate.kinguin.net
+0.0.0.0 affiliates.purevpn.com
 0.0.0.0 aitotop.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
@@ -7041,6 +7046,7 @@
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.eternagame.org
 0.0.0.0 analytics.faceitanalytics.com
+0.0.0.0 analytics.fibwatch.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
 0.0.0.0 analytics.gamesdrive.net
@@ -7352,6 +7358,7 @@
 0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 grow.urbandictionary.network
 0.0.0.0 gtm.lercio.it
+0.0.0.0 gtm.mozilla.org
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtm.xtb.com
 0.0.0.0 gtreus.aliexpress.com
@@ -7376,6 +7383,7 @@
 0.0.0.0 info.onwd.com
 0.0.0.0 ingest.coincodex.com
 0.0.0.0 ingest.make.rvohealth.com
+0.0.0.0 ingest.t3.codes
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 insights-mxp-cdn.coursecareers.com
 0.0.0.0 insights.builderprofile.aws.dev
@@ -7788,6 +7796,7 @@
 0.0.0.0 thtk.temu.com
 0.0.0.0 tif.ionos.com
 0.0.0.0 tilanalytics.timesinternet.in
+0.0.0.0 tips.delt.io
 0.0.0.0 titanprod.narvar.com
 0.0.0.0 tms.abconsent.com
 0.0.0.0 tms.eharmony.ca
@@ -7912,7 +7921,6 @@
 0.0.0.0 bing.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
-0.0.0.0 analytics.fibwatch.com
 0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
 0.0.0.0 cfa.fidelity.com
 0.0.0.0 check2.bankofscotland.co.uk
@@ -7932,27 +7940,26 @@
 0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
-0.0.0.0 gtm.mozilla.org
 0.0.0.0 idhtm.bb.com.br
 0.0.0.0 idstatus.sky.com
 0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgs.signifyd.com
-0.0.0.0 ingest.t3.codes
 0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-2ffe60ee.westpac.com.au
 0.0.0.0 o-api.hotukdeals.com
+0.0.0.0 ocs.ameriprise.com
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 qfp.intuit.com
 0.0.0.0 rba-screen.healthsafe-id.com
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 svc2.sc.com
-0.0.0.0 tips.delt.io
 0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tmetrix.my.chick-fil-a.com
 0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 trc-events.taboola.com
+0.0.0.0 u44.pnc.com
 0.0.0.0 u46.pnc.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
@@ -50965,7 +50972,6 @@
 0.0.0.0 affiliate.fsastore.com
 0.0.0.0 affiliate.hsastore.com
 0.0.0.0 affiliate.hypercentage.com
-0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.r2net.com
 0.0.0.0 ag.gbc.criteo.com
 0.0.0.0 agilenttechnologies.tt.omtrdc.net

@@ -982,6 +982,7 @@
 0.0.0.0 spielen.de
 0.0.0.0 m.facebook.com
 0.0.0.0 sp.manga.nicovideo.jp
+0.0.0.0 winfuture.de
 0.0.0.0 youjizz.com
 0.0.0.0 ekitan.com
 0.0.0.0 famitsu.com
@@ -1005,7 +1006,6 @@
 0.0.0.0 linkvertise.com
 0.0.0.0 remontka.pro
 0.0.0.0 allsoft.ru
-0.0.0.0 winfuture.de
 0.0.0.0 po-kaki-to.com
 0.0.0.0 kitco.com
 0.0.0.0 metasrc.com
@@ -3736,9 +3736,10 @@
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 graph.facebook.com
 0.0.0.0 app.adjust.com
+0.0.0.0 debutfiddle.com
+0.0.0.0 taboola.com
 0.0.0.0 recleymanager.blob.core.windows.net
 0.0.0.0 yandex.com.tr
-0.0.0.0 taboola.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 m.mradx.net
 0.0.0.0 adsdk.yandex.ru

@@ -982,6 +982,7 @@
 ||spielen.de^$all
 ||m.facebook.com^$all
 ||sp.manga.nicovideo.jp^$all
+||winfuture.de^$all
 ||youjizz.com^$all
 ||ekitan.com^$all
 ||famitsu.com^$all
@@ -1005,7 +1006,6 @@
 ||linkvertise.com^$all
 ||remontka.pro^$all
 ||allsoft.ru^$all
-||winfuture.de^$all
 ||po-kaki-to.com^$all
 ||kitco.com^$all
 ||metasrc.com^$all
@@ -3736,9 +3736,10 @@
 ||https-filtering-check.adtidy.org^$all
 ||graph.facebook.com^$all
 ||app.adjust.com^$all
+||debutfiddle.com^$all
+||taboola.com^$all
 ||recleymanager.blob.core.windows.net^$all
 ||yandex.com.tr^$all
-||taboola.com^$all
 ||googlesyndication.com^$all
 ||m.mradx.net^$all
 ||adsdk.yandex.ru^$all
